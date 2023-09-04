@@ -1,0 +1,1967 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2000">【武器】装弾数</text>
+<text id="2001">【武器】マガジン弾数</text>
+<text id="2002">【武器】ロックオン距離</text>
+<text id="2003">【武器】防御力</text>
+<text id="2004">【武器】近接適正</text>
+<text id="2005">【武器】サイズ</text>
+<text id="2006">【武器】属性</text>
+<text id="2007">%null%</text>
+<text id="2008">【武器】チャージ倍率</text>
+<text id="2009">【武器】衝撃値</text>
+<text id="2010">【武器】残留衝撃</text>
+<text id="2011">【武器】連射性能</text>
+<text id="2012">【武器】マガジンリロード</text>
+<text id="2013">【武器】PA減衰力</text>
+<text id="2014">【武器】PA貫通力</text>
+<text id="2015">【武器】チャージ中EN負荷</text>
+<text id="2016">【武器】リロードタイプ</text>
+<text id="2017">【武器】クリティカル適正</text>
+<text id="2018">【武器】チャージ後攻撃性能</text>
+<text id="2019">【武器】チャージ後衝撃性能</text>
+<text id="2020">【武器】最大チャージ時間</text>
+<text id="2021">【武器】冷却性能</text>
+<text id="2022">【武器】爆発範囲</text>
+<text id="2023">【武器】射程限界</text>
+<text id="2024">【武器】弾単価</text>
+<text id="2025">【武器】衝撃力（子弾丸）</text>
+<text id="2026">【武器】衝撃力（孫弾丸）</text>
+<text id="2027">【武器】残留衝撃（子弾丸）</text>
+<text id="2028">【武器】残留衝撃（孫弾丸）</text>
+<text id="2029">【武器】爆発範囲（子弾丸）</text>
+<text id="2030">【武器】爆発範囲（孫弾丸）</text>
+<text id="2031">【武器】クリティカル適正（子弾丸）</text>
+<text id="2032">【武器】クリティカル適正（孫弾丸）</text>
+<text id="2033">【武器】クリティカル適正（ひ孫弾丸）</text>
+<text id="2034">【武器】チャージ後衝撃蓄積性能</text>
+<text id="2035">【武器】チャージ後攻撃性能二段目</text>
+<text id="2036">【武器】チャージ後衝撃性能二段目</text>
+<text id="2037">【武器】チャージ後衝撃蓄積性能二段目</text>
+<text id="2038">【武器】二段チャージ時間</text>
+<text id="2039">【武器】チャージ時消費弾数</text>
+<text id="2040">【武器】二段チャージ時消費弾数</text>
+<text id="2041">【武器】ヒート値上昇量</text>
+<text id="2042">【武器】チャージ攻撃ヒート値上昇量</text>
+<text id="2043">【武器】二段チャージ攻撃ヒート値上昇量</text>
+<text id="2044">【武器】緊急冷却性能</text>
+<text id="2045">%null%</text>
+<text id="2046">%null%</text>
+<text id="2047">%null%</text>
+<text id="2048">%null%</text>
+<text id="2049">%null%</text>
+<text id="2050">【ブレード】加速時消費EN</text>
+<text id="2051">【ブレード】ブレードレンジ</text>
+<text id="2052">【ブレード】踏み込み性能</text>
+<text id="2053">%null%</text>
+<text id="2054">%null%</text>
+<text id="2055">%null%</text>
+<text id="2056">%null%</text>
+<text id="2057">%null%</text>
+<text id="2058">%null%</text>
+<text id="2059">%null%</text>
+<text id="2060">【シールド】ガード範囲</text>
+<text id="2061">【シールド】出力</text>
+<text id="2062">【シールド】耐衝撃性能</text>
+<text id="2063">【シールド】初期出力性能</text>
+<text id="2064">【シールド】初期出力維持時間</text>
+<text id="2065">【シールド】耐久性能</text>
+<text id="2066">【シールド】耐久回復性能</text>
+<text id="2067">【シールド】緊急時復帰性能</text>
+<text id="2090">【パーツ全般】攻撃性能</text>
+<text id="2091">%null%</text>
+<text id="2092">%null%</text>
+<text id="2093">%null%</text>
+<text id="2094">%null%</text>
+<text id="2095">%null%</text>
+<text id="2096">%null%</text>
+<text id="2097">%null%</text>
+<text id="2098">%null%</text>
+<text id="2099">%null%</text>
+<text id="2100">【武器】強化レベル( ソート用 )</text>
+<text id="2200">【アサルトドライヴ】使用可能回数</text>
+<text id="2201">【アサルトドライヴ】衝撃力</text>
+<text id="2202">【アサルトドライヴ】効果範囲</text>
+<text id="2203">【アサルトドライヴ】性能保証距離</text>
+<text id="2204">【アサルトドライヴ】耐久性能</text>
+<text id="2205">【アサルトドライヴ】維持時間</text>
+<text id="3000">【防具】AP</text>
+<text id="3001">【防具】 防御力：物理</text>
+<text id="3002">【防具】 防御力：EN</text>
+<text id="3003">【防具】弾薬回復アイテム容量</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">【防具】耐KE装甲</text>
+<text id="3011">【防具】耐TE装甲</text>
+<text id="3012">【防具】耐CE装甲</text>
+<text id="3013">【防具】安定性能（レイアウト側でテキスト指定）</text>
+<text id="3100">【HEAD】安定演算性能</text>
+<text id="3101">【HEAD】システム復元性能</text>
+<text id="3102">【HEAD】カメラ性能</text>
+<text id="3103">【HEAD】スキャン角度</text>
+<text id="3104">【HEAD】スキャン距離</text>
+<text id="3105">【HEAD】スキャン硬直時間</text>
+<text id="3200">【CORE】ブースターEN伝達効率</text>
+<text id="3201">【CORE】安定性能</text>
+<text id="3202">%null%</text>
+<text id="3203">【CORE】ジェネ出力伝達性能</text>
+<text id="3204">【CORE】ラジエーター性能</text>
+<text id="3300">【ARM】腕部積載許容量</text>
+<text id="3301">【ARM】反動制御</text>
+<text id="3302">【ARM】射撃運動性能</text>
+<text id="3303">【ARM】格闘適正</text>
+<text id="3400">【脚部】最大積載量（未使用）</text>
+<text id="3401">【脚部】安定性能</text>
+<text id="3402">【脚部】脚部積載許容量</text>
+<text id="3403">【脚部】ブレーキ性能</text>
+<text id="3404">【脚部】歩行性能</text>
+<text id="3405">【脚部】脚部運動性能</text>
+<text id="3406">【脚部】ジャンプ性能</text>
+<text id="3450">【脚部】走行性能</text>
+<text id="3451">【脚部】高速走行性能</text>
+<text id="3501">【GENE】コンデンサ容量</text>
+<text id="3502">【GENE】冷却性能</text>
+<text id="3503">【GENE】緊急冷却性能</text>
+<text id="3504">【GENE】緊急時EN回復割合</text>
+<text id="3505">【GENE】EN武器適正</text>
+<text id="3600">【FCS】ミサイルロック性能</text>
+<text id="3601">【FCS】二次ロック距離</text>
+<text id="3602">【FCS】二次ロック性能</text>
+<text id="3603">【FCS】マルチロック適正</text>
+<text id="3700">【ブースター】巡航推力（タンクは別テキスト）</text>
+<text id="3701">【ブースター】上昇推力</text>
+<text id="3702">【ブースター】上昇消費EN</text>
+<text id="3703">【ブースター】QB加速性能</text>
+<text id="3704">【ブースター】QB噴射時間</text>
+<text id="3705">【ブースター】QB消費EN</text>
+<text id="3706">【ブースター】QBリロードタイム</text>
+<text id="3707">【ブースター】アサルトブースト性能</text>
+<text id="3708">【ブースター】アサルトブースト消費EN</text>
+<text id="3709">【ブースター】QB耐荷重性能</text>
+<text id="3710">【ブースター】格闘攻撃加速性能</text>
+<text id="3711">【ブースター】格闘攻撃加速消費EN</text>
+<text id="10000">【弾丸】初速</text>
+<text id="10001">【弾丸】最高速度</text>
+<text id="10002">【弾丸】射撃時消費EN</text>
+<text id="10003">【弾丸】誘導性能</text>
+<text id="10004">【弾丸】同時発射数</text>
+<text id="10005">【弾丸】連続発射数</text>
+<text id="10006">【弾丸】リロード時間</text>
+<text id="10007">【弾丸】集弾性能（ミサイル以外）</text>
+<text id="10008">【弾丸】最大ロック数</text>
+<text id="10009">【弾丸】射撃反動</text>
+<text id="10010">【弾丸】性能保証射程</text>
+<text id="10011">【弾丸】有効射程</text>
+<text id="10012">【弾丸】射撃後消費EN</text>
+<text id="10013">【弾丸】誘導性能（使える方）</text>
+<text id="10014">【弾丸】弾速</text>
+<text id="10015">【弾丸】集弾性能（ミサイル）</text>
+<text id="10016">【弾丸】ミサイルロック時間</text>
+<text id="10017">【弾丸】誘導性能（小弾丸）</text>
+<text id="20005">【PC】総重量</text>
+<text id="20006">【PC】最大積載量</text>
+<text id="20007">【PC】積載量</text>
+<text id="20008">【PC】実弾防御</text>
+<text id="20009">【PC】EN防御</text>
+<text id="20010">【PC】移動速度</text>
+<text id="20011">【PC】総消費EN</text>
+<text id="20012">【PC】EN供給</text>
+<text id="20013">【PC】防具総AP</text>
+<text id="20014">【PC】積載状況</text>
+<text id="20015">【PC】EN消費状況</text>
+<text id="20016">【PC】腕部積載状況</text>
+<text id="20050">【本体】総重量</text>
+<text id="20051">【本体】AP</text>
+<text id="20052">【本体】耐KE装甲</text>
+<text id="20053">【本体】耐TE装甲</text>
+<text id="20054">【本体】耐CE装甲</text>
+<text id="20055">【本体】被弾安定性能</text>
+<text id="20056">【本体】射撃反動制御</text>
+<text id="20057">【本体】ロックオン性能</text>
+<text id="20058">【本体】EN容量</text>
+<text id="20059">【本体】EN回復性能</text>
+<text id="20060">【本体】速度性能</text>
+<text id="20061">【本体】継戦能力</text>
+<text id="20062">【本体】修理費</text>
+<text id="20063">【本体】QB消費EN</text>
+<text id="20064">【本体】腕部最大積載</text>
+<text id="20065">【本体】腕部積載合計</text>
+<text id="20066">【本体】QB速度性能</text>
+<text id="20100">【PC】AC名</text>
+<text id="20101">%null%</text>
+<text id="20102">%null%</text>
+<text id="20103">%null%</text>
+<text id="20104">%null%</text>
+<text id="20105">%null%</text>
+<text id="20106">%null%</text>
+<text id="20107">%null%</text>
+<text id="20108">%null%</text>
+<text id="20109">%null%</text>
+<text id="20110">【PC】傭兵ランク</text>
+<text id="20111">【PC】アリーナランク</text>
+<text id="20150">【PC】プレイ時間</text>
+<text id="20190">【PC】所持武器パーツ数</text>
+<text id="20191">【PC】所持フレームパーツ数</text>
+<text id="20192">【PC】所持内装パーツ数</text>
+<text id="20193">%null%</text>
+<text id="20194">%null%</text>
+<text id="20195">%null%</text>
+<text id="20196">%null%</text>
+<text id="20197">%null%</text>
+<text id="20198">%null%</text>
+<text id="20199">%null%</text>
+<text id="20200">【PC】所持OS強化ポイント</text>
+<text id="20201">%null%</text>
+<text id="20202">%null%</text>
+<text id="20203">%null%</text>
+<text id="20204">%null%</text>
+<text id="20205">%null%</text>
+<text id="20206">%null%</text>
+<text id="20207">%null%</text>
+<text id="20208">%null%</text>
+<text id="20209">%null%</text>
+<text id="20210">【PC】所持アリーナポイント</text>
+<text id="21000">【機体構成】 パーツ名</text>
+<text id="21001">【機体構成】 パーツ名</text>
+<text id="21002">【機体構成】 パーツ名</text>
+<text id="21003">【機体構成】 パーツ名</text>
+<text id="21004">【機体構成】 パーツ名</text>
+<text id="21005">【機体構成】 パーツ名</text>
+<text id="21006">【機体構成】 パーツ名</text>
+<text id="21007">【機体構成】 パーツ名</text>
+<text id="21008">【機体構成】 パーツ名</text>
+<text id="21009">【機体構成】 パーツ名</text>
+<text id="21010">【機体構成】 パーツ名</text>
+<text id="21011">【機体構成】 パーツ名</text>
+<text id="29900">【PC】EN出力不足</text>
+<text id="29901">【PC】積載限界超過</text>
+<text id="29902">【PC】腕部積載限界超過</text>
+<text id="75000">機体の耐久性能
+
+全フレームパーツのAPを合計した値</text>
+<text id="75001">%null%</text>
+<text id="75002">%null%</text>
+<text id="75003">%null%</text>
+<text id="75004">%null%</text>
+<text id="75005">%null%</text>
+<text id="75006">%null%</text>
+<text id="75007">%null%</text>
+<text id="75008">%null%</text>
+<text id="75009">%null%</text>
+<text id="75010">実弾属性のダメージに対する防御性能
+
+全フレームパーツの耐弾防御を合計した値</text>
+<text id="75011">%null%</text>
+<text id="75012">%null%</text>
+<text id="75013">%null%</text>
+<text id="75014">%null%</text>
+<text id="75015">%null%</text>
+<text id="75016">%null%</text>
+<text id="75017">%null%</text>
+<text id="75018">%null%</text>
+<text id="75019">%null%</text>
+<text id="75020">EN属性のダメージに対する防御性能
+
+全フレームパーツの耐EN防御を合計した値</text>
+<text id="75021">%null%</text>
+<text id="75022">%null%</text>
+<text id="75023">%null%</text>
+<text id="75024">%null%</text>
+<text id="75025">%null%</text>
+<text id="75026">%null%</text>
+<text id="75027">%null%</text>
+<text id="75028">%null%</text>
+<text id="75029">%null%</text>
+<text id="75030">爆発 / 燃焼属性のダメージに対する防御性能
+
+全フレームパーツの耐爆防御を合計した値</text>
+<text id="75031">%null%</text>
+<text id="75032">%null%</text>
+<text id="75033">%null%</text>
+<text id="75034">%null%</text>
+<text id="75035">%null%</text>
+<text id="75036">%null%</text>
+<text id="75037">%null%</text>
+<text id="75038">%null%</text>
+<text id="75039">%null%</text>
+<text id="75040">ACSの負荷限界
+
+全フレームパーツの姿勢安定性能を合計した値
+
+この値が大きいほどスタッガーが発生しにくい</text>
+<text id="75041">%null%</text>
+<text id="75042">%null%</text>
+<text id="75043">%null%</text>
+<text id="75044">%null%</text>
+<text id="75045">%null%</text>
+<text id="75046">%null%</text>
+<text id="75047">%null%</text>
+<text id="75048">%null%</text>
+<text id="75049">%null%</text>
+<text id="75050">ACSの負荷処理性能
+
+機体の総重量が軽いほどこの値が大きくなり
+残留した衝撃の回復が速くなる
+</text>
+<text id="75051">%null%</text>
+<text id="75052">%null%</text>
+<text id="75053">%null%</text>
+<text id="75054">%null%</text>
+<text id="75055">%null%</text>
+<text id="75056">%null%</text>
+<text id="75057">%null%</text>
+<text id="75058">%null%</text>
+<text id="75059">%null%</text>
+<text id="75060">ロックオン時の照準追従性能
+
+この値が大きいほど動いている敵に射撃を当てやすい
+
+腕部の射撃武器適性が高いほど性能は向上する</text>
+<text id="75061">%null%</text>
+<text id="75062">%null%</text>
+<text id="75063">%null%</text>
+<text id="75064">%null%</text>
+<text id="75065">%null%</text>
+<text id="75066">%null%</text>
+<text id="75067">%null%</text>
+<text id="75068">%null%</text>
+<text id="75069">%null%</text>
+<text id="75070">ブースト移動の最高速度
+
+ブースタの推力が高く
+機体の総重量が軽いほど性能は向上する</text>
+<text id="75071">%null%</text>
+<text id="75072">%null%</text>
+<text id="75073">%null%</text>
+<text id="75074">%null%</text>
+<text id="75075">%null%</text>
+<text id="75076">%null%</text>
+<text id="75077">%null%</text>
+<text id="75078">%null%</text>
+<text id="75079">%null%</text>
+<text id="75080">クイックブーストの初速性能
+
+ブースタのQB推力が高く
+機体の総重量が軽いほど性能は向上する</text>
+<text id="75081">%null%</text>
+<text id="75082">%null%</text>
+<text id="75083">%null%</text>
+<text id="75084">%null%</text>
+<text id="75085">%null%</text>
+<text id="75086">%null%</text>
+<text id="75087">%null%</text>
+<text id="75088">%null%</text>
+<text id="75089">%null%</text>
+<text id="75090">クイックブーストで消費するEN
+
+ブースタのQB消費ENが低く
+コアのブースタ効率補正が高いほど消費は少なくなる</text>
+<text id="75091">%null%</text>
+<text id="75092">%null%</text>
+<text id="75093">%null%</text>
+<text id="75094">%null%</text>
+<text id="75095">%null%</text>
+<text id="75096">%null%</text>
+<text id="75097">%null%</text>
+<text id="75098">%null%</text>
+<text id="75099">%null%</text>
+<text id="75100">クイックブーストのリロード時間
+
+この値が小さいほど小刻みに連続発動できる
+
+ブースタのQBリロード保証重量を
+機体の総重量が超過していると性能は低下する</text>
+<text id="75101">%null%</text>
+<text id="75102">%null%</text>
+<text id="75103">%null%</text>
+<text id="75104">%null%</text>
+<text id="75105">%null%</text>
+<text id="75106">%null%</text>
+<text id="75107">%null%</text>
+<text id="75108">%null%</text>
+<text id="75109">%null%</text>
+<text id="75110">使用できるENの総量
+
+この値が大きいほどEN消費アクションを多用できる</text>
+<text id="75111">%null%</text>
+<text id="75112">%null%</text>
+<text id="75113">%null%</text>
+<text id="75114">%null%</text>
+<text id="75115">%null%</text>
+<text id="75116">%null%</text>
+<text id="75117">%null%</text>
+<text id="75118">%null%</text>
+<text id="75119">%null%</text>
+<text id="75120">ENが機体に供給される際の速度効率
+
+この値が大きいほどEN回復が速くなる
+
+ジェネレータのEN出力が高く
+機体のEN負荷合計が低いほど効率は向上する</text>
+<text id="75121">%null%</text>
+<text id="75122">%null%</text>
+<text id="75123">%null%</text>
+<text id="75124">%null%</text>
+<text id="75125">%null%</text>
+<text id="75126">%null%</text>
+<text id="75127">%null%</text>
+<text id="75128">%null%</text>
+<text id="75129">%null%</text>
+<text id="75130">ENの補充に伴う遅延時間
+
+この値が小さいほどEN消費アクション後の回復遅延が短くなる
+
+ジェネレータのEN補充性能と
+コアの供給補正が高いほど性能は向上する</text>
+<text id="75131">%null%</text>
+<text id="75132">%null%</text>
+<text id="75133">%null%</text>
+<text id="75134">%null%</text>
+<text id="75135">%null%</text>
+<text id="75136">%null%</text>
+<text id="75137">%null%</text>
+<text id="75138">%null%</text>
+<text id="75139">%null%</text>
+<text id="75140">機体の修理にかかる費用
+
+ミッションをクリアするまでに受けたダメージの合計に比例して変動する</text>
+<text id="75141">%null%</text>
+<text id="75142">%null%</text>
+<text id="75143">%null%</text>
+<text id="75144">%null%</text>
+<text id="75145">%null%</text>
+<text id="75146">%null%</text>
+<text id="75147">%null%</text>
+<text id="75148">%null%</text>
+<text id="75149">%null%</text>
+<text id="75150">全パーツの総重量
+
+全パーツの重量を合計した値
+
+機体の移動速度に影響する
+</text>
+<text id="75151">%null%</text>
+<text id="75152">%null%</text>
+<text id="75153">%null%</text>
+<text id="75154">%null%</text>
+<text id="75155">%null%</text>
+<text id="75156">%null%</text>
+<text id="75157">%null%</text>
+<text id="75158">%null%</text>
+<text id="75159">%null%</text>
+<text id="75160">腕部の積載重量
+
+両手武器の重量を合計した値</text>
+<text id="75161">%null%</text>
+<text id="75162">%null%</text>
+<text id="75163">%null%</text>
+<text id="75164">%null%</text>
+<text id="75165">%null%</text>
+<text id="75166">%null%</text>
+<text id="75167">%null%</text>
+<text id="75168">%null%</text>
+<text id="75169">%null%</text>
+<text id="75170">腕部の安定駆動が保証される上限重量
+
+この値が大きいほど両手武器の扱いに余裕ができ
+超過による照準追従性能 / 反動制御低下が発生しづらくなる</text>
+<text id="75171">%null%</text>
+<text id="75172">%null%</text>
+<text id="75173">%null%</text>
+<text id="75174">%null%</text>
+<text id="75175">%null%</text>
+<text id="75176">%null%</text>
+<text id="75177">%null%</text>
+<text id="75178">%null%</text>
+<text id="75179">%null%</text>
+<text id="75180">機体の積載重量
+
+脚部を除く全パーツの重量を合計した値</text>
+<text id="75181">%null%</text>
+<text id="75182">%null%</text>
+<text id="75183">%null%</text>
+<text id="75184">%null%</text>
+<text id="75185">%null%</text>
+<text id="75186">%null%</text>
+<text id="75187">%null%</text>
+<text id="75188">%null%</text>
+<text id="75189">%null%</text>
+<text id="75190">脚部が支えられる上限重量
+
+この値が大きいほど積載に余裕ができ
+重量パーツを多数搭載できる</text>
+<text id="75191">%null%</text>
+<text id="75192">%null%</text>
+<text id="75193">%null%</text>
+<text id="75194">%null%</text>
+<text id="75195">%null%</text>
+<text id="75196">%null%</text>
+<text id="75197">%null%</text>
+<text id="75198">%null%</text>
+<text id="75199">%null%</text>
+<text id="75200">機体のEN負荷
+
+全パーツのEN負荷を合計した値
+
+この値がジェネレータのEN出力を超えると出撃できなくなる</text>
+<text id="75201">%null%</text>
+<text id="75202">%null%</text>
+<text id="75203">%null%</text>
+<text id="75204">%null%</text>
+<text id="75205">%null%</text>
+<text id="75206">%null%</text>
+<text id="75207">%null%</text>
+<text id="75208">%null%</text>
+<text id="75209">%null%</text>
+<text id="75210">機体のEN出力
+
+この値が大きいほど高負荷パーツを多数搭載でき
+余裕があるほどEN回復が速くなる
+
+ジェネレータのEN出力と
+コアの出力補正が高いほど性能は向上する</text>
+<text id="75211">%null%</text>
+<text id="75212">%null%</text>
+<text id="75213">%null%</text>
+<text id="75214">%null%</text>
+<text id="75215">%null%</text>
+<text id="75216">%null%</text>
+<text id="75217">%null%</text>
+<text id="75218">%null%</text>
+<text id="75219">%null%</text>
+<text id="75220">各種属性のダメージに対する平均防御性能</text>
+<text id="75221">%null%</text>
+<text id="75222">%null%</text>
+<text id="75223">%null%</text>
+<text id="75224">%null%</text>
+<text id="75225">%null%</text>
+<text id="75226">%null%</text>
+<text id="75227">%null%</text>
+<text id="75228">%null%</text>
+<text id="75229">%null%</text>
+<text id="75230">積載上限に対する積載重量の割合
+
+上限を超えると出撃できなくなるが
+OS強化「ウェイトコントロール」を行うことでその制限を解除できる</text>
+<text id="75231">%null%</text>
+<text id="75232">%null%</text>
+<text id="75233">%null%</text>
+<text id="75234">%null%</text>
+<text id="75235">腕部積載上限に対する両手武器重量の割合
+
+上限を超えると照準追従性能や反動制御が低下する</text>
+<text id="75236">%null%</text>
+<text id="75237">%null%</text>
+<text id="75238">%null%</text>
+<text id="75239">%null%</text>
+<text id="75240">EN出力に対するEN負荷の割合
+
+上限を超えると出撃できなくなる</text>
+<text id="80000">パーツの重量</text>
+<text id="80100">パーツのEN負荷</text>
+<text id="80500">武器タイプ：セミオート射撃
+トリガーを引くたびに弾丸が発射される</text>
+<text id="80501">武器タイプ：バースト射撃
+トリガーを引くたびに複数の弾丸が点射される</text>
+<text id="80502">武器タイプ：チャージ射撃
+トリガーを引きつづけることで弾丸の性能が変化する</text>
+<text id="80503">%null%</text>
+<text id="80504">%null%</text>
+<text id="80505">%null%</text>
+<text id="80506">%null%</text>
+<text id="80507">%null%</text>
+<text id="80508">%null%</text>
+<text id="80509">%null%</text>
+<text id="80510">武器タイプ：フルオート射撃
+トリガーを引きつづけることで弾丸が継続連射される</text>
+<text id="80511">トリガーを引き続けることで複数の弾丸が点射され続ける</text>
+<text id="80512">%null%</text>
+<text id="80513">%null%</text>
+<text id="80514">%null%</text>
+<text id="80515">%null%</text>
+<text id="80516">%null%</text>
+<text id="80517">%null%</text>
+<text id="80518">%null%</text>
+<text id="80519">%null%</text>
+<text id="80520">武器タイプ：誘導兵装
+ロックオンが完了してからトリガーを引くと敵を追尾する</text>
+<text id="80521">%null%</text>
+<text id="80522">%null%</text>
+<text id="80523">%null%</text>
+<text id="80524">%null%</text>
+<text id="80525">%null%</text>
+<text id="80526">%null%</text>
+<text id="80527">%null%</text>
+<text id="80528">%null%</text>
+<text id="80529">%null%</text>
+<text id="80530">武器タイプ：近接攻撃
+トリガーを引くことで近接攻撃を繰り出す</text>
+<text id="80531">%null%</text>
+<text id="80532">%null%</text>
+<text id="80533">%null%</text>
+<text id="80534">%null%</text>
+<text id="80535">%null%</text>
+<text id="80536">%null%</text>
+<text id="80537">%null%</text>
+<text id="80538">%null%</text>
+<text id="80539">%null%</text>
+<text id="80540">武器タイプ：シールド
+トリガーを引きつづけることでシールドを展開する</text>
+<text id="80600">リロードタイプ：マガジン
+装填されている弾薬を使い切るとリロードが発生する</text>
+<text id="80601">%null%</text>
+<text id="80602">%null%</text>
+<text id="80603">%null%</text>
+<text id="80604">%null%</text>
+<text id="80605">%null%</text>
+<text id="80606">%null%</text>
+<text id="80607">%null%</text>
+<text id="80608">%null%</text>
+<text id="80609">%null%</text>
+<text id="80610">リロードタイプ：単発
+武器を使用するたびにリロードが発生する</text>
+<text id="80611">%null%</text>
+<text id="80612">%null%</text>
+<text id="80613">%null%</text>
+<text id="80614">%null%</text>
+<text id="80615">%null%</text>
+<text id="80616">%null%</text>
+<text id="80617">%null%</text>
+<text id="80618">%null%</text>
+<text id="80619">%null%</text>
+<text id="80620">リロードタイプ：オーバーヒート
+武器を使用するたびに発熱し 限界を超えるとオーバーヒートが発生する</text>
+<text id="80700">攻撃属性：実弾
+物理属性の攻撃によりダメージを与える</text>
+<text id="80701">追加効果：強制放電
+敵を帯電させ 許容量を超えると
+強制放電による追加ダメージを発生させる</text>
+<text id="80702">追加効果：ACS障害
+敵のACSを熱暴走させ 許容量を超えると
+一定時間安定性能を大幅に低下させる</text>
+<text id="80703">追加効果：カメラ妨害
+敵のカメラ機能を妨害し ロックオン障害を発生させる
+この効果は自機 / 僚機にも適用される</text>
+<text id="80704">%null%</text>
+<text id="80705">%null%</text>
+<text id="80706">%null%</text>
+<text id="80707">%null%</text>
+<text id="80708">%null%</text>
+<text id="80709">%null%</text>
+<text id="80710">攻撃属性：EN
+EN属性の攻撃によりダメージを与える</text>
+<text id="80711">EN属性の攻撃によりダメージを与える
+
+追加効果として敵を帯電させ、許容量を超えると
+強制放電による追加ダメージを発生させる</text>
+<text id="80712">EN属性の攻撃によりダメージを与える
+
+追加効果として敵のACSに干渉し、許容量を超えると
+一定時間安定性能を大幅に低下させる</text>
+<text id="80713">EN属性の攻撃によりダメージを与える
+
+追加効果として対象のカメラ機能を妨害し、
+ロックオン障害を発生させる
+この効果は自機 / 僚機にも適用される</text>
+<text id="80714">%null%</text>
+<text id="80715">%null%</text>
+<text id="80716">%null%</text>
+<text id="80717">%null%</text>
+<text id="80718">%null%</text>
+<text id="80719">%null%</text>
+<text id="80720">攻撃属性：爆発
+爆発 / 燃焼属性の攻撃によりダメージを与える</text>
+<text id="80721">爆発 / 燃焼属性の攻撃によりダメージを与える
+
+追加効果として敵を帯電させ、許容量を超えると
+強制放電による追加ダメージを発生させる</text>
+<text id="80722">爆発 / 燃焼属性の攻撃によりダメージを与える
+
+追加効果として敵のACSに干渉し、許容量を超えると
+一定時間安定性能を大幅に低下させる</text>
+<text id="80723">爆発 / 燃焼属性の攻撃によりダメージを与える
+
+追加効果として対象のカメラ機能を妨害し、
+ロックオン障害を発生させる
+この効果は自機 / 僚機にも適用される</text>
+<text id="80724">%null%</text>
+<text id="80725">%null%</text>
+<text id="80726">%null%</text>
+<text id="80727">%null%</text>
+<text id="80728">%null%</text>
+<text id="80729">%null%</text>
+<text id="80730">攻撃属性：コーラル
+コーラル属性の攻撃によりダメージを与える</text>
+<text id="80731">コーラル属性の攻撃によりダメージを与える
+
+追加効果として敵を帯電させ、許容量を超えると
+強制放電による追加ダメージを発生させる</text>
+<text id="80732">コーラル属性の攻撃によりダメージを与える
+
+追加効果として敵のACSに干渉し、許容量を超えると
+一定時間安定性能を大幅に低下させる</text>
+<text id="80733">コーラル属性の攻撃によりダメージを与える
+
+追加効果として対象のカメラ機能を妨害し、
+ロックオン障害を発生させる
+この効果は自機 / 僚機にも適用される</text>
+<text id="80734">%null%</text>
+<text id="80735">%null%</text>
+<text id="80736">%null%</text>
+<text id="80737">%null%</text>
+<text id="80738">%null%</text>
+<text id="80739">%null%</text>
+<text id="80740">特殊属性の攻撃によりダメージを与える</text>
+<text id="80741">特殊属性の攻撃によりダメージを与える
+
+追加効果として敵を帯電させ、許容量を超えると
+強制放電による追加ダメージを発生させる</text>
+<text id="80742">特殊属性の攻撃によりダメージを与える
+
+追加効果として敵のACSに干渉し、許容量を超えると
+一定時間安定性能を大幅に低下させる</text>
+<text id="80743">特殊属性の攻撃によりダメージを与える
+
+追加効果として対象のカメラ機能を妨害し、
+ロックオン障害を発生させる
+この効果は自機 / 僚機にも適用される</text>
+<text id="81000">&lt;?partsSpecIcon@10?&gt;武器タイプ：セミオート
+　トリガーを引くたびに弾丸が発射される
+&lt;?partsSpecIcon@11?&gt;武器タイプ：フルオート
+　トリガーを引き続けることで弾丸が継続連射される
+&lt;?partsSpecIcon@12?&gt;武器タイプ：バースト
+　トリガーを引くたびに複数の弾丸が点射される
+&lt;?partsSpecIcon@13?&gt;武器タイプ：チャージ
+　トリガーを引き続けることで弾丸の性能が変化する
+&lt;?partsSpecIcon@14?&gt;武器タイプ：誘導兵装
+　ロックオンが完了してからトリガーを引くと敵を追尾する
+&lt;?partsSpecIcon@15?&gt;武器タイプ：近接武器
+　トリガーを引くことで近接攻撃を繰り出す
+&lt;?partsSpecIcon@16?&gt;武器タイプ：シールド
+　トリガーを引き続けることでシールドを展開する</text>
+<text id="81001">%null%</text>
+<text id="81002">%null%</text>
+<text id="81003">%null%</text>
+<text id="81004">%null%</text>
+<text id="81005">%null%</text>
+<text id="81006">%null%</text>
+<text id="81007">%null%</text>
+<text id="81008">%null%</text>
+<text id="81009">%null%</text>
+<text id="81010">&lt;?partsSpecIcon@21?&gt;リロードタイプ：単発
+　武器を使用するたびにリロードが発生する
+&lt;?partsSpecIcon@20?&gt;リロードタイプ：マガジン
+　装填されている弾薬を使い切るとリロードが発生する
+&lt;?partsSpecIcon@22?&gt;リロードタイプ：オーバーヒート
+　使用により発熱し 限界超過でオーバーヒートする</text>
+<text id="81011">%null%</text>
+<text id="81012">%null%</text>
+<text id="81013">%null%</text>
+<text id="81014">%null%</text>
+<text id="81015">%null%</text>
+<text id="81016">%null%</text>
+<text id="81017">%null%</text>
+<text id="81018">%null%</text>
+<text id="81019">%null%</text>
+<text id="81020">&lt;?partsSpecIcon@0?&gt;属性：実弾
+　物理属性の攻撃によりダメージを与える
+&lt;?partsSpecIcon@2?&gt;属性：爆発
+　爆発 / 燃焼属性の攻撃によりダメージを与える
+&lt;?partsSpecIcon@1?&gt;属性：EN
+　EN属性の攻撃によりダメージを与える
+&lt;?partsSpecIcon@3?&gt;属性：コーラル
+　コーラル属性の攻撃によりダメージを与える</text>
+<text id="81021">&lt;?partsSpecIcon@30?&gt;追加効果：カメラ妨害
+　敵のカメラ機能を妨害し ロックオン障害を発生させる
+&lt;?partsSpecIcon@31?&gt;追加効果：強制放電
+　敵を帯電させ 許容量を超えると強制放電による追加ダメージを発生させる
+&lt;?partsSpecIcon@32?&gt;追加効果：ACS障害
+　敵のACSに干渉し 許容量を超えると一定時間安定性能を大幅に低下させる</text>
+<text id="81022">特効：物理シールド
+敵の物理シールドを破壊しやすい</text>
+<text id="81023">%null%</text>
+<text id="81024">%null%</text>
+<text id="81025">%null%</text>
+<text id="81026">%null%</text>
+<text id="81027">%null%</text>
+<text id="81028">%null%</text>
+<text id="81029">%null%</text>
+<text id="81030">敵にダメージを与える性能
+
+距離減衰や跳弾などで低下する</text>
+<text id="81031">%null%</text>
+<text id="81032">%null%</text>
+<text id="81033">%null%</text>
+<text id="81034">%null%</text>
+<text id="81035">%null%</text>
+<text id="81036">%null%</text>
+<text id="81037">%null%</text>
+<text id="81038">%null%</text>
+<text id="81039">%null%</text>
+<text id="81040">スタッガー状態の敵を攻撃した際のダメージ倍率</text>
+<text id="81041">%null%</text>
+<text id="81042">%null%</text>
+<text id="81043">%null%</text>
+<text id="81044">%null%</text>
+<text id="81045">%null%</text>
+<text id="81046">%null%</text>
+<text id="81047">%null%</text>
+<text id="81048">%null%</text>
+<text id="81049">%null%</text>
+<text id="81050">敵にACS負荷を与える性能
+
+瞬間的な負荷であり 一定時間でリセットされる</text>
+<text id="81051">%null%</text>
+<text id="81052">%null%</text>
+<text id="81053">%null%</text>
+<text id="81054">%null%</text>
+<text id="81055">%null%</text>
+<text id="81056">%null%</text>
+<text id="81057">%null%</text>
+<text id="81058">%null%</text>
+<text id="81059">%null%</text>
+<text id="81060">敵にACS負荷を残す性能
+
+持続的な負荷であり 時間経過で回復されていく</text>
+<text id="81061">%null%</text>
+<text id="81062">%null%</text>
+<text id="81063">%null%</text>
+<text id="81064">%null%</text>
+<text id="81065">敵のパルス防壁に対する干渉力
+
+この値が大きいほどパルスアーマー / シールドを削りやすい</text>
+<text id="81066">%null%</text>
+<text id="81067">%null%</text>
+<text id="81068">%null%</text>
+<text id="81069">%null%</text>
+<text id="81070">チャージ攻撃で敵にダメージを与える性能
+
+距離減衰や跳弾などで低下する</text>
+<text id="81071">フルチャージ攻撃で敵にダメージを与える性能
+
+距離減衰や跳弾などで低下する</text>
+<text id="81072">%null%</text>
+<text id="81073">%null%</text>
+<text id="81074">%null%</text>
+<text id="81075">%null%</text>
+<text id="81076">%null%</text>
+<text id="81077">%null%</text>
+<text id="81078">%null%</text>
+<text id="81079">%null%</text>
+<text id="81080">スタッガー状態の敵をチャージ攻撃した際のダメージ倍率</text>
+<text id="81081">スタッガー状態の敵をフルチャージ攻撃した際のダメージ倍率</text>
+<text id="81082">%null%</text>
+<text id="81083">%null%</text>
+<text id="81084">%null%</text>
+<text id="81085">%null%</text>
+<text id="81086">%null%</text>
+<text id="81087">%null%</text>
+<text id="81088">%null%</text>
+<text id="81089">%null%</text>
+<text id="81090">チャージ攻撃で敵にACS負荷を与える性能
+
+瞬間的な負荷であり 一定時間でリセットされる</text>
+<text id="81091">フルチャージ攻撃で敵にACS負荷を与える性能
+
+瞬間的な負荷であり 一定時間でリセットされる</text>
+<text id="81092">%null%</text>
+<text id="81093">%null%</text>
+<text id="81094">%null%</text>
+<text id="81095">%null%</text>
+<text id="81096">%null%</text>
+<text id="81097">%null%</text>
+<text id="81098">%null%</text>
+<text id="81099">%null%</text>
+<text id="81100">チャージ攻撃で敵にACS負荷を残す性能
+
+持続的な負荷であり 時間経過で回復されていく</text>
+<text id="81101">フルチャージ攻撃で敵にACS負荷を残す性能
+
+持続的な負荷であり 時間経過で回復されていく</text>
+<text id="81102">%null%</text>
+<text id="81103">%null%</text>
+<text id="81104">%null%</text>
+<text id="81105">%null%</text>
+<text id="81106">%null%</text>
+<text id="81107">%null%</text>
+<text id="81108">%null%</text>
+<text id="81109">%null%</text>
+<text id="81110">チャージ中にかかるEN負荷
+
+供給を上回った場合はENが減少する</text>
+<text id="81111">%null%</text>
+<text id="81112">%null%</text>
+<text id="81113">%null%</text>
+<text id="81114">%null%</text>
+<text id="81115">%null%</text>
+<text id="81116">%null%</text>
+<text id="81117">%null%</text>
+<text id="81118">%null%</text>
+<text id="81119">%null%</text>
+<text id="81120">チャージ完了までにかかる時間</text>
+<text id="81121">フルチャージ完了までにかかる時間</text>
+<text id="81122">%null%</text>
+<text id="81123">%null%</text>
+<text id="81124">%null%</text>
+<text id="81125">%null%</text>
+<text id="81126">%null%</text>
+<text id="81127">%null%</text>
+<text id="81128">%null%</text>
+<text id="81129">%null%</text>
+<text id="81130">チャージ攻撃で消費する弾数</text>
+<text id="81131">フルチャージ攻撃で消費する弾数</text>
+<text id="81132">%null%</text>
+<text id="81133">%null%</text>
+<text id="81134">%null%</text>
+<text id="81135">%null%</text>
+<text id="81136">%null%</text>
+<text id="81137">%null%</text>
+<text id="81138">%null%</text>
+<text id="81139">%null%</text>
+<text id="81140">攻撃に伴う発熱量
+
+許容限界を超えるとオーバーヒートが発生する</text>
+<text id="81141">%null%</text>
+<text id="81142">%null%</text>
+<text id="81143">%null%</text>
+<text id="81144">%null%</text>
+<text id="81145">%null%</text>
+<text id="81146">%null%</text>
+<text id="81147">%null%</text>
+<text id="81148">%null%</text>
+<text id="81149">%null%</text>
+<text id="81150">チャージ攻撃に伴う発熱量
+
+許容限界を超えるとオーバーヒートが発生する</text>
+<text id="81151">フルチャージ攻撃に伴う発熱量
+
+許容限界を超えるとオーバーヒートが発生する</text>
+<text id="81152">%null%</text>
+<text id="81153">%null%</text>
+<text id="81154">%null%</text>
+<text id="81155">%null%</text>
+<text id="81156">%null%</text>
+<text id="81157">%null%</text>
+<text id="81158">%null%</text>
+<text id="81159">%null%</text>
+<text id="81160">武器を冷却し発熱量を低下させる速度</text>
+<text id="81161">%null%</text>
+<text id="81162">%null%</text>
+<text id="81163">%null%</text>
+<text id="81164">%null%</text>
+<text id="81165">%null%</text>
+<text id="81166">%null%</text>
+<text id="81167">%null%</text>
+<text id="81168">%null%</text>
+<text id="81169">%null%</text>
+<text id="81170">オーバーヒート状態の武器を冷却し
+発熱量を低下させる速度</text>
+<text id="81171">%null%</text>
+<text id="81172">%null%</text>
+<text id="81173">%null%</text>
+<text id="81174">%null%</text>
+<text id="81175">%null%</text>
+<text id="81176">%null%</text>
+<text id="81177">%null%</text>
+<text id="81178">%null%</text>
+<text id="81179">%null%</text>
+<text id="81180">弾丸の最高速度</text>
+<text id="81181">%null%</text>
+<text id="81182">%null%</text>
+<text id="81183">%null%</text>
+<text id="81184">%null%</text>
+<text id="81185">%null%</text>
+<text id="81186">%null%</text>
+<text id="81187">%null%</text>
+<text id="81188">%null%</text>
+<text id="81189">%null%</text>
+<text id="81190">弾丸の連射速度
+
+1秒間に発射できる弾数</text>
+<text id="81191">%null%</text>
+<text id="81192">%null%</text>
+<text id="81193">%null%</text>
+<text id="81194">%null%</text>
+<text id="81195">%null%</text>
+<text id="81196">%null%</text>
+<text id="81197">%null%</text>
+<text id="81198">%null%</text>
+<text id="81199">%null%</text>
+<text id="81200">発射できる弾丸の総数</text>
+<text id="81201">%null%</text>
+<text id="81202">%null%</text>
+<text id="81203">%null%</text>
+<text id="81204">%null%</text>
+<text id="81205">%null%</text>
+<text id="81206">%null%</text>
+<text id="81207">%null%</text>
+<text id="81208">%null%</text>
+<text id="81209">%null%</text>
+<text id="81210">マガジンに装填されている弾数</text>
+<text id="81211">%null%</text>
+<text id="81212">%null%</text>
+<text id="81213">%null%</text>
+<text id="81214">%null%</text>
+<text id="81215">%null%</text>
+<text id="81216">%null%</text>
+<text id="81217">%null%</text>
+<text id="81218">%null%</text>
+<text id="81219">%null%</text>
+<text id="81220">リロード発生から完了までにかかる時間</text>
+<text id="81221">%null%</text>
+<text id="81222">%null%</text>
+<text id="81223">%null%</text>
+<text id="81224">%null%</text>
+<text id="81225">%null%</text>
+<text id="81226">%null%</text>
+<text id="81227">%null%</text>
+<text id="81228">%null%</text>
+<text id="81229">%null%</text>
+<text id="81230">ミサイルなど誘導弾の追尾性能</text>
+<text id="81231">%null%</text>
+<text id="81232">%null%</text>
+<text id="81233">%null%</text>
+<text id="81234">%null%</text>
+<text id="81235">%null%</text>
+<text id="81236">%null%</text>
+<text id="81237">%null%</text>
+<text id="81238">%null%</text>
+<text id="81239">%null%</text>
+<text id="81240">ミサイルなど誘導弾のロックオンが完了するまでの時間
+
+敵をこの時間捕捉しつづけることで誘導性能が発揮されるようになる</text>
+<text id="81241">%null%</text>
+<text id="81242">%null%</text>
+<text id="81243">%null%</text>
+<text id="81244">%null%</text>
+<text id="81245">%null%</text>
+<text id="81246">%null%</text>
+<text id="81247">%null%</text>
+<text id="81248">%null%</text>
+<text id="81249">%null%</text>
+<text id="81250">ミサイルなど誘導弾がロックオンできる最大数
+
+この値が２以上であればマルチロックが可能</text>
+<text id="81251">%null%</text>
+<text id="81252">%null%</text>
+<text id="81253">%null%</text>
+<text id="81254">%null%</text>
+<text id="81255">%null%</text>
+<text id="81256">%null%</text>
+<text id="81257">%null%</text>
+<text id="81258">%null%</text>
+<text id="81259">%null%</text>
+<text id="81260">弾丸が照準の中心に向かって発射される精度</text>
+<text id="81261">%null%</text>
+<text id="81262">%null%</text>
+<text id="81263">%null%</text>
+<text id="81264">%null%</text>
+<text id="81265">%null%</text>
+<text id="81266">%null%</text>
+<text id="81267">%null%</text>
+<text id="81268">%null%</text>
+<text id="81269">%null%</text>
+<text id="81270">射撃で発生する反動</text>
+<text id="81271">%null%</text>
+<text id="81272">%null%</text>
+<text id="81273">%null%</text>
+<text id="81274">%null%</text>
+<text id="81275">%null%</text>
+<text id="81276">%null%</text>
+<text id="81277">%null%</text>
+<text id="81278">%null%</text>
+<text id="81279">%null%</text>
+<text id="81280">跳弾が発生せず攻撃力が保証される距離
+
+一部の特殊な装甲を除き
+攻撃対象の防御性能を問わず保証される</text>
+<text id="81281">%null%</text>
+<text id="81282">%null%</text>
+<text id="81283">%null%</text>
+<text id="81284">%null%</text>
+<text id="81285">%null%</text>
+<text id="81286">%null%</text>
+<text id="81287">%null%</text>
+<text id="81288">%null%</text>
+<text id="81289">%null%</text>
+<text id="81290">攻撃が有効となりえる距離
+
+標準的なACの装甲を基準とし
+攻撃対象の防御性能によって増減する</text>
+<text id="81291">%null%</text>
+<text id="81292">%null%</text>
+<text id="81293">%null%</text>
+<text id="81294">%null%</text>
+<text id="81295">%null%</text>
+<text id="81296">%null%</text>
+<text id="81297">%null%</text>
+<text id="81298">%null%</text>
+<text id="81299">%null%</text>
+<text id="81300">発生する爆発の大きさ</text>
+<text id="81301">%null%</text>
+<text id="81302">%null%</text>
+<text id="81303">%null%</text>
+<text id="81304">%null%</text>
+<text id="81305">%null%</text>
+<text id="81306">%null%</text>
+<text id="81307">%null%</text>
+<text id="81308">%null%</text>
+<text id="81309">%null%</text>
+<text id="81310">発生した爆発が持続する時間</text>
+<text id="81311">%null%</text>
+<text id="81312">%null%</text>
+<text id="81313">%null%</text>
+<text id="81314">%null%</text>
+<text id="81315">%null%</text>
+<text id="81316">%null%</text>
+<text id="81317">%null%</text>
+<text id="81318">%null%</text>
+<text id="81319">%null%</text>
+<text id="81320">弾丸の攻撃力が保証される限界距離</text>
+<text id="81321">%null%</text>
+<text id="81322">%null%</text>
+<text id="81323">%null%</text>
+<text id="81324">%null%</text>
+<text id="81325">%null%</text>
+<text id="81326">%null%</text>
+<text id="81327">%null%</text>
+<text id="81328">%null%</text>
+<text id="81329">%null%</text>
+<text id="81330">1発あたりの弾薬価格
+
+ミッション完了時に発射数を掛けたものが弾薬費として計上される</text>
+<text id="82000">通常ガードで受けるダメージを軽減する性能</text>
+<text id="82001">%null%</text>
+<text id="82002">%null%</text>
+<text id="82003">%null%</text>
+<text id="82004">%null%</text>
+<text id="82005">%null%</text>
+<text id="82006">%null%</text>
+<text id="82007">%null%</text>
+<text id="82008">%null%</text>
+<text id="82009">%null%</text>
+<text id="82010">通常ガードで受けるACS負荷を軽減する性能</text>
+<text id="82011">%null%</text>
+<text id="82012">%null%</text>
+<text id="82013">%null%</text>
+<text id="82014">%null%</text>
+<text id="82015">%null%</text>
+<text id="82016">%null%</text>
+<text id="82017">%null%</text>
+<text id="82018">%null%</text>
+<text id="82019">%null%</text>
+<text id="82020">イニシャルガードで受けるダメージを軽減する性能</text>
+<text id="82021">%null%</text>
+<text id="82022">%null%</text>
+<text id="82023">%null%</text>
+<text id="82024">%null%</text>
+<text id="82025">アイドリング状態でのガードで受けるダメージを軽減する性能</text>
+<text id="82026">%null%</text>
+<text id="82027">%null%</text>
+<text id="82028">%null%</text>
+<text id="82029">%null%</text>
+<text id="82030">イニシャルガードで受けるACS負荷を軽減する性能</text>
+<text id="82031">%null%</text>
+<text id="82032">%null%</text>
+<text id="82033">%null%</text>
+<text id="82034">%null%</text>
+<text id="82035">アイドリング状態でのガードで受けるACS負荷を軽減する性能</text>
+<text id="82036">%null%</text>
+<text id="82037">%null%</text>
+<text id="82038">%null%</text>
+<text id="82039">%null%</text>
+<text id="82040">イニシャルガードの軽減性能が持続する時間</text>
+<text id="82041">%null%</text>
+<text id="82042">%null%</text>
+<text id="82043">%null%</text>
+<text id="82044">%null%</text>
+<text id="82045">アイドリング完了までにかかる時間</text>
+<text id="82046">%null%</text>
+<text id="82047">%null%</text>
+<text id="82048">%null%</text>
+<text id="82049">%null%</text>
+<text id="82050">シールドが攻撃を防ぐ範囲</text>
+<text id="82051">%null%</text>
+<text id="82052">%null%</text>
+<text id="82053">%null%</text>
+<text id="82054">%null%</text>
+<text id="82055">%null%</text>
+<text id="82056">%null%</text>
+<text id="82057">%null%</text>
+<text id="82058">%null%</text>
+<text id="82059">%null%</text>
+<text id="82060">シールド展開に伴う発熱量
+
+許容限界を超えるとオーバーヒートが発生する</text>
+<text id="82061">%null%</text>
+<text id="82062">%null%</text>
+<text id="82063">%null%</text>
+<text id="82064">%null%</text>
+<text id="82065">%null%</text>
+<text id="82066">%null%</text>
+<text id="82067">%null%</text>
+<text id="82068">%null%</text>
+<text id="82069">%null%</text>
+<text id="82070">シールドを冷却し発熱量を低下させる速度</text>
+<text id="82071">%null%</text>
+<text id="82072">%null%</text>
+<text id="82073">%null%</text>
+<text id="82074">%null%</text>
+<text id="82075">%null%</text>
+<text id="82076">%null%</text>
+<text id="82077">%null%</text>
+<text id="82078">%null%</text>
+<text id="82079">%null%</text>
+<text id="82080">オーバーヒート状態のシールドを冷却し
+発熱量を低下させる速度</text>
+<text id="82500">敵にダメージを与える性能
+
+追加入力などで増減する</text>
+<text id="82501">%null%</text>
+<text id="82502">%null%</text>
+<text id="82503">%null%</text>
+<text id="82504">%null%</text>
+<text id="82505">%null%</text>
+<text id="82506">%null%</text>
+<text id="82507">%null%</text>
+<text id="82508">%null%</text>
+<text id="82509">%null%</text>
+<text id="82510">敵にACS負荷を与える性能
+
+瞬間的な負荷であり 一定時間でリセットされる
+
+追加入力などで増減する</text>
+<text id="82511">%null%</text>
+<text id="82512">%null%</text>
+<text id="82513">%null%</text>
+<text id="82514">%null%</text>
+<text id="82515">%null%</text>
+<text id="82516">%null%</text>
+<text id="82517">%null%</text>
+<text id="82518">%null%</text>
+<text id="82519">%null%</text>
+<text id="82520">敵にACS負荷を残す性能
+
+持続的な負荷であり 時間経過で回復されていく
+
+追加入力などで増減する</text>
+<text id="82521">%null%</text>
+<text id="82522">%null%</text>
+<text id="82523">%null%</text>
+<text id="82524">%null%</text>
+<text id="82525">%null%</text>
+<text id="82526">%null%</text>
+<text id="82527">%null%</text>
+<text id="82528">%null%</text>
+<text id="82529">%null%</text>
+<text id="82530">追加入力で連続攻撃が可能な回数</text>
+<text id="82531">%null%</text>
+<text id="82532">%null%</text>
+<text id="82533">%null%</text>
+<text id="82534">%null%</text>
+<text id="82535">%null%</text>
+<text id="82536">%null%</text>
+<text id="82537">%null%</text>
+<text id="82538">%null%</text>
+<text id="82539">%null%</text>
+<text id="82540">発生する爆発の大きさ</text>
+<text id="82541">%null%</text>
+<text id="82542">%null%</text>
+<text id="82543">%null%</text>
+<text id="82544">%null%</text>
+<text id="82545">%null%</text>
+<text id="82546">%null%</text>
+<text id="82547">%null%</text>
+<text id="82548">%null%</text>
+<text id="82549">%null%</text>
+<text id="82550">チャージ攻撃での属性
+
+ダメージは敵の属性防御性能との兼ね合いで増減する</text>
+<text id="82551">%null%</text>
+<text id="82552">%null%</text>
+<text id="82553">%null%</text>
+<text id="82554">%null%</text>
+<text id="82555">%null%</text>
+<text id="82556">%null%</text>
+<text id="82557">%null%</text>
+<text id="82558">%null%</text>
+<text id="82559">%null%</text>
+<text id="82560">チャージ攻撃で敵にダメージを与える性能</text>
+<text id="82561">%null%</text>
+<text id="82562">%null%</text>
+<text id="82563">%null%</text>
+<text id="82564">%null%</text>
+<text id="82565">%null%</text>
+<text id="82566">%null%</text>
+<text id="82567">%null%</text>
+<text id="82568">%null%</text>
+<text id="82569">%null%</text>
+<text id="82570">チャージ攻撃で敵にACS負荷を与える性能
+
+瞬間的な負荷であり 一定時間でリセットされる</text>
+<text id="82571">%null%</text>
+<text id="82572">%null%</text>
+<text id="82573">%null%</text>
+<text id="82574">%null%</text>
+<text id="82575">%null%</text>
+<text id="82576">%null%</text>
+<text id="82577">%null%</text>
+<text id="82578">%null%</text>
+<text id="82579">%null%</text>
+<text id="82580">チャージ攻撃で敵にACS負荷を残す性能
+
+持続的な負荷であり 時間経過で回復されていく</text>
+<text id="82581">%null%</text>
+<text id="82582">%null%</text>
+<text id="82583">%null%</text>
+<text id="82584">%null%</text>
+<text id="82585">%null%</text>
+<text id="82586">%null%</text>
+<text id="82587">%null%</text>
+<text id="82588">%null%</text>
+<text id="82589">%null%</text>
+<text id="82590">チャージ攻撃から追加入力で連続攻撃が可能な回数</text>
+<text id="82591">%null%</text>
+<text id="82592">%null%</text>
+<text id="82593">%null%</text>
+<text id="82594">%null%</text>
+<text id="82595">%null%</text>
+<text id="82596">%null%</text>
+<text id="82597">%null%</text>
+<text id="82598">%null%</text>
+<text id="82599">%null%</text>
+<text id="82600">チャージ攻撃で発生する爆発の大きさ</text>
+<text id="82601">フルチャージ攻撃で発生する爆発の大きさ</text>
+<text id="82602">%null%</text>
+<text id="82603">%null%</text>
+<text id="82604">%null%</text>
+<text id="82605">%null%</text>
+<text id="82606">%null%</text>
+<text id="82607">%null%</text>
+<text id="82608">%null%</text>
+<text id="82609">%null%</text>
+<text id="82610">敵を追尾する性能
+
+この値が大きいほど攻撃を当てやすい</text>
+<text id="83000">コア拡張機能を発動できる回数</text>
+<text id="83001">%null%</text>
+<text id="83002">%null%</text>
+<text id="83003">%null%</text>
+<text id="83004">%null%</text>
+<text id="83005">%null%</text>
+<text id="83006">%null%</text>
+<text id="83007">%null%</text>
+<text id="83008">%null%</text>
+<text id="83009">%null%</text>
+<text id="83010">敵にダメージを与える性能
+
+距離によって減衰する</text>
+<text id="83011">%null%</text>
+<text id="83012">%null%</text>
+<text id="83013">%null%</text>
+<text id="83014">%null%</text>
+<text id="83015">%null%</text>
+<text id="83016">%null%</text>
+<text id="83017">%null%</text>
+<text id="83018">%null%</text>
+<text id="83019">%null%</text>
+<text id="83020">敵にACS負荷を与える性能
+
+瞬間的な負荷であり 一定時間でリセットされる</text>
+<text id="83021">%null%</text>
+<text id="83022">%null%</text>
+<text id="83023">%null%</text>
+<text id="83024">%null%</text>
+<text id="83025">%null%</text>
+<text id="83026">%null%</text>
+<text id="83027">%null%</text>
+<text id="83028">%null%</text>
+<text id="83029">%null%</text>
+<text id="83030">発生する爆発が届く範囲
+
+この範囲では攻撃力と衝撃力は低下するが 敵弾をかき消す効果は残る</text>
+<text id="83031">%null%</text>
+<text id="83032">%null%</text>
+<text id="83033">%null%</text>
+<text id="83034">%null%</text>
+<text id="83035">%null%</text>
+<text id="83036">%null%</text>
+<text id="83037">%null%</text>
+<text id="83038">%null%</text>
+<text id="83039">%null%</text>
+<text id="83040">発生する爆発が直撃する範囲
+
+この範囲では攻撃力と衝撃力が保証され 敵弾もかき消す</text>
+<text id="83041">%null%</text>
+<text id="83042">%null%</text>
+<text id="83043">%null%</text>
+<text id="83044">%null%</text>
+<text id="83045">%null%</text>
+<text id="83046">%null%</text>
+<text id="83047">%null%</text>
+<text id="83048">%null%</text>
+<text id="83049">%null%</text>
+<text id="83050">発生する防壁の耐久性能</text>
+<text id="83051">%null%</text>
+<text id="83052">%null%</text>
+<text id="83053">%null%</text>
+<text id="83054">%null%</text>
+<text id="83055">%null%</text>
+<text id="83056">%null%</text>
+<text id="83057">%null%</text>
+<text id="83058">%null%</text>
+<text id="83059">%null%</text>
+<text id="83060">発生する防壁の持続時間</text>
+<text id="85000">パーツの耐久性能</text>
+<text id="85001">%null%</text>
+<text id="85002">%null%</text>
+<text id="85003">%null%</text>
+<text id="85004">%null%</text>
+<text id="85005">%null%</text>
+<text id="85006">%null%</text>
+<text id="85007">%null%</text>
+<text id="85008">%null%</text>
+<text id="85009">%null%</text>
+<text id="85010">実弾属性のダメージに対する防御性能</text>
+<text id="85011">%null%</text>
+<text id="85012">%null%</text>
+<text id="85013">%null%</text>
+<text id="85014">%null%</text>
+<text id="85015">%null%</text>
+<text id="85016">%null%</text>
+<text id="85017">%null%</text>
+<text id="85018">%null%</text>
+<text id="85019">%null%</text>
+<text id="85020">EN属性のダメージに対する防御性能</text>
+<text id="85021">%null%</text>
+<text id="85022">%null%</text>
+<text id="85023">%null%</text>
+<text id="85024">%null%</text>
+<text id="85025">%null%</text>
+<text id="85026">%null%</text>
+<text id="85027">%null%</text>
+<text id="85028">%null%</text>
+<text id="85029">%null%</text>
+<text id="85030">爆発 / 燃焼属性のダメージに対する防御性能</text>
+<text id="85031">%null%</text>
+<text id="85032">%null%</text>
+<text id="85033">%null%</text>
+<text id="85034">%null%</text>
+<text id="85035">%null%</text>
+<text id="85036">%null%</text>
+<text id="85037">%null%</text>
+<text id="85038">%null%</text>
+<text id="85039">%null%</text>
+<text id="85040">各種属性のダメージに対する平均防御性能</text>
+<text id="85041">%null%</text>
+<text id="85042">%null%</text>
+<text id="85043">%null%</text>
+<text id="85044">%null%</text>
+<text id="85045">%null%</text>
+<text id="85046">%null%</text>
+<text id="85047">%null%</text>
+<text id="85048">%null%</text>
+<text id="85049">%null%</text>
+<text id="85050">ACSの負荷限界
+
+この値が大きいほどスタッガーが発生しにくい</text>
+<text id="85100">システム異常を検知して復元する性能
+
+この値が大きいほどシステム異常が発生しにくい</text>
+<text id="85101">%null%</text>
+<text id="85102">%null%</text>
+<text id="85103">%null%</text>
+<text id="85104">%null%</text>
+<text id="85105">%null%</text>
+<text id="85106">%null%</text>
+<text id="85107">%null%</text>
+<text id="85108">%null%</text>
+<text id="85109">%null%</text>
+<text id="85110">電子攻撃に対するカメラの安定性能
+
+この値が大きいほどカメラ妨害が発生した際の
+ロックオン距離減退が少なくなる</text>
+<text id="85111">%null%</text>
+<text id="85112">%null%</text>
+<text id="85113">%null%</text>
+<text id="85114">%null%</text>
+<text id="85115">%null%</text>
+<text id="85116">%null%</text>
+<text id="85117">%null%</text>
+<text id="85118">%null%</text>
+<text id="85119">%null%</text>
+<text id="85120">スキャンで敵やパーツコンテナを検出できる前方角度</text>
+<text id="85121">%null%</text>
+<text id="85122">%null%</text>
+<text id="85123">%null%</text>
+<text id="85124">%null%</text>
+<text id="85125">%null%</text>
+<text id="85126">%null%</text>
+<text id="85127">%null%</text>
+<text id="85128">%null%</text>
+<text id="85129">%null%</text>
+<text id="85130">スキャンで敵やパーツコンテナを検出できる距離</text>
+<text id="85131">%null%</text>
+<text id="85132">%null%</text>
+<text id="85133">%null%</text>
+<text id="85134">%null%</text>
+<text id="85135">%null%</text>
+<text id="85136">%null%</text>
+<text id="85137">%null%</text>
+<text id="85138">%null%</text>
+<text id="85139">%null%</text>
+<text id="85140">スキャンで敵やパーツコンテナを検出した際の持続時間</text>
+<text id="85200">ブースタのEN効率に対する補正
+
+この値が大きいほどクイックブーストの消費ENが少なくなる</text>
+<text id="85201">%null%</text>
+<text id="85202">%null%</text>
+<text id="85203">%null%</text>
+<text id="85204">%null%</text>
+<text id="85205">%null%</text>
+<text id="85206">%null%</text>
+<text id="85207">%null%</text>
+<text id="85208">%null%</text>
+<text id="85209">%null%</text>
+<text id="85210">ジェネレータのEN出力に対する補正
+
+この値が大きいほど最終出力が向上する</text>
+<text id="85211">%null%</text>
+<text id="85212">%null%</text>
+<text id="85213">%null%</text>
+<text id="85214">%null%</text>
+<text id="85215">%null%</text>
+<text id="85216">%null%</text>
+<text id="85217">%null%</text>
+<text id="85218">%null%</text>
+<text id="85219">%null%</text>
+<text id="85220">ジェネレータに接続されるサブタンクの容量
+
+この値がEN容量に追加される</text>
+<text id="85221">%null%</text>
+<text id="85222">%null%</text>
+<text id="85223">%null%</text>
+<text id="85224">%null%</text>
+<text id="85225">%null%</text>
+<text id="85226">%null%</text>
+<text id="85227">%null%</text>
+<text id="85228">%null%</text>
+<text id="85229">%null%</text>
+<text id="85230">ジェネレータのEN供給性能に対する補正
+
+この値が大きいほどEN消費アクション後の供給再開が早くなる</text>
+<text id="85300">腕部の安定駆動が保証される上限重量
+
+この値が大きいほど両手武器の扱いに余裕ができ
+超過による照準追従性能 / 反動制御低下が発生しづらくなる</text>
+<text id="85301">%null%</text>
+<text id="85302">%null%</text>
+<text id="85303">%null%</text>
+<text id="85304">%null%</text>
+<text id="85305">%null%</text>
+<text id="85306">%null%</text>
+<text id="85307">%null%</text>
+<text id="85308">%null%</text>
+<text id="85309">%null%</text>
+<text id="85310">射撃反動を吸収する性能
+
+この値が大きいほど連射による射撃精度低下が発生しづらくなる</text>
+<text id="85311">%null%</text>
+<text id="85312">%null%</text>
+<text id="85313">%null%</text>
+<text id="85314">%null%</text>
+<text id="85315">%null%</text>
+<text id="85316">%null%</text>
+<text id="85317">%null%</text>
+<text id="85318">%null%</text>
+<text id="85319">%null%</text>
+<text id="85320">射撃武器の使用に対する適性
+
+この値が大きいほど照準追従性能が向上する</text>
+<text id="85321">%null%</text>
+<text id="85322">%null%</text>
+<text id="85323">%null%</text>
+<text id="85324">%null%</text>
+<text id="85325">%null%</text>
+<text id="85326">%null%</text>
+<text id="85327">%null%</text>
+<text id="85328">%null%</text>
+<text id="85329">%null%</text>
+<text id="85330">近接武器の使用に対する適性
+
+この値が大きいほど攻撃力が向上する</text>
+<text id="85400">脚部が支えられる上限重量
+
+この値が大きいほど重量パーツを多数搭載できる</text>
+<text id="85401">%null%</text>
+<text id="85402">%null%</text>
+<text id="85403">%null%</text>
+<text id="85404">%null%</text>
+<text id="85405">%null%</text>
+<text id="85406">%null%</text>
+<text id="85407">%null%</text>
+<text id="85408">%null%</text>
+<text id="85409">%null%</text>
+<text id="85410">移動アクションに対するブレーキ性能
+
+この値が大きいほど制動距離が短くなる</text>
+<text id="85411">%null%</text>
+<text id="85412">%null%</text>
+<text id="85413">%null%</text>
+<text id="85414">%null%</text>
+<text id="85415">%null%</text>
+<text id="85416">%null%</text>
+<text id="85417">%null%</text>
+<text id="85418">%null%</text>
+<text id="85419">%null%</text>
+<text id="85420">ブーストOFF歩行の速度性能</text>
+<text id="85421">%null%</text>
+<text id="85422">%null%</text>
+<text id="85423">%null%</text>
+<text id="85424">%null%</text>
+<text id="85425">%null%</text>
+<text id="85426">%null%</text>
+<text id="85427">%null%</text>
+<text id="85428">%null%</text>
+<text id="85429">%null%</text>
+<text id="85430">ブーストOFF走行の速度性能</text>
+<text id="85431">%null%</text>
+<text id="85432">%null%</text>
+<text id="85433">%null%</text>
+<text id="85434">%null%</text>
+<text id="85435">%null%</text>
+<text id="85436">%null%</text>
+<text id="85437">%null%</text>
+<text id="85438">%null%</text>
+<text id="85439">%null%</text>
+<text id="85440">ブーストON走行の速度性能</text>
+<text id="85441">%null%</text>
+<text id="85442">%null%</text>
+<text id="85443">%null%</text>
+<text id="85444">%null%</text>
+<text id="85445">%null%</text>
+<text id="85446">%null%</text>
+<text id="85447">%null%</text>
+<text id="85448">%null%</text>
+<text id="85449">%null%</text>
+<text id="85450">キャタピラによる信地旋回の速度
+タンク脚部専用</text>
+<text id="85451">%null%</text>
+<text id="85452">%null%</text>
+<text id="85453">%null%</text>
+<text id="85454">%null%</text>
+<text id="85455">%null%</text>
+<text id="85456">%null%</text>
+<text id="85457">%null%</text>
+<text id="85458">%null%</text>
+<text id="85459">%null%</text>
+<text id="85460">水平方向の跳躍性能
+
+この値が大きいほど地上クイックブーストの初速が速くなる</text>
+<text id="85461">%null%</text>
+<text id="85462">%null%</text>
+<text id="85463">%null%</text>
+<text id="85464">%null%</text>
+<text id="85465">%null%</text>
+<text id="85466">%null%</text>
+<text id="85467">%null%</text>
+<text id="85468">%null%</text>
+<text id="85469">%null%</text>
+<text id="85470">垂直方向の跳躍性能
+
+この値が大きいほど地上ジャンプの到達高度が高くなる</text>
+<text id="85600">ロックオンが作動する距離
+
+この距離に入ると照準追従が有効になる</text>
+<text id="85601">%null%</text>
+<text id="85602">%null%</text>
+<text id="85603">%null%</text>
+<text id="85604">%null%</text>
+<text id="85605">%null%</text>
+<text id="85606">%null%</text>
+<text id="85607">%null%</text>
+<text id="85608">%null%</text>
+<text id="85609">%null%</text>
+<text id="85610">ロックオン対象に照準が追従する精度
+
+この値が大きいほど動いている敵に射撃を当てやすい</text>
+<text id="85611">%null%</text>
+<text id="85612">%null%</text>
+<text id="85613">%null%</text>
+<text id="85614">%null%</text>
+<text id="85615">%null%</text>
+<text id="85616">%null%</text>
+<text id="85617">%null%</text>
+<text id="85618">%null%</text>
+<text id="85619">%null%</text>
+<text id="85620">ミサイルなど誘導弾のロックオン完了時間にかかる補正値
+
+この値が大きいほど完了までが短くなる</text>
+<text id="85621">%null%</text>
+<text id="85622">%null%</text>
+<text id="85623">%null%</text>
+<text id="85624">%null%</text>
+<text id="85625">%null%</text>
+<text id="85626">%null%</text>
+<text id="85627">%null%</text>
+<text id="85628">%null%</text>
+<text id="85629">%null%</text>
+<text id="85630">ミサイルなど誘導弾のマルチロック完了時間にかかる補正値
+
+この値が大きいほど完了までが短くなる</text>
+<text id="85631">%null%</text>
+<text id="85632">%null%</text>
+<text id="85633">%null%</text>
+<text id="85634">%null%</text>
+<text id="85635">%null%</text>
+<text id="85636">%null%</text>
+<text id="85637">%null%</text>
+<text id="85638">%null%</text>
+<text id="85639">%null%</text>
+<text id="85640">近接武器追尾補正</text>
+<text id="85641">%null%</text>
+<text id="85642">%null%</text>
+<text id="85643">%null%</text>
+<text id="85644">%null%</text>
+<text id="85645">%null%</text>
+<text id="85646">%null%</text>
+<text id="85647">%null%</text>
+<text id="85648">%null%</text>
+<text id="85649">%null%</text>
+<text id="85650">近距離での照準アシスト適性
+
+この値が大きいほど近距離（130m圏内）で
+照準が合いやすくなる</text>
+<text id="85651">%null%</text>
+<text id="85652">%null%</text>
+<text id="85653">%null%</text>
+<text id="85654">%null%</text>
+<text id="85655">%null%</text>
+<text id="85656">%null%</text>
+<text id="85657">%null%</text>
+<text id="85658">%null%</text>
+<text id="85659">%null%</text>
+<text id="85660">中距離での照準アシスト適性
+
+この値が大きいほど中距離（130m - 260m圏内）で
+照準が合いやすくなる</text>
+<text id="85661">%null%</text>
+<text id="85662">%null%</text>
+<text id="85663">%null%</text>
+<text id="85664">%null%</text>
+<text id="85665">%null%</text>
+<text id="85666">%null%</text>
+<text id="85667">%null%</text>
+<text id="85668">%null%</text>
+<text id="85669">%null%</text>
+<text id="85670">遠距離での照準アシスト適性
+
+この値が大きいほど遠距離（260m圏外）で
+照準が合いやすくなる</text>
+<text id="85700">ジェネレータのEN出力
+
+この値が大きいほど高負荷パーツを多数搭載でき
+余裕があるほどEN回復が速くなる</text>
+<text id="85701">%null%</text>
+<text id="85702">%null%</text>
+<text id="85703">%null%</text>
+<text id="85704">%null%</text>
+<text id="85705">%null%</text>
+<text id="85706">%null%</text>
+<text id="85707">%null%</text>
+<text id="85708">%null%</text>
+<text id="85709">%null%</text>
+<text id="85710">使用できるENの総量
+
+この値が大きいほどEN消費アクションを多用できる</text>
+<text id="85711">%null%</text>
+<text id="85712">%null%</text>
+<text id="85713">%null%</text>
+<text id="85714">%null%</text>
+<text id="85715">%null%</text>
+<text id="85716">%null%</text>
+<text id="85717">%null%</text>
+<text id="85718">%null%</text>
+<text id="85719">%null%</text>
+<text id="85720">ジェネレータがEN補充を開始する立ち上がりの良さ
+
+この値が大きいほどEN消費アクション後の回復再開が早くなる</text>
+<text id="85721">%null%</text>
+<text id="85722">%null%</text>
+<text id="85723">%null%</text>
+<text id="85724">%null%</text>
+<text id="85725">%null%</text>
+<text id="85726">%null%</text>
+<text id="85727">%null%</text>
+<text id="85728">%null%</text>
+<text id="85729">%null%</text>
+<text id="85730">ジェネレータのEN供給が停止した際の復元性能
+
+この値が大きいほどEN全消費からの回復再開が早くなる</text>
+<text id="85731">%null%</text>
+<text id="85732">%null%</text>
+<text id="85733">%null%</text>
+<text id="85734">%null%</text>
+<text id="85735">%null%</text>
+<text id="85736">%null%</text>
+<text id="85737">%null%</text>
+<text id="85738">%null%</text>
+<text id="85739">%null%</text>
+<text id="85740">ジェネレータのEN供給が復元した際に補充されるEN
+
+この値が大きいほどEN全消費からの回復再開で多くのENが補充され
+直後からEN消費アクションを多用できる</text>
+<text id="85741">%null%</text>
+<text id="85742">%null%</text>
+<text id="85743">%null%</text>
+<text id="85744">%null%</text>
+<text id="85745">%null%</text>
+<text id="85746">%null%</text>
+<text id="85747">%null%</text>
+<text id="85748">%null%</text>
+<text id="85749">%null%</text>
+<text id="85750">EN属性射撃武器への出力伝達効率
+
+この値が大きいほど対象となる武器の攻撃力が向上し
+チャージ完了までにかかる時間も短くなる
+
+近接武器やプラズマミサイルなど
+出力系統が独立している武器には反映されない</text>
+<text id="86000">ブースト移動の推力
+
+この値が大きいほど高速で移動できる</text>
+<text id="86001">%null%</text>
+<text id="86002">%null%</text>
+<text id="86003">%null%</text>
+<text id="86004">%null%</text>
+<text id="86005">%null%</text>
+<text id="86006">%null%</text>
+<text id="86007">%null%</text>
+<text id="86008">%null%</text>
+<text id="86009">%null%</text>
+<text id="86010">ブースト上昇の推力
+
+この値が大きいほど高速で上昇できる</text>
+<text id="86011">%null%</text>
+<text id="86012">%null%</text>
+<text id="86013">%null%</text>
+<text id="86014">%null%</text>
+<text id="86015">%null%</text>
+<text id="86016">%null%</text>
+<text id="86017">%null%</text>
+<text id="86018">%null%</text>
+<text id="86019">%null%</text>
+<text id="86020">ブースト上昇で消費するEN</text>
+<text id="86021">%null%</text>
+<text id="86022">%null%</text>
+<text id="86023">%null%</text>
+<text id="86024">%null%</text>
+<text id="86025">%null%</text>
+<text id="86026">%null%</text>
+<text id="86027">%null%</text>
+<text id="86028">%null%</text>
+<text id="86029">%null%</text>
+<text id="86030">クイックブーストの初動推力
+
+この値が大きいほど動き出しが素早くなる</text>
+<text id="86031">%null%</text>
+<text id="86032">%null%</text>
+<text id="86033">%null%</text>
+<text id="86034">%null%</text>
+<text id="86035">%null%</text>
+<text id="86036">%null%</text>
+<text id="86037">%null%</text>
+<text id="86038">%null%</text>
+<text id="86039">%null%</text>
+<text id="86040">クイックブーストの噴射時間
+
+この値が大きいほど移動距離が大きくなる</text>
+<text id="86041">%null%</text>
+<text id="86042">%null%</text>
+<text id="86043">%null%</text>
+<text id="86044">%null%</text>
+<text id="86045">%null%</text>
+<text id="86046">%null%</text>
+<text id="86047">%null%</text>
+<text id="86048">%null%</text>
+<text id="86049">%null%</text>
+<text id="86050">クイックブーストで消費するEN</text>
+<text id="86051">%null%</text>
+<text id="86052">%null%</text>
+<text id="86053">%null%</text>
+<text id="86054">%null%</text>
+<text id="86055">%null%</text>
+<text id="86056">%null%</text>
+<text id="86057">%null%</text>
+<text id="86058">%null%</text>
+<text id="86059">%null%</text>
+<text id="86060">クイックブーストのリロード時間
+
+この値が小さいほど小刻みに連続発動できる</text>
+<text id="86061">%null%</text>
+<text id="86062">%null%</text>
+<text id="86063">%null%</text>
+<text id="86064">%null%</text>
+<text id="86065">%null%</text>
+<text id="86066">%null%</text>
+<text id="86067">%null%</text>
+<text id="86068">%null%</text>
+<text id="86069">%null%</text>
+<text id="86070">アサルトブーストの推力
+
+この値が大きいほど高速で突撃できる</text>
+<text id="86071">%null%</text>
+<text id="86072">%null%</text>
+<text id="86073">%null%</text>
+<text id="86074">%null%</text>
+<text id="86075">%null%</text>
+<text id="86076">%null%</text>
+<text id="86077">%null%</text>
+<text id="86078">%null%</text>
+<text id="86079">%null%</text>
+<text id="86080">アサルトブーストで消費するEN</text>
+<text id="86081">%null%</text>
+<text id="86082">%null%</text>
+<text id="86083">%null%</text>
+<text id="86084">%null%</text>
+<text id="86085">%null%</text>
+<text id="86086">%null%</text>
+<text id="86087">%null%</text>
+<text id="86088">%null%</text>
+<text id="86089">%null%</text>
+<text id="86090">クイックブーストのリロード時間が保証される重量
+
+この値が大きいほど重量機体でも性能が低下しない</text>
+<text id="86091">%null%</text>
+<text id="86092">%null%</text>
+<text id="86093">%null%</text>
+<text id="86094">%null%</text>
+<text id="86095">%null%</text>
+<text id="86096">%null%</text>
+<text id="86097">%null%</text>
+<text id="86098">%null%</text>
+<text id="86099">%null%</text>
+<text id="86100">近接武器で敵を追尾する際の推力
+
+近接武器の多くは一定距離内にいる敵を追尾可能であり
+この値が大きいほどその際の速度が向上する</text>
+<text id="86101">%null%</text>
+<text id="86102">%null%</text>
+<text id="86103">%null%</text>
+<text id="86104">%null%</text>
+<text id="86105">%null%</text>
+<text id="86106">%null%</text>
+<text id="86107">%null%</text>
+<text id="86108">%null%</text>
+<text id="86109">%null%</text>
+<text id="86110">近接武器の使用に伴う移動で消費するEN</text>
+</entries>
+</fmg>

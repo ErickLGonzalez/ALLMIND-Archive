@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCEL</text>
+<text id="3">YES</text>
+<text id="4">NO</text>
+<text id="1000">COAMが不足しているため購入できません</text>
+<text id="1001">%null%</text>
+<text id="1002">%null%</text>
+<text id="1003">%null%</text>
+<text id="1004">&lt;?itemName?&gt;を
+&lt;?price?&gt; COAMで購入します</text>
+<text id="1005">&lt;?itemName?&gt;を
+&lt;?price?&gt; COAMで売却します</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">%null%</text>
+<text id="1011">全ての設定を初期状態に戻します
+よろしいですか？</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="1018">%null%</text>
+<text id="1019">%null%</text>
+<text id="1020">名前が入力されていません</text>
+<text id="1040">ゲームのインストールが完了していないため出撃できません</text>
+<text id="1041">%null%</text>
+<text id="1042">%null%</text>
+<text id="1043">%null%</text>
+<text id="1044">%null%</text>
+<text id="1045">%null%</text>
+<text id="1046">%null%</text>
+<text id="1047">%null%</text>
+<text id="1048">%null%</text>
+<text id="1049">%null%</text>
+<text id="1050">使用できない文字が入力されています
+英数字のみ使用してください</text>
+<text id="1100">使用不可データを検出したため
+ペイント / デカール / 機体名が初期化されました</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">設定中の機体構成またはイメージが使用不可になったため
+ペイント / デカール / 機体名 が全て初期化されました</text>
+<text id="1111">%null%</text>
+<text id="1112">%null%</text>
+<text id="1113">%null%</text>
+<text id="1114">%null%</text>
+<text id="1115">%null%</text>
+<text id="1116">%null%</text>
+<text id="1117">%null%</text>
+<text id="1118">%null%</text>
+<text id="1119">%null%</text>
+<text id="1120">使用不可データを検出したため
+エンブレムが初期化されました</text>
+<text id="1121">%null%</text>
+<text id="1122">%null%</text>
+<text id="1123">%null%</text>
+<text id="1124">%null%</text>
+<text id="1125">&lt;?gameServer?&gt; との通信に失敗しました
+再度通信を試みる場合は「OK」を選択してください　</text>
+<text id="1126">%null%</text>
+<text id="1127">%null%</text>
+<text id="1128">%null%</text>
+<text id="1129">%null%</text>
+<text id="1130">対戦履歴の機体構成またはイメージが使用不可になったため
+一部要素が初期化して表示されます</text>
+<text id="1131">%null%</text>
+<text id="1132">&lt;?gameServer?&gt;との通信に失敗しました</text>
+<text id="1133">%null%</text>
+<text id="1134">&lt;?gameServer?&gt;との通信を行っています</text>
+<text id="1135">%null%</text>
+<text id="1136">使用不可データを検出したため
+当該メンバーのエンブレムを初期化して表示します</text>
+<text id="1137">%null%</text>
+<text id="1138">使用不可データを検出したため
+ペイント / デカール / 機体名を初期化して表示します</text>
+<text id="1200">アップロード数が上限に達しているため実行できません</text>
+<text id="9103">コピーしたカラーで上書きします
+よろしいですか？</text>
+<text id="9104">編集内容を破棄します
+よろしいですか？</text>
+<text id="20200">取引に応じる</text>
+<text id="20201">取引に応じない</text>
+<text id="20202">%null%</text>
+<text id="20203">%null%</text>
+<text id="20204">%null%</text>
+<text id="20205">%null%</text>
+<text id="20206">%null%</text>
+<text id="20207">%null%</text>
+<text id="20208">%null%</text>
+<text id="20209">%null%</text>
+<text id="20210">勧告に応じる</text>
+<text id="20211">勧告に応じない</text>
+<text id="21003">OST CHIP を &lt;?quantity?&gt; 入手しました</text>
+<text id="40202">不正なデータ名です
+他の名前を入力してください</text>
+<text id="40203">同一のデータ名が存在します
+他の名前を入力してください</text>
+<text id="40300">編集制限が掛かっているため操作を実行できません
+実行すると編集制限が解除され
+ペイント / デカール / 機体名が全て初期化されます
+
+編集制限を解除してよろしいですか？</text>
+<text id="102004">テストを開始します
+よろしいですか？</text>
+<text id="104000">出撃できるミッションがありません</text>
+<text id="120002">ミッションを最初からやり直します
+よろしいですか？</text>
+<text id="120003">ミッションを終了してガレージに戻ります
+よろしいですか？ </text>
+<text id="120004">ミッションをチェックポイントからやり直します
+よろしいですか？</text>
+<text id="120005">%null%</text>
+<text id="120006">%null%</text>
+<text id="120007">%null%</text>
+<text id="120008">%null%</text>
+<text id="120009">%null%</text>
+<text id="120010">%null%</text>
+<text id="120011">AP / 弾薬を補充しました</text>
+<text id="120012">%null%</text>
+<text id="120013">%null%</text>
+<text id="120014">%null%</text>
+<text id="120015">%null%</text>
+<text id="120016">%null%</text>
+<text id="120017">%null%</text>
+<text id="120018">%null%</text>
+<text id="120019">%null%</text>
+<text id="120020">プログラムを最初からやり直します
+よろしいですか？ </text>
+<text id="120021">プログラムを終了してガレージに戻ります
+よろしいですか？ </text>
+<text id="120022">%null%</text>
+<text id="120023">%null%</text>
+<text id="120024">%null%</text>
+<text id="120025">%null%</text>
+<text id="120026">%null%</text>
+<text id="120027">%null%</text>
+<text id="120028">%null%</text>
+<text id="120029">%null%</text>
+<text id="120030">トレーニングを最初からやり直します
+よろしいですか？ </text>
+<text id="120031">トレーニングを終了してガレージに戻ります
+よろしいですか？ </text>
+<text id="120050">テストを終了してガレージに戻ります
+よろしいですか？</text>
+<text id="120100">観戦を終了して対戦ルームに戻ります
+
+ホストのため現在の対戦は中止されます
+よろしいですか？</text>
+<text id="120101">観戦を終了して対戦ルームに戻ります
+よろしいですか？</text>
+<text id="201000">設定をリセットします
+よろしいですか？</text>
+<text id="201100">フォトモードを終了します
+よろしいですか？</text>
+<text id="205102">このミッションは固有の専用機体で出撃します</text>
+<text id="205513">ブースタを外しました
+脚部タイプがTANKのときは内蔵ブースタを使用します</text>
+<text id="205514">脚部タイプがTANK以外に変更されたため
+所持ブースタを装備しました</text>
+<text id="205515">脚部タイプがTANKのときは内蔵ブースタを使用します</text>
+<text id="205550">パーツを変更すると該当箇所のデカールが全て削除されます
+よろしいですか？</text>
+<text id="206001">〈&lt;?assembleDataName?&gt;〉を上書きします
+
+既存の機体構成は失われます
+よろしいですか？</text>
+<text id="206002">〈&lt;?assembleDataName?&gt;〉をロードします
+
+現在の機体構成は失われます
+よろしいですか？</text>
+<text id="206003">〈&lt;?assembleDataName?&gt;〉をロードしました</text>
+<text id="206004">選択している機体データを削除します
+よろしいですか？</text>
+<text id="206005">ロードできません
+機体構成に未所持パーツが含まれています</text>
+<text id="206006">このミッションは固有の専用機体で出撃します</text>
+<text id="206007">ロードできません
+未解禁の武器ハンガー機能が使用されたデータです</text>
+<text id="206008">ロードできません
+未解禁のコア拡張機能が使用されたデータです</text>
+<text id="206020">ロードできません
+ブロックしているユーザーの機体データです</text>
+<text id="206100">〈&lt;?assembleDataName?&gt;〉を上書き保存します
+現在の機体構成に編集制限が掛かっているため
+ペイント / デカール / 機体名を全て初期化したものが上書き保存されます
+よろしいですか？</text>
+<text id="206200">現在の機体構成に編集制限が掛かっているため
+ペイント / デカール / 機体名を全て初期化したものが保存されます
+よろしいですか？</text>
+<text id="210500">カラーを設定するため適用中のパターンを外します
+よろしいですか？</text>
+<text id="210520">選択中のパターンでは このカラーは使用しません</text>
+<text id="210550">現在のカラーセットで上書きします
+よろしいですか？</text>
+<text id="211000">貼られているイメージを全て削除します
+よろしいですか？</text>
+<text id="211001">%null%</text>
+<text id="211002">%null%</text>
+<text id="211003">%null%</text>
+<text id="211004">%null%</text>
+<text id="211005">%null%</text>
+<text id="211006">%null%</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">貼られているイメージを対となる腕部に反転複製します
+よろしいですか？</text>
+<text id="211050">使用中のイメージが上限数に達しています</text>
+<text id="211051">選択したイメージの貼り付けを全て削除します
+よろしいですか？</text>
+<text id="211100">選択したレイヤーを削除します
+よろしいですか？</text>
+<text id="211200">編集内容を破棄します
+よろしいですか？</text>
+<text id="211300">選択したデカールを左右反転して複製します
+よろしいですか？</text>
+<text id="211350">デカール貼り付け枚数が上限に達しています</text>
+<text id="211400">同じピース構成のイメージが既に貼り付けられているため
+IN USEタブにあるイメージを使用します</text>
+<text id="212000">デカールを設定するため 適用中のエンブレムを解除します
+よろしいですか？</text>
+<text id="213000">選択したイメージを削除します
+よろしいですか？</text>
+<text id="213001">%null%</text>
+<text id="213002">%null%</text>
+<text id="213003">%null%</text>
+<text id="213004">%null%</text>
+<text id="213005">変更先の保存数が上限に達しています
+保存データを削除して総数を減らしてください</text>
+<text id="213006">%null%</text>
+<text id="213007">%null%</text>
+<text id="213008">%null%</text>
+<text id="213009">%null%</text>
+<text id="213010">選択できません
+ブロックしているユーザーのイメージです</text>
+<text id="213100">編集内容を破棄します
+よろしいですか？</text>
+<text id="213101">レイヤーを削除します
+よろしいですか？</text>
+<text id="213102">%null%</text>
+<text id="213103">%null%</text>
+<text id="213104">%null%</text>
+<text id="213105">%null%</text>
+<text id="213106">%null%</text>
+<text id="213107">%null%</text>
+<text id="213108">%null%</text>
+<text id="213109">%null%</text>
+<text id="213110">編集内容を保存します
+よろしいですか？</text>
+<text id="213111">編集内容を破棄します
+よろしいですか？</text>
+<text id="213200">グループの作成数が上限に達しています
+グループを解除して総数を減らしてください</text>
+<text id="213201">レイヤー作成数が上限に達しているため挿入できません</text>
+<text id="213300">グループに対して拡縮編集を行っていた場合
+解除によりレイアウトが崩れる可能性があります
+実行してよろしいですか？</text>
+<text id="220000">選択したOS強化を行います
+よろしいですか？</text>
+<text id="220001">OST CHIP不足のため強化できません</text>
+<text id="221000">OS強化状況をリセットするには
+&lt;?price?&gt; COAMが必要です
+よろしいですか？</text>
+<text id="221001">OS強化状況をリセットするには
+&lt;?price?&gt; COAMが必要です</text>
+<text id="221002">OS強化状況をリセットしました</text>
+<text id="221003">肩部に装備されているハンガー武器を外しました</text>
+<text id="221004">装備されているコア拡張機能を外しました</text>
+<text id="231001">不足分のパーツを購入します
+よろしいですか？</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">購入可能なパーツがありません</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">購入可能なパーツを全て購入しました</text>
+<text id="232002">装備しているパーツは売却できません</text>
+<text id="234010">NP不足のため購入できません</text>
+<text id="250500">ミッションに出撃します
+よろしいですか？</text>
+<text id="250501">%null%</text>
+<text id="250502">%null%</text>
+<text id="250503">%null%</text>
+<text id="250504">EN出力不足のため出撃できません</text>
+<text id="250505">積載超過のため出撃できません</text>
+<text id="251000">トレーニングを開始します
+よろしいですか？</text>
+<text id="254000">ミッションを最初からやり直します
+よろしいですか？</text>
+<text id="254001">ミッションをチェックポイントからやり直します
+よろしいですか？</text>
+<text id="254002">ミッションを終了してガレージに戻ります
+よろしいですか？ </text>
+<text id="258301">対戦可能条件を満たしていません</text>
+<text id="258500">プログラムを開始します
+よろしいですか？</text>
+<text id="258501">%null%</text>
+<text id="258502">積載超過のため機動性が低下しています
+出撃してよろしいですか？</text>
+<text id="258503">%null%</text>
+<text id="258504">%null%</text>
+<text id="258505">%null%</text>
+<text id="258506">%null%</text>
+<text id="258507">%null%</text>
+<text id="258508">%null%</text>
+<text id="258509">%null%</text>
+<text id="258510">腕部積載超過のため照準追従性能が低下しています
+出撃してよろしいですか？</text>
+<text id="258511">%null%</text>
+<text id="258512">%null%</text>
+<text id="258513">%null%</text>
+<text id="258514">%null%</text>
+<text id="258515">%null%</text>
+<text id="258516">%null%</text>
+<text id="258517">%null%</text>
+<text id="258518">%null%</text>
+<text id="258519">%null%</text>
+<text id="258520">積載超過および腕部積載超過のため
+機動性 / 照準追従性能が低下しています
+出撃してよろしいですか？</text>
+<text id="280500">現在の機体構成を&lt;?gameServer?&gt;に登録しています</text>
+<text id="281000">対戦相手を検索しています</text>
+<text id="281001">対戦相手の検索に失敗しました</text>
+<text id="281002">%null%</text>
+<text id="281003">%null%</text>
+<text id="281004">%null%</text>
+<text id="281005">%null%</text>
+<text id="281006">%null%</text>
+<text id="281007">%null%</text>
+<text id="281008">%null%</text>
+<text id="281009">%null%</text>
+<text id="281010">キーワードを入力してください</text>
+<text id="281011">対戦ルームの作成に失敗しました</text>
+<text id="281012">%null%</text>
+<text id="281013">%null%</text>
+<text id="281014">%null%</text>
+<text id="281015">%null%</text>
+<text id="281016">%null%</text>
+<text id="281017">%null%</text>
+<text id="281018">%null%</text>
+<text id="281019">%null%</text>
+<text id="281020">%null%</text>
+<text id="281021">対戦ルームが見つかりません</text>
+<text id="281022">%null%</text>
+<text id="281023">%null%</text>
+<text id="281024">%null%</text>
+<text id="281025">%null%</text>
+<text id="281026">%null%</text>
+<text id="281027">%null%</text>
+<text id="281028">%null%</text>
+<text id="281029">%null%</text>
+<text id="281030">対戦ルームから退出します
+よろしいですか？</text>
+<text id="281103">ルームメンバーが準備完了するまで待機します</text>
+<text id="281104">%null%</text>
+<text id="281105">退出しています</text>
+<text id="281106">対戦ルームからの退出に失敗しました</text>
+<text id="281107">チーム設定に失敗しました
+再度チーム設定を行ってください</text>
+<text id="281200">この設定で対戦ルームを作成します
+よろしいですか？</text>
+<text id="281201">この人数では使用できないルールが設定されています
+設定を変更してください</text>
+<text id="281202">%null%</text>
+<text id="281203">%null%</text>
+<text id="281204">%null%</text>
+<text id="281205">%null%</text>
+<text id="281206">%null%</text>
+<text id="281207">%null%</text>
+<text id="281208">%null%</text>
+<text id="281209">%null%</text>
+<text id="281210">対戦ルームを作成しています</text>
+<text id="281260">設定したルールに変更します
+よろしいですか？</text>
+<text id="281261">ルール設定を変更しています</text>
+<text id="281262">ルール設定の変更に失敗しました</text>
+<text id="281300">この設定で対戦ルームを検索します
+よろしいですか？</text>
+<text id="281301">%null%</text>
+<text id="281302">%null%</text>
+<text id="281303">%null%</text>
+<text id="281304">%null%</text>
+<text id="281305">%null%</text>
+<text id="281306">%null%</text>
+<text id="281307">%null%</text>
+<text id="281308">%null%</text>
+<text id="281309">%null%</text>
+<text id="281310">対戦ルームを検索しています</text>
+<text id="281311">対戦ルームの検索に失敗しました</text>
+<text id="281400">選択した対戦ルームに参加します
+よろしいですか？</text>
+<text id="281401">%null%</text>
+<text id="281402">%null%</text>
+<text id="281403">%null%</text>
+<text id="281404">%null%</text>
+<text id="281405">%null%</text>
+<text id="281406">%null%</text>
+<text id="281407">%null%</text>
+<text id="281408">%null%</text>
+<text id="281409">%null%</text>
+<text id="281410">対戦ルームに参加しています</text>
+<text id="281411">対戦ルームへの参加に失敗しました</text>
+<text id="281750">&lt;?onlineId?&gt; の退出処理を行います
+よろしいですか？</text>
+<text id="281751">&lt;?onlineId?&gt; の退出処理を行いました</text>
+<text id="281752">&lt;?onlineId?&gt; の退出処理に失敗しました</text>
+<text id="281753">&lt;?onlineId?&gt; の退出処理を行っています</text>
+<text id="281754">ホストにより退出処理が行われました</text>
+<text id="281810">選択した理由で通報します
+よろしいですか？</text>
+<text id="281811">通報が完了しました
+
+詳細情報を提供される際は下記の通報IDをお控えいただき
+弊社ユーザーサポート お問合せフォームからご連絡ください
+
+通報ID：&lt;?reportId?&gt;</text>
+<text id="281812">通報に失敗しました</text>
+<text id="281813">通報しています</text>
+<text id="281900">対戦ルームが解散されました</text>
+<text id="281950">不正なマルチプレイ終了が繰り返されたことを検知しました
+一定時間経過するまでマルチプレイを実行できません</text>
+<text id="281951">%null%</text>
+<text id="281952">%null%</text>
+<text id="281953">%null%</text>
+<text id="281954">%null%</text>
+<text id="281955">対戦ルームが定員のため参加できませんでした</text>
+<text id="282000">対戦ルームへの参加に失敗しました</text>
+<text id="282100">観戦者に設定されているため実行できません</text>
+<text id="282101">%null%</text>
+<text id="282102">%null%</text>
+<text id="282103">%null%</text>
+<text id="282104">%null%</text>
+<text id="282105">%null%</text>
+<text id="282106">%null%</text>
+<text id="282107">%null%</text>
+<text id="282108">%null%</text>
+<text id="282109">%null%</text>
+<text id="282110">ルームメンバーが出撃中のため実行できません</text>
+<text id="282111">%null%</text>
+<text id="282112">%null%</text>
+<text id="282113">%null%</text>
+<text id="282114">%null%</text>
+<text id="282115">%null%</text>
+<text id="282116">%null%</text>
+<text id="282117">%null%</text>
+<text id="282118">%null%</text>
+<text id="282119">%null%</text>
+<text id="282120">出撃メンバーが定員に達しています</text>
+<text id="284010">詳細情報を取得しています</text>
+<text id="284011">詳細情報の取得に失敗しました</text>
+<text id="286000">機体データ〈&lt;?assembleDataName?&gt;〉をアップロードします
+よろしいですか？</text>
+<text id="286001">機体データ〈&lt;?assembleDataName?&gt;〉がアップロードされ
+共有ID &lt;?ugcId?&gt; が発行されました</text>
+<text id="286002">機体データ〈&lt;?assembleDataName?&gt;〉のアップロードに失敗しました</text>
+<text id="286003">%null%</text>
+<text id="286004">%null%</text>
+<text id="286005">機体データをアップロードしています</text>
+<text id="286100">共有ID &lt;?ugcId?&gt;
+選択した機体データを
+&lt;?gameServer?&gt;から削除します
+よろしいですか？</text>
+<text id="286101">共有ID &lt;?ugcId?&gt;
+選択した機体データを
+&lt;?gameServer?&gt;から削除しました</text>
+<text id="286102">共有ID &lt;?ugcId?&gt;
+選択した機体データの削除に失敗しました</text>
+<text id="286103">%null%</text>
+<text id="286104">%null%</text>
+<text id="286105">機体データを&lt;?gameServer?&gt;から削除しています</text>
+<text id="286200">共有ID &lt;?ugcId?&gt; の機体データは存在しません</text>
+<text id="286201">共有IDが入力されていません</text>
+<text id="286202">%null%</text>
+<text id="286203">%null%</text>
+<text id="286204">%null%</text>
+<text id="286205">機体データを検索しています</text>
+<text id="286300">共有ID &lt;?ugcId?&gt;
+機体データ〈&lt;?assembleDataName?&gt;〉は既に所持しています</text>
+<text id="286500">機体データを&lt;?gameServer?&gt;から取得しています</text>
+<text id="286501">機体データの取得に失敗しました</text>
+<text id="286502">%null%</text>
+<text id="286503">%null%</text>
+<text id="286504">%null%</text>
+<text id="286505">%null%</text>
+<text id="286506">%null%</text>
+<text id="286507">%null%</text>
+<text id="286508">%null%</text>
+<text id="286509">%null%</text>
+<text id="286510">機体データのダウンロードに失敗しました</text>
+<text id="287000">選択したイメージデータをアップロードします
+よろしいですか？</text>
+<text id="287001">イメージデータがアップロードされ
+共有ID &lt;?ugcId?&gt; が発行されました</text>
+<text id="287002">イメージデータのアップロードに失敗しました</text>
+<text id="287003">%null%</text>
+<text id="287004">%null%</text>
+<text id="287005">イメージデータをアップロードしています</text>
+<text id="287100">共有ID &lt;?ugcId?&gt; のイメージデータを
+&lt;?gameServer?&gt;から削除します
+よろしいですか？</text>
+<text id="287101">共有ID &lt;?ugcId?&gt; のイメージデータを
+&lt;?gameServer?&gt;から削除しました</text>
+<text id="287102">共有ID &lt;?ugcId?&gt; のイメージデータ削除に失敗しました</text>
+<text id="287103">%null%</text>
+<text id="287104">%null%</text>
+<text id="287105">イメージデータを&lt;?gameServer?&gt;から削除しています</text>
+<text id="287200">共有ID &lt;?ugcId?&gt; のイメージデータは存在しません</text>
+<text id="287201">%null%</text>
+<text id="287202">%null%</text>
+<text id="287203">%null%</text>
+<text id="287204">%null%</text>
+<text id="287205">イメージデータを検索しています</text>
+<text id="287300">共有ID &lt;?ugcId?&gt; のイメージデータは既に所持しています</text>
+<text id="287500">イメージデータを&lt;?gameServer?&gt;から取得しています</text>
+<text id="287501">イメージデータの取得に失敗しました</text>
+<text id="287502">%null%</text>
+<text id="287503">%null%</text>
+<text id="287504">%null%</text>
+<text id="287505">%null%</text>
+<text id="287506">%null%</text>
+<text id="287507">%null%</text>
+<text id="287508">%null%</text>
+<text id="287509">%null%</text>
+<text id="287510">イメージデータのダウンロードに失敗しました</text>
+<text id="401701">&lt;?systemMsgId@401701?&gt;</text>
+<text id="413030">HDRをOFFに変更しました</text>
+<text id="413031">HDRをONに変更しました</text>
+<text id="413032">%null%</text>
+<text id="413033">%null%</text>
+<text id="413034">%null%</text>
+<text id="413035">%null%</text>
+<text id="413036">%null%</text>
+<text id="413037">%null%</text>
+<text id="413038">%null%</text>
+<text id="413039">%null%</text>
+<text id="413040">HDRの設定がONの場合
+ゲーム内のシステムメニューでのみ
+画質を調整することができます</text>
+<text id="416001">&lt;?selectPreset?&gt;を設定しました</text>
+<text id="416002">%null%</text>
+<text id="416003">%null%</text>
+<text id="416004">%null%</text>
+<text id="416005">%null%</text>
+<text id="416006">%null%</text>
+<text id="416007">%null%</text>
+<text id="416008">%null%</text>
+<text id="416009">%null%</text>
+<text id="416010">&lt;?selectPreset?&gt;は割り当て設定がされていません
+割り当て設定を完了するかプリセットを選択してください</text>
+<text id="416011">%null%</text>
+<text id="416012">%null%</text>
+<text id="416013">%null%</text>
+<text id="416014">%null%</text>
+<text id="416015">%null%</text>
+<text id="416016">%null%</text>
+<text id="416017">%null%</text>
+<text id="416018">%null%</text>
+<text id="416019">%null%</text>
+<text id="416020">全ての設定を初期状態に戻します
+よろしいですか？</text>
+<text id="416500">この項目の割り当ては解除できません</text>
+<text id="416501">重複している割り当てがあります
+設定を確認してください</text>
+<text id="416502">重複している割り当てがあるため保存できません
+保存せずに終了してよろしいですか？</text>
+<text id="416503">%null%</text>
+<text id="416504">%null%</text>
+<text id="416505">%null%</text>
+<text id="416506">%null%</text>
+<text id="416507">%null%</text>
+<text id="416508">%null%</text>
+<text id="416509">%null%</text>
+<text id="416510">&lt;?selectPreset?&gt;の設定内容を削除します
+よろしいですか？</text>
+<text id="416511">&lt;?selectPreset?&gt;の設定内容を削除しました</text>
+<text id="418000">ゲームを保存してタイトル画面に戻ります
+よろしいですか？</text>
+<text id="418001">出撃以降の進行状況を破棄してタイトル画面に戻ります
+よろしいですか？</text>
+<text id="419000">ゲームを保存してアプリケーションを終了します
+よろしいですか？</text>
+<text id="419001">出撃以降の進行状況を破棄してアプリケーションを終了します
+よろしいですか？</text>
+<text id="650000">設定した内容でゲームを開始します
+よろしいですか？</text>
+<text id="650001">入力を破棄してタイトル画面に戻ります
+よろしいですか？</text>
+<text id="710000">DLCに含まれるパーツが無効化されました</text>
+<text id="710001">%null%</text>
+<text id="710002">%null%</text>
+<text id="710003">%null%</text>
+<text id="710004">%null%</text>
+<text id="710005">%null%</text>
+<text id="710006">%null%</text>
+<text id="710007">%null%</text>
+<text id="710008">%null%</text>
+<text id="710009">%null%</text>
+<text id="710010">DLCに含まれるエンブレムが無効化されました</text>
+<text id="710011">%null%</text>
+<text id="710012">%null%</text>
+<text id="710013">%null%</text>
+<text id="710014">%null%</text>
+<text id="710015">%null%</text>
+<text id="710016">%null%</text>
+<text id="710017">%null%</text>
+<text id="710018">%null%</text>
+<text id="710019">%null%</text>
+<text id="710020">DLCに含まれる機体データが無効化されました</text>
+<text id="710021">%null%</text>
+<text id="710022">%null%</text>
+<text id="710023">%null%</text>
+<text id="710024">%null%</text>
+<text id="710025">%null%</text>
+<text id="710026">%null%</text>
+<text id="710027">%null%</text>
+<text id="710028">%null%</text>
+<text id="710029">%null%</text>
+<text id="710030">DLC所持状況変更に伴い機体構成が変更されました</text>
+</entries>
+</fmg>

@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2010">・傭兵ライセンス入手</text>
+<text id="2011">%null%</text>
+<text id="2012">%null%</text>
+<text id="2013">%null%</text>
+<text id="2014">%null%</text>
+<text id="2015">%null%</text>
+<text id="2016">%null%</text>
+<text id="2017">%null%</text>
+<text id="2018">%null%</text>
+<text id="2019">%null%</text>
+<text id="2020">・ルビコン解放戦線の治水拠点襲撃
+　および変電施設の全破壊
+
+・僚機あり</text>
+<text id="2021">%null%</text>
+<text id="2022">%null%</text>
+<text id="2023">%null%</text>
+<text id="2024">%null%</text>
+<text id="2025">・ルビコン解放戦線の治水拠点襲撃
+　および変電施設の全破壊
+
+・僚機あり</text>
+<text id="2026">%null%</text>
+<text id="2027">%null%</text>
+<text id="2028">%null%</text>
+<text id="2029">%null%</text>
+<text id="2030">・ルビコン解放戦線拠点に対する友軍突入支援
+　および重装機動砲台「ジャガーノート」撃破
+
+・途中合流する僚機あり
+
+・敵撃破に応じて報酬を加算</text>
+<text id="2050">・ウォッチポイントSG部隊排除
+　および最奥制御センターにある制御装置の破壊</text>
+<text id="2051">%null%</text>
+<text id="2052">%null%</text>
+<text id="2053">%null%</text>
+<text id="2054">%null%</text>
+<text id="2055">・ウォッチポイントSG部隊排除
+　および最奥制御センターにある制御装置の破壊</text>
+<text id="2056">%null%</text>
+<text id="2057">%null%</text>
+<text id="2058">%null%</text>
+<text id="2059">%null%</text>
+<text id="2060">・BAWS第2工廠潜入
+　および通信途絶の原因調査</text>
+<text id="2080">・ルビコン解放戦線の巨大兵器
+　武装採掘艦「ストライダー」破壊</text>
+<text id="2100">・MT残骸から最低5件の戦闘ログを回収
+
+・時間制限あり
+
+・回収したログ内容に応じて報酬を加算</text>
+<text id="2120">・グリッド086侵入
+　および最奥区画到達
+
+・敵撃破に応じて報酬を加算</text>
+<text id="2140">・ルビコン解放戦線の捕虜救出ヘリ護衛</text>
+<text id="2170">・ヴェスパー第7隊長「スウィンバーン」排除
+
+・キャプチャーカメラ装備MTに撮影されると即時失敗</text>
+<text id="2171">%null%</text>
+<text id="2172">%null%</text>
+<text id="2173">%null%</text>
+<text id="2174">%null%</text>
+<text id="2175">%null%</text>
+<text id="2176">%null%</text>
+<text id="2177">%null%</text>
+<text id="2178">%null%</text>
+<text id="2179">%null%</text>
+<text id="2180">・グリッド086上層外殻侵入
+　および大陸間輸送用カーゴランチャー到達</text>
+<text id="2200">・惑星封鎖機構の強制監査部隊排除
+
+・途中合流する僚機あり</text>
+<text id="2211">・企業勢力のコーラル輸送ヘリ撃墜
+
+・輸送ヘリが5機以上領域離脱したら即時失敗</text>
+<text id="2212">%null%</text>
+<text id="2213">%null%</text>
+<text id="2214">%null%</text>
+<text id="2215">%null%</text>
+<text id="2216">%null%</text>
+<text id="2217">%null%</text>
+<text id="2218">%null%</text>
+<text id="2219">%null%</text>
+<text id="2220">・RaD製大型ミサイルのうち
+　メインとなる1基を発射シーケンス完了まで防衛
+
+・サブミサイル防衛数に応じて報酬を加算</text>
+<text id="2221">%null%</text>
+<text id="2222">%null%</text>
+<text id="2223">%null%</text>
+<text id="2224">%null%</text>
+<text id="2225">%null%</text>
+<text id="2226">%null%</text>
+<text id="2227">%null%</text>
+<text id="2228">%null%</text>
+<text id="2229">%null%</text>
+<text id="2230">・グリッド086に仕掛けられたハッキングドローンの全破壊
+
+・ハッキング完了を許すと即時失敗</text>
+<text id="2231">%null%</text>
+<text id="2232">%null%</text>
+<text id="2233">%null%</text>
+<text id="2234">%null%</text>
+<text id="2235">%null%</text>
+<text id="2236">%null%</text>
+<text id="2237">%null%</text>
+<text id="2238">%null%</text>
+<text id="2239">%null%</text>
+<text id="2240">・上位ランク独立傭兵2名の撃破</text>
+<text id="2241">%null%</text>
+<text id="2242">%null%</text>
+<text id="2243">%null%</text>
+<text id="2244">%null%</text>
+<text id="2245">%null%</text>
+<text id="2246">%null%</text>
+<text id="2247">%null%</text>
+<text id="2248">%null%</text>
+<text id="2249">%null%</text>
+<text id="2250">・ルビコン解放戦線の巨大兵器
+　武装採掘艦「ストライダー」護衛</text>
+<text id="3011">・アーキバスの調査キャンプ襲撃
+　および観測データ奪取
+
+・敵撃破に応じて報酬を加算</text>
+<text id="3030">・惑星封鎖機構の接収した燃料基地襲撃
+　および最奥エネルギープラント破壊
+
+・敵撃破および燃料貯蔵タンク破壊に応じて報酬を加算</text>
+<text id="3043">・惑星封鎖機構の接収した軍事拠点襲撃
+　および停泊中の強襲艦全破壊
+
+・途中合流する僚機あり
+
+・敵撃破に応じて報酬を加算</text>
+<text id="3230">・惑星封鎖機構の起動した巨大兵器「アイスワーム」撃破
+
+・撃破目標のコーラル防壁を突破するには
+　アーキバスより供与された試作兵装
+　肩武器：スタンニードルランチャー「VE-60SNA」が有効</text>
+<text id="3320">・グリッド012に隠れ住むドーザー
+　「オーネスト・ブルートゥ」排除
+
+・敵撃破に応じて報酬を加算</text>
+<text id="3420">・地下坑道最奥にある旧型デバイスの破壊
+
+・敵撃破に応じて報酬を加算</text>
+<text id="3421">%null%</text>
+<text id="3422">%null%</text>
+<text id="3423">%null%</text>
+<text id="3424">%null%</text>
+<text id="3425">%null%</text>
+<text id="3426">%null%</text>
+<text id="3427">%null%</text>
+<text id="3428">%null%</text>
+<text id="3429">%null%</text>
+<text id="3430">・惑星封鎖機構の特務機体「カタフラクト」撃破</text>
+<text id="3500">・地下坑道に散在する旧時代のデータ回収
+
+・基本報酬なし
+　惑星封鎖機構の機体残骸から得られたデータは換金可能</text>
+<text id="4000">・大深度地下施設の探査開始
+　および複合エネルギー砲台「ネペンテス」破壊</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">・大深度地下施設の探査継続
+　および最奥到達
+
+・敵撃破に応じて報酬を加算</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">・大深度地下施設の探査継続
+　および最奥到達
+
+・敵撃破に応じて報酬を加算</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">・大深度地下施設の炉心破壊
+　およびレーザー障壁の解除
+
+・敵撃破に応じて報酬を加算</text>
+<text id="4021">・未踏領域の探査開始
+　および追跡者の排除</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">・未踏領域の探査開始
+　および追跡者の排除</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">・先行する企業AC2機の排除
+　およびコーラル集積地点到達</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">・先行する企業AC2機の排除
+　およびコーラル集積地点到達</text>
+<text id="4100">・指定座標到達</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">・ヴェスパー第5隊長「ホーキンス」および
+　第8隊長「ペイター」排除
+
+・僚機あり</text>
+<text id="4200">・指定座標到達
+
+・性能の極めて低い旧型機体での出撃となる</text>
+<text id="5010">・洋上都市ザイレムのコントロールタワーを
+　システム掌握完了まで防衛</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">・ヴェスパー第1隊長「フロイト」撃破
+
+・敵撃破に応じて報酬を加算</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">・ザイレム動力ブロックに点在する
+　大型スキルミオンジェネレータの全破壊</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">・アーキバス要撃艦隊の撃破</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">・オーバーシアー「シンダー・カーラ」排除</text>
+<text id="5100">・ECMフォグ制御装置の全停止
+　および洋上都市「ザイレム」調査</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">・ECMフォグ制御装置の全停止
+　および洋上都市「ザイレム」調査</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">・ザイレムに仕掛けられたパラサイトモジュールの全破壊</text>
+<text id="6000">-</text>
+<text id="6001">%null%</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">-</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">-</text>
+<text id="7900">・ルビコン解放戦線の物資輸送ヘリ全破壊
+
+・敵撃破に応じて報酬を加算</text>
+<text id="7901">%null%</text>
+<text id="7902">%null%</text>
+<text id="7903">%null%</text>
+<text id="7904">%null%</text>
+<text id="7905">%null%</text>
+<text id="7906">%null%</text>
+<text id="7907">%null%</text>
+<text id="7908">%null%</text>
+<text id="7909">%null%</text>
+<text id="7910">・惑星封鎖機構の新型HCおよびLC機体撃破</text>
+<text id="7911">%null%</text>
+<text id="7912">%null%</text>
+<text id="7913">%null%</text>
+<text id="7914">%null%</text>
+<text id="7915">%null%</text>
+<text id="7916">%null%</text>
+<text id="7917">%null%</text>
+<text id="7918">%null%</text>
+<text id="7919">%null%</text>
+<text id="7920">・グリッド135に展開する
+　大豊核心工業集団のMT部隊殲滅</text>
+<text id="7921">%null%</text>
+<text id="7922">%null%</text>
+<text id="7923">%null%</text>
+<text id="7924">%null%</text>
+<text id="7925">%null%</text>
+<text id="7926">%null%</text>
+<text id="7927">%null%</text>
+<text id="7928">%null%</text>
+<text id="7929">%null%</text>
+<text id="7930">・レッドガン総長「ミシガン」および
+　ベイラム主力MT部隊の撃破
+
+・敵撃破に応じて報酬を加算</text>
+<text id="7931">%null%</text>
+<text id="7932">%null%</text>
+<text id="7933">%null%</text>
+<text id="7934">%null%</text>
+<text id="7935">%null%</text>
+<text id="7936">%null%</text>
+<text id="7937">%null%</text>
+<text id="7938">%null%</text>
+<text id="7939">%null%</text>
+<text id="7940">・アーキバスの特殊諜報局員
+　ヴェスパー第3隊長「オキーフ」排除</text>
+<text id="7941">%null%</text>
+<text id="7942">%null%</text>
+<text id="7943">%null%</text>
+<text id="7944">%null%</text>
+<text id="7945">%null%</text>
+<text id="7946">%null%</text>
+<text id="7947">%null%</text>
+<text id="7948">%null%</text>
+<text id="7949">%null%</text>
+<text id="7950">・惑星封鎖機構による拠点奪還阻止</text>
+<text id="7951">%null%</text>
+<text id="7952">%null%</text>
+<text id="7953">%null%</text>
+<text id="7954">%null%</text>
+<text id="7955">%null%</text>
+<text id="7956">%null%</text>
+<text id="7957">%null%</text>
+<text id="7958">%null%</text>
+<text id="7959">%null%</text>
+<text id="7960">・グリッド086に侵入するドーザー他派勢力の排除
+
+・敵撃破に応じて報酬を加算</text>
+<text id="7961">%null%</text>
+<text id="7962">%null%</text>
+<text id="7963">%null%</text>
+<text id="7964">%null%</text>
+<text id="7965">%null%</text>
+<text id="7966">%null%</text>
+<text id="7967">%null%</text>
+<text id="7968">%null%</text>
+<text id="7969">%null%</text>
+<text id="7970">・ルビコン解放戦線の配備した移設型砲台の全破壊
+
+・敵撃破に応じて報酬を加算</text>
+<text id="7971">%null%</text>
+<text id="7972">%null%</text>
+<text id="7973">%null%</text>
+<text id="7974">%null%</text>
+<text id="7975">%null%</text>
+<text id="7976">%null%</text>
+<text id="7977">%null%</text>
+<text id="7978">%null%</text>
+<text id="7979">%null%</text>
+<text id="7980">・大豊核心工業集団の導入したテスターACの撃破</text>
+<text id="7981">%null%</text>
+<text id="7982">%null%</text>
+<text id="7983">%null%</text>
+<text id="7984">%null%</text>
+<text id="7985">%null%</text>
+<text id="7986">%null%</text>
+<text id="7987">%null%</text>
+<text id="7988">%null%</text>
+<text id="7989">%null%</text>
+<text id="7990">・惑星封鎖機構の執行部隊殲滅</text>
+<text id="9200">オールマインドの提供する
+初等傭兵教育のためのVRシミュレータ
+----------------
+教習機体に搭乗し 戦闘の基本を学習しましょう
+
+教習項目
+　ロックオン / リロード / ミサイルロック /
+　近接武器 / スキャン</text>
+<text id="9201">オールマインドの提供する
+初等傭兵教育のためのVRシミュレータ
+----------------
+教習機体に搭乗し 戦闘の基本を学習しましょう
+
+教習項目
+　チャージ攻撃 / ACS負荷とスタッガー /
+　直撃 / ACS負荷残留 / 先制攻撃 /
+　シールド防御 / 攻撃予兆とイニシャルガード /
+　アサルトブーストによる強襲</text>
+<text id="9202">オールマインドの提供する
+中等傭兵支援のためのVRシミュレータ
+----------------
+教習機体に搭乗し 挙動と特性を学習しましょう
+
+教習項目
+　ダブルトリガー / ブースタと機動力 /
+　ジェネレータと基本性能 / FCSと交戦距離 /
+　アセンブルと戦術</text>
+<text id="9203">オールマインドの提供する
+中等傭兵支援のためのVRシミュレータ
+----------------
+教習機体に搭乗し 挙動と特性を学習しましょう
+
+教習項目
+　逆関節パーツの特性 / 範囲攻撃 / 武器の属性 /
+　EN武器とオーバーヒート / 跳弾</text>
+<text id="9204">オールマインドの提供する
+中等傭兵支援のためのVRシミュレータ
+----------------
+教習機体に搭乗し 挙動と特性を学習しましょう
+
+教習項目
+　四脚パーツの特性 / 射撃反動 /
+　ホバリングを利用した戦闘</text>
+<text id="9205">オールマインドの提供する
+中等傭兵支援のためのVRシミュレータ
+----------------
+教習機体に搭乗し 挙動と特性を学習しましょう
+
+教習項目
+　タンクパーツの特性と戦術 / ドリフトターン</text>
+<text id="9206">オールマインドの提供する
+高等傭兵検定のためのVRシミュレータ
+----------------
+機体を自由にアセンブルし 検定を突破しましょう
+
+教習項目
+　状況対応能力の高いアセンブル</text>
+</entries>
+</fmg>

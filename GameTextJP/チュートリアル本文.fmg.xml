@@ -1,0 +1,1263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1401000">&lt;?kgicon@91?&gt;：カメラ操作
+&lt;?kgicon@90?&gt;：移動</text>
+<text id="1401001">%null%</text>
+<text id="1401002">%null%</text>
+<text id="1401003">%null%</text>
+<text id="1401004">%null%</text>
+<text id="1401005">%null%</text>
+<text id="1401006">%null%</text>
+<text id="1401007">%null%</text>
+<text id="1401008">%null%</text>
+<text id="1401009">%null%</text>
+<text id="1401010">&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;：ブースト移動ON</text>
+<text id="1401011">%null%</text>
+<text id="1401012">%null%</text>
+<text id="1401013">%null%</text>
+<text id="1401014">%null%</text>
+<text id="1401015">%null%</text>
+<text id="1401016">%null%</text>
+<text id="1401017">%null%</text>
+<text id="1401018">%null%</text>
+<text id="1401019">%null%</text>
+<text id="1401020">&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;：ブースト移動ON
+&lt;?kgicon@8?&gt;：ジャンプ
+&lt;?kgicon@8?&gt;長押し：上昇</text>
+<text id="1401021">%null%</text>
+<text id="1401022">%null%</text>
+<text id="1401023">%null%</text>
+<text id="1401024">%null%</text>
+<text id="1401025">%null%</text>
+<text id="1401026">%null%</text>
+<text id="1401027">%null%</text>
+<text id="1401028">%null%</text>
+<text id="1401029">%null%</text>
+<text id="1401030">一部のアクションはEN（エネルギー）を消費し
+ENが尽きていると使用できない
+
+ENは接地状態で急速に回復する</text>
+<text id="1401100">照準は画面内にいる敵をターゲットとして
+自動的に対象を捕捉する
+
+敵が複数いる場合は 画面中央に近い方が優先されるため
+カメラを向けることでターゲット切替ができる
+
+また「ターゲットアシスト」をONにすれば
+照準精度の低下と引き換えに
+カメラと自機の向きを対象に固定することもできる
+
+状況や技量に応じてON /OFFを使い分けるのが良いだろう
+
+&lt;?kgicon@11?&gt;：カメラ操作
+&lt;?kgicon@15?&gt;：ターゲットアシストON / OFF</text>
+<text id="1401101">%null%</text>
+<text id="1401102">%null%</text>
+<text id="1401103">%null%</text>
+<text id="1401104">%null%</text>
+<text id="1401105">%null%</text>
+<text id="1401106">%null%</text>
+<text id="1401107">%null%</text>
+<text id="1401108">%null%</text>
+<text id="1401109">%null%</text>
+<text id="1401110">&lt;?kgicon@11?&gt;：カメラ操作
+&lt;?kgicon@15?&gt;：ターゲットアシストON / OFF
+&lt;?kgicon@18?&gt;長押し：右手武器連射</text>
+<text id="1401111">照準は画面内にいる敵を自動的に捕捉する
+
+敵が複数いる場合は画面中央に近いものが優先されるため
+カメラを向けることでターゲット切替ができる
+
+&lt;?kgicon@91?&gt;：カメラ操作</text>
+<text id="1401112">&lt;?kgicon@91?&gt;：カメラ操作
+&lt;?kgicon@18?&gt;長押し：右手武器連射</text>
+<text id="1401113">ターゲットアシストをONにすることで
+機体の向きをターゲットに固定するモードへと
+切り替えることができる
+
+ON状態で敵に近付けば自動的にターゲットは固定され
+OFF状態と同様のカメラ操作でターゲット切替ができる
+
+&lt;?kgicon@15?&gt;：ターゲットアシストON / OFF</text>
+<text id="1401114">&lt;?kgicon@15?&gt;：ターゲットアシストON / OFF
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1401115">照準は画面内にいる敵を自動的に捕捉する
+
+敵が複数いる場合は画面中央に近いものが優先されるため
+カメラを向けることでターゲット切替ができる
+
+&lt;?kgicon@91?&gt;：カメラ操作
+&lt;?kgicon@18?&gt;長押し：右手武器連射</text>
+<text id="1401116">ターゲットアシストをONにすることで
+機体の向きをターゲットに固定するモードへと
+切り替えることができる
+
+ON状態で敵に近付けば自動的にターゲットは固定され
+OFF状態と同様のカメラ操作でターゲット切替ができる
+
+&lt;?kgicon@15?&gt;：ターゲットアシストON / OFF
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1401117">この機体が右肩に装備しているミサイルは
+長押しによるマルチロック操作で複数の敵を同時に攻撃できる
+
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃</text>
+<text id="1401118">%null%</text>
+<text id="1401119">%null%</text>
+<text id="1401120">&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1401121">QB（クイックブースト）を使用することで
+機体を任意の方向に瞬間加速させ
+攻撃の回避や敵への急接近ができる
+
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1401122">&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+&lt;?kgicon@18?&gt;長押し：右手武器連射
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1401123">%null%</text>
+<text id="1401124">%null%</text>
+<text id="1401125">%null%</text>
+<text id="1401126">QB（クイックブースト）を使用することで
+機体を任意の方向に瞬間加速させ
+攻撃の回避や敵への急接近ができる
+
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用</text>
+<text id="1401127">%null%</text>
+<text id="1401128">%null%</text>
+<text id="1401129">%null%</text>
+<text id="1401130">&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃</text>
+<text id="1401131">&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃</text>
+<text id="1401132">%null%</text>
+<text id="1401133">%null%</text>
+<text id="1401134">%null%</text>
+<text id="1401135">%null%</text>
+<text id="1401136">%null%</text>
+<text id="1401137">%null%</text>
+<text id="1401138">%null%</text>
+<text id="1401139">%null%</text>
+<text id="1401140">&lt;?kgicon@23?&gt;：リペアキット使用</text>
+<text id="1401141">リペアキットを使用することで機体を修理し
+AP（アーマーポイント）を回復することができる
+
+リペアキットは3回まで使用でき
+使用後は一定時間使えなくなる
+
+&lt;?kgicon@23?&gt;：リペアキット使用</text>
+<text id="1401200">アサルトブーストを使用することで
+カメラ方向への高速移動や
+ターゲットへの急接近を行うことができる
+
+&lt;?kgicon@9?&gt;：アサルトブースト使用
+アサルトブースト中に&lt;?kgicon@3?&gt;：アサルトブースト中断</text>
+<text id="1401201">&lt;?kgicon@9?&gt;：アサルトブースト使用
+アサルトブースト中に&lt;?kgicon@3?&gt;：アサルトブースト中断</text>
+<text id="1401270">&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1401271">%null%</text>
+<text id="1401272">%null%</text>
+<text id="1401273">%null%</text>
+<text id="1401274">%null%</text>
+<text id="1401275">%null%</text>
+<text id="1401276">%null%</text>
+<text id="1401277">%null%</text>
+<text id="1401278">%null%</text>
+<text id="1401279">%null%</text>
+<text id="1401280">&lt;?kgicon@9?&gt;：アサルトブースト使用
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1401281">%null%</text>
+<text id="1401282">%null%</text>
+<text id="1401283">%null%</text>
+<text id="1401284">%null%</text>
+<text id="1401285">%null%</text>
+<text id="1401286">%null%</text>
+<text id="1401287">%null%</text>
+<text id="1401288">%null%</text>
+<text id="1401289">%null%</text>
+<text id="1401290">&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃</text>
+<text id="1401291">%null%</text>
+<text id="1401292">%null%</text>
+<text id="1401293">%null%</text>
+<text id="1401294">%null%</text>
+<text id="1401295">%null%</text>
+<text id="1401296">%null%</text>
+<text id="1401297">%null%</text>
+<text id="1401298">%null%</text>
+<text id="1401299">%null%</text>
+<text id="1401300">垂直射出カタパルトに接地した状態で
+ジャンプ操作を行えば
+高所まで瞬時に移動することができる
+
+カタパルト上で&lt;?kgicon@8?&gt;：垂直射出</text>
+<text id="1401301">%null%</text>
+<text id="1401302">%null%</text>
+<text id="1401303">%null%</text>
+<text id="1401304">%null%</text>
+<text id="1401305">%null%</text>
+<text id="1401306">%null%</text>
+<text id="1401307">%null%</text>
+<text id="1401308">%null%</text>
+<text id="1401309">%null%</text>
+<text id="1401310">カタパルト上で&lt;?kgicon@8?&gt;：垂直射出</text>
+<text id="1411000">このミッションでは
+通常とは異なる旧型機体で出撃する
+
+ジャンクパーツで構成されており 性能は極めて低い
+
+&lt;?kgicon@18?&gt;長押し：右手武器連射（マシンガン）
+&lt;?kgicon@19?&gt;：左肩武器使用（拡散バズーカ）</text>
+<text id="1411001">%null%</text>
+<text id="1411002">%null%</text>
+<text id="1411003">%null%</text>
+<text id="1411004">%null%</text>
+<text id="1411005">%null%</text>
+<text id="1411006">%null%</text>
+<text id="1411007">%null%</text>
+<text id="1411008">%null%</text>
+<text id="1411009">%null%</text>
+<text id="1411010">&lt;?kgicon@18?&gt;長押し：右手武器連射（マシンガン）
+&lt;?kgicon@19?&gt;：左肩武器使用（拡散バズーカ）</text>
+<text id="1411100">着弾により炸裂し 効果範囲に巻き込むことで
+ロックオンを強制解除させる特殊弾丸
+
+この機体では
+左手にジャミング弾ランチャーが装備されている
+
+&lt;?kgicon@17?&gt;：左手武器使用（ジャミング弾ランチャー）</text>
+<text id="1411101">%null%</text>
+<text id="1411102">%null%</text>
+<text id="1411103">%null%</text>
+<text id="1411104">%null%</text>
+<text id="1411105">%null%</text>
+<text id="1411106">%null%</text>
+<text id="1411107">%null%</text>
+<text id="1411108">%null%</text>
+<text id="1411109">%null%</text>
+<text id="1411110">&lt;?kgicon@18?&gt;長押し：右手武器連射（マシンガン）
+&lt;?kgicon@19?&gt;：左肩武器使用（拡散バズーカ）
+&lt;?kgicon@17?&gt;：左手武器使用（ジャミング弾ランチャー）</text>
+<text id="1500000">動いている敵に攻撃を当てるには
+照準追従が有効となるロックオン距離内で
+トリガーを引く必要がある
+
+&lt;?kgicon@18?&gt;長押し：右手武器連射</text>
+<text id="1500001">&lt;?kgicon@18?&gt;長押し：右手武器連射</text>
+<text id="1500002">%null%</text>
+<text id="1500003">%null%</text>
+<text id="1500004">%null%</text>
+<text id="1500005">動いている敵に攻撃を当てるには
+照準追従が有効となるロックオン距離内で
+トリガーを引く必要がある</text>
+<text id="1500006">%null%</text>
+<text id="1500007">%null%</text>
+<text id="1500008">%null%</text>
+<text id="1500009">%null%</text>
+<text id="1500010">マガジン（弾倉）が存在する武器は
+マガジン残弾数が尽きた際に自動リロードが発生する
+
+接敵前に手動リロードを行っておくと
+戦闘中に攻撃が途切れるリスクを抑えることができる
+
+&lt;?kgicon@22?&gt; + &lt;?kgicon@18?&gt;：右手武器手動リロード</text>
+<text id="1500011">&lt;?kgicon@22?&gt; + &lt;?kgicon@18?&gt;：右手武器手動リロード</text>
+<text id="1500012">%null%</text>
+<text id="1500013">%null%</text>
+<text id="1500014">%null%</text>
+<text id="1500015">マガジン（弾倉）が存在する武器は
+マガジン残弾数が尽きた際に自動リロードが発生する
+
+接敵前に手動リロードを行っておくと
+戦闘中に攻撃が途切れるリスクを抑えることができる
+
+&lt;?kgicon@22?&gt; + 各種武器使用：手動リロード</text>
+<text id="1500100">ミサイルなど誘導弾は
+敵を画面内に捉えつづけてロックオンが完了すると
+誘導性能を発揮するようになる
+
+また 長押しによるマルチロック操作で
+複数の敵を同時に攻撃できるミサイルもある
+
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃
+マルチロック中に&lt;?kgicon@22?&gt;：マルチロック中断</text>
+<text id="1500101">&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃
+マルチロック中に&lt;?kgicon@22?&gt;：マルチロック中断</text>
+<text id="1500102">%null%</text>
+<text id="1500103">%null%</text>
+<text id="1500104">%null%</text>
+<text id="1500105">ミサイルなど誘導弾は
+敵を画面内に捉えつづけてロックオンが完了すると
+誘導性能を発揮するようになる
+
+また 長押しによるマルチロック操作で
+複数の敵を同時に攻撃できるミサイルもある</text>
+<text id="1500200">左手に装備できる近接武器は
+敵に接近するリスクと引き換えに攻撃力や衝撃力が高く
+シールドを破壊するのにも向く
+
+&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@17?&gt;&lt;?kgicon@17?&gt;：左手武器連続攻撃
+&lt;?kgicon@17?&gt;長押し：左手武器チャージ攻撃</text>
+<text id="1500201">&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@17?&gt;&lt;?kgicon@17?&gt;：左手武器連続攻撃
+&lt;?kgicon@17?&gt;長押し：左手武器チャージ攻撃</text>
+<text id="1500202">%null%</text>
+<text id="1500203">%null%</text>
+<text id="1500204">%null%</text>
+<text id="1500205">左手に装備できる近接武器は
+敵に接近するリスクと引き換えに攻撃力や衝撃力が高く
+敵のシールドを破壊するのにも向く</text>
+<text id="1500300">スキャンを使用することで
+周辺にいる敵やパーツの入ったコンテナを検出できる
+
+検出した対象は一定時間ハイライト表示され
+敵であれば遮蔽越しでもロックオンできるようになる
+
+&lt;?kgicon@25?&gt;：スキャン</text>
+<text id="1500301">&lt;?kgicon@25?&gt;：スキャン</text>
+<text id="1501000">チャージ攻撃が可能な武器では
+通常攻撃とチャージ攻撃で性能や挙動が変化する
+
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃
+チャージ中に&lt;?kgicon@22?&gt;：チャージ中断</text>
+<text id="1501001">&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃
+チャージ中に&lt;?kgicon@22?&gt;：チャージ中断</text>
+<text id="1501002">%null%</text>
+<text id="1501003">%null%</text>
+<text id="1501004">%null%</text>
+<text id="1501005">チャージ攻撃が可能な武器では
+通常攻撃とチャージ攻撃で性能や挙動が変化する</text>
+<text id="1501006">%null%</text>
+<text id="1501007">%null%</text>
+<text id="1501008">%null%</text>
+<text id="1501009">%null%</text>
+<text id="1501010">攻撃に伴う衝撃力により
+機体のACS（姿勢制御システム）には負荷が蓄積していく
+
+負荷限界で発生する「スタッガー」状態では
+機体は制御不能に陥るため 追撃のチャンスとなる
+
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1501011">&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1501012">%null%</text>
+<text id="1501013">%null%</text>
+<text id="1501014">%null%</text>
+<text id="1501015">攻撃に伴う衝撃力により
+機体のACS（姿勢制御システム）には負荷が蓄積していく
+
+負荷限界で発生する「スタッガー」状態では
+機体は制御不能に陥るため 追撃のチャンスとなる</text>
+<text id="1501016">%null%</text>
+<text id="1501017">%null%</text>
+<text id="1501018">%null%</text>
+<text id="1501019">%null%</text>
+<text id="1501020">スタッガー状態では全ての攻撃が「直撃」扱いとなり
+与えるダメージが大きく上昇する
+
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@20?&gt;：右肩武器使用</text>
+<text id="1501021">&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@20?&gt;：右肩武器使用</text>
+<text id="1501022">%null%</text>
+<text id="1501023">%null%</text>
+<text id="1501024">%null%</text>
+<text id="1501025">スタッガー状態では全ての攻撃が「直撃」扱いとなり
+与えるダメージが大きく上昇する</text>
+<text id="1501100">敵に与えたACS負荷は一定時間でリセットされるが
+その一部は消えることなく残留する
+
+その残留性能は武器によって異なり
+総じて爆発による衝撃は残りやすい
+
+&lt;?kgicon@20?&gt;：右肩武器使用</text>
+<text id="1501101">&lt;?kgicon@20?&gt;：右肩武器使用</text>
+<text id="1501102">%null%</text>
+<text id="1501103">%null%</text>
+<text id="1501104">%null%</text>
+<text id="1501105">敵に与えたACS負荷は一定時間でリセットされるが
+その一部は消えることなく残留する
+
+その残留性能は武器によって異なり
+総じて爆発による衝撃は残りやすい</text>
+<text id="1501200">左肩に装備できるシールドは
+被弾によるダメージとACS負荷を軽減することができる
+
+&lt;?kgicon@19?&gt;長押し：左肩武器使用</text>
+<text id="1501201">&lt;?kgicon@19?&gt;長押し：左肩武器使用</text>
+<text id="1501202">%null%</text>
+<text id="1501203">%null%</text>
+<text id="1501204">%null%</text>
+<text id="1501205">左肩に装備できるシールドは
+被弾によるダメージとACS負荷を軽減することができる</text>
+<text id="1501206">%null%</text>
+<text id="1501207">%null%</text>
+<text id="1501208">%null%</text>
+<text id="1501209">%null%</text>
+<text id="1501210">シールドは展開してから1～2秒前後が最大出力となる
+
+この間に防御する「イニシャルガード」により
+ダメージとACS負荷を最小限に抑えることができる
+
+攻撃予兆表示を見て&lt;?kgicon@19?&gt;長押し：イニシャルガード</text>
+<text id="1501211">攻撃予兆を見て&lt;?kgicon@19?&gt;長押し：イニシャルガード</text>
+<text id="1501212">%null%</text>
+<text id="1501213">%null%</text>
+<text id="1501214">%null%</text>
+<text id="1501215">シールドは展開してから1～2秒前後が最大出力となる
+
+この間に防御する「イニシャルガード」により
+ダメージとACS負荷を最小限に抑えることができる</text>
+<text id="1501300">アサルトブーストによる突撃中は
+移動が止まらない小火器では衝撃力が上乗せされ
+被弾時の衝撃も軽減される
+
+&lt;?kgicon@9?&gt;：アサルトブースト使用
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1501301">&lt;?kgicon@9?&gt;：アサルトブースト使用
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1501302">%null%</text>
+<text id="1501303">%null%</text>
+<text id="1501304">%null%</text>
+<text id="1501305">アサルトブーストによる突撃中は
+移動が止まらない小火器では衝撃力が上乗せされ
+被弾時の衝撃も軽減される
+
+&lt;?kgicon@9?&gt;：アサルトブースト使用</text>
+<text id="1501400">こちらを認識していない敵に先制攻撃を加えることで
+通常より大きなACS負荷を与えることができる
+
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃</text>
+<text id="1501401">&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃</text>
+<text id="1501402">%null%</text>
+<text id="1501403">%null%</text>
+<text id="1501404">%null%</text>
+<text id="1501405">こちらを認識していない敵に先制攻撃を加えることで
+通常より大きなACS負荷を与えることができる</text>
+<text id="1502000">左右両手に射撃武器を持つスタイルを
+「ダブルトリガー」と呼ぶ
+
+マシンガンなどの連射武器によるダブルトリガーは
+安定した殲滅速度を誇り 一対多の状況に向く
+
+&lt;?kgicon@18?&gt;長押し + &lt;?kgicon@17?&gt;長押し：両手武器連射</text>
+<text id="1502001">&lt;?kgicon@18?&gt;長押し + &lt;?kgicon@17?&gt;長押し：両手武器連射</text>
+<text id="1502002">%null%</text>
+<text id="1502003">%null%</text>
+<text id="1502004">%null%</text>
+<text id="1502005">左右両手に射撃武器を持つスタイルを
+「ダブルトリガー」と呼ぶ
+
+マシンガンなどの連射武器によるダブルトリガーは
+安定した殲滅速度を誇り 一対多の状況に向く</text>
+<text id="1502006">%null%</text>
+<text id="1502007">%null%</text>
+<text id="1502008">%null%</text>
+<text id="1502009">%null%</text>
+<text id="1502010">%null%</text>
+<text id="1502011">&lt;?kgicon@22?&gt; + &lt;?kgicon@18?&gt;：右手武器手動リロード
+&lt;?kgicon@22?&gt; + &lt;?kgicon@17?&gt;：左手武器手動リロード</text>
+<text id="1502100">装備するブースタと機体の重量により
+ACの機動力は大きく変化する
+
+この機体では連続クイックブーストで敵を翻弄すべく
+QBリロード時間が短いブースタを装備している
+
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用</text>
+<text id="1502101">&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用</text>
+<text id="1502102">%null%</text>
+<text id="1502103">%null%</text>
+<text id="1502104">%null%</text>
+<text id="1502105">装備するブースタと機体の重量により
+ACの機動力は大きく変化する
+
+・推力重視：移動が速い
+・消費EN重視：EN切れが起きにくい
+・QB / AB性能重視：回避 / 突撃性能が高い</text>
+<text id="1502106">%null%</text>
+<text id="1502107">%null%</text>
+<text id="1502108">%null%</text>
+<text id="1502109">%null%</text>
+<text id="1502110">装備するジェネレータにより
+運用できるパーツなど基本性能は大きく変化する
+
+この機体では上昇やクイックブーストを多用するため
+EN容量を重視したジェネレータを装備している
+
+&lt;?kgicon@8?&gt;長押し：上昇
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用</text>
+<text id="1502111">&lt;?kgicon@8?&gt;長押し：上昇
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用</text>
+<text id="1502112">%null%</text>
+<text id="1502113">%null%</text>
+<text id="1502114">%null%</text>
+<text id="1502115">装備するジェネレータにより
+運用できるパーツなど基本性能は大きく変化する
+
+・出力重視：高負荷パーツを多数搭載できる
+・容量重視：EN消費アクションを多用できる
+・供給重視：EN消費 / EN切れからの回復が素早い</text>
+<text id="1502200">装備するFCS（火器管制システム）により
+近距離 / 中距離 / 遠距離それぞれの照準追従性能と
+ミサイルロック / マルチロックの完了時間が変化する
+
+この機体では高威力武器を確実に当てるため
+近距離戦に特化したFCSを装備している
+
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1502201">&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1502202">%null%</text>
+<text id="1502203">%null%</text>
+<text id="1502204">%null%</text>
+<text id="1502205">装備するFCS（火器管制システム）により
+近距離 / 中距離 / 遠距離それぞれの照準追従性能と
+ミサイルロック / マルチロックの完了時間が変化する
+
+・近距離向け：130m圏内での性能が高い
+・中距離向け：130m - 260m圏内での性能が高い
+・遠距離向け：260m圏外での性能が高い
+
+・ミサイル向け：誘導可能になるまでの捕捉時間が短い</text>
+<text id="1502300">装備する武器やパーツの構成により
+得意とする戦闘距離や戦術は変化する
+
+この機体では4つの射撃武器を装備しているため
+中距離での火力集中に適している
+
+&lt;?kgicon@18?&gt;長押し + &lt;?kgicon@17?&gt;長押し：両手武器連射
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@19?&gt;：左肩武器使用
+&lt;?kgicon@9?&gt;：アサルトブースト使用</text>
+<text id="1502301">&lt;?kgicon@18?&gt;長押し + &lt;?kgicon@17?&gt;長押し：両手武器連射
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@19?&gt;：左肩武器使用
+&lt;?kgicon@9?&gt;：アサルトブースト使用</text>
+<text id="1502302">%null%</text>
+<text id="1502303">%null%</text>
+<text id="1502304">%null%</text>
+<text id="1502305">装備する武器やパーツの構成により
+得意とする戦闘距離や戦術は変化する
+
+まずは武器とフレームパーツを選び
+実現したい戦闘スタイルに適した
+インナーパーツを選ぶと良いだろう</text>
+<text id="1503000">逆関節タイプの脚部はジャンプ性能が高く
+クイックブーストにも脚力を上乗せする
+
+ジャンプではENを消費せず高く飛べるため
+上方向への回避や空中戦への移行が容易となる
+
+&lt;?kgicon@8?&gt;：ジャンプ
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用</text>
+<text id="1503001">&lt;?kgicon@8?&gt;：ジャンプ
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用</text>
+<text id="1503002">%null%</text>
+<text id="1503003">%null%</text>
+<text id="1503004">%null%</text>
+<text id="1503005">逆関節タイプの脚部はジャンプ性能が高く
+クイックブーストにも脚力を上乗せする
+
+ジャンプではENを消費せず高く飛べるため
+上方向への回避や空中戦への移行が容易となる</text>
+<text id="1503006">%null%</text>
+<text id="1503007">%null%</text>
+<text id="1503008">%null%</text>
+<text id="1503009">%null%</text>
+<text id="1503010">この機体が左肩に装備しているグレネードキャノンは
+着弾爆発による範囲巻き込みが強みとなる
+
+こういった着弾爆発する武器は
+上空から地上に向けて撃つことで巻き込みが容易となる
+
+&lt;?kgicon@8?&gt;：ジャンプ
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1503011">&lt;?kgicon@8?&gt;：ジャンプ
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1503012">%null%</text>
+<text id="1503013">%null%</text>
+<text id="1503014">%null%</text>
+<text id="1503015">グレネードやプラズマライフルは
+着弾爆発による範囲巻き込みが強みとなる
+
+こういった着弾爆発する武器は
+上空から地上に向けて撃つことで巻き込みが容易となる</text>
+<text id="1503100">武器はエネルギー系統によって
+・実弾
+・爆発
+・EN
+という3属性に分類される
+
+機体にはそれぞれの属性に対する防御性能が存在し
+それによって受けるダメージが増減する
+
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1503101">&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1503102">%null%</text>
+<text id="1503103">%null%</text>
+<text id="1503104">%null%</text>
+<text id="1503105">武器はエネルギー系統によって
+・実弾
+・爆発
+・EN
+という3属性に分類される
+
+機体にはそれぞれの属性に対する防御性能が存在し
+それによって受けるダメージが増減する</text>
+<text id="1503106">%null%</text>
+<text id="1503107">%null%</text>
+<text id="1503108">%null%</text>
+<text id="1503109">%null%</text>
+<text id="1503110">EN武器の多くは射撃により発熱し
+それが蓄積することでオーバーヒート状態になる
+
+オーバーヒート状態では一定時間射撃不可に陥るが
+発熱は時間経過で冷却されていくため
+射撃頻度を調整することでオーバーヒートは回避できる
+
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃</text>
+<text id="1503111">&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃</text>
+<text id="1503112">%null%</text>
+<text id="1503113">%null%</text>
+<text id="1503114">%null%</text>
+<text id="1503115">EN武器の多くは射撃により発熱し
+それが蓄積することでオーバーヒート状態になる
+
+オーバーヒート状態では一定時間射撃不可に陥るが
+発熱は時間経過で冷却されていくため
+射撃頻度を調整することでオーバーヒートは回避できる</text>
+<text id="1503200">武器の属性には 衝撃力の観点でも一定の傾向がある
+・実弾：衝撃力と攻撃力のバランスが良い
+・爆発：衝撃力が高く残留させやすい
+・EN：衝撃力は低く攻撃力が高い
+
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1503201">&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1503202">%null%</text>
+<text id="1503203">%null%</text>
+<text id="1503204">%null%</text>
+<text id="1503205">武器の属性には 衝撃力の観点でも一定の傾向がある
+・実弾：衝撃力と攻撃力のバランスが良い
+・爆発：衝撃力が高く残留させやすい
+・EN：衝撃力は低く攻撃力が高い</text>
+<text id="1503206">%null%</text>
+<text id="1503207">%null%</text>
+<text id="1503208">%null%</text>
+<text id="1503209">%null%</text>
+<text id="1503210">敵の防御性能が高い場合
+攻撃が跳弾してダメージが大幅に低下することがある
+
+跳弾の発生は さらに近距離まで近付いて攻撃するか
+爆発武器を使用することで回避できる</text>
+<text id="1504000">四脚タイプの脚部は積載性能が高く
+重火器を数多く搭載できる
+
+また 四脚タイプのACは上昇アクションから
+ホバリングモードへの移行が可能であり
+高度を維持しながら空中に留まることができる
+
+空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@20?&gt;：右肩武器使用</text>
+<text id="1504001">空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@20?&gt;：右肩武器使用</text>
+<text id="1504002">%null%</text>
+<text id="1504003">%null%</text>
+<text id="1504004">%null%</text>
+<text id="1504005">四脚タイプの脚部は積載性能が高く
+重火器を数多く搭載できる
+
+また 四脚タイプのACは上昇アクションから
+ホバリングモードへの移行が可能であり
+高度を維持しながら空中に留まることができる
+
+空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF</text>
+<text id="1504006">%null%</text>
+<text id="1504007">%null%</text>
+<text id="1504008">%null%</text>
+<text id="1504009">%null%</text>
+<text id="1504010">%null%</text>
+<text id="1504011">空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF
+&lt;?kgicon@2?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@20?&gt;：右肩武器使用</text>
+<text id="1504100">チャージ攻撃やグレネードなどの重火器は
+通常では射撃反動に備えるための「構え」が発生する
+
+四脚タイプでは射撃反動の吸収により
+こういった攻撃を移動しながら繰り出すことができる
+
+空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1504101">空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF
+&lt;?kgicon@18?&gt;長押し：右手武器チャージ攻撃
+&lt;?kgicon@17?&gt;：左手武器使用</text>
+<text id="1504102">%null%</text>
+<text id="1504103">%null%</text>
+<text id="1504104">%null%</text>
+<text id="1504105">チャージ攻撃やグレネードなどの重火器は
+通常では射撃反動に備えるための「構え」が発生する
+
+四脚タイプでは射撃反動の吸収により
+こういった攻撃を移動しながら繰り出すことができる</text>
+<text id="1504106">%null%</text>
+<text id="1504107">%null%</text>
+<text id="1504108">%null%</text>
+<text id="1504109">%null%</text>
+<text id="1504110">%null%</text>
+<text id="1504111">空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1504200">ホバリングモードでは高度を維持できるため
+敵に対して射線が通りやすく
+地形の影響を受けずロックオンを行うことができる
+
+空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF
+&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃
+&lt;?kgicon@19?&gt;長押し：左肩武器マルチロック攻撃</text>
+<text id="1504201">空中で&lt;?kgicon@8?&gt;：ホバリングON / OFF
+&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@20?&gt;長押し：右肩武器マルチロック攻撃
+&lt;?kgicon@19?&gt;長押し：左肩武器マルチロック攻撃</text>
+<text id="1504202">%null%</text>
+<text id="1504203">%null%</text>
+<text id="1504204">%null%</text>
+<text id="1504205">ホバリングモードでは高度を維持できるため
+敵に対して射線が通りやすく
+地形の影響を受けずロックオンを行うことができる</text>
+<text id="1505000">タンクタイプの脚部は装甲と積載性能に優れている
+
+射撃反動も吸収するため
+「構え」を発生させずに重火器を扱うことができ
+高耐久と高火力を両立できる
+
+&lt;?kgicon@18?&gt;長押し + &lt;?kgicon@17?&gt;長押し：両手武器連射
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1505001">&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;：ブースト移動ON
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+クイックブースト直後に&lt;?kgicon@90?&gt;：ドリフトターン</text>
+<text id="1505002">タンクタイプではドリフトターンにより
+素早く向きを変えることができる
+
+ドリフトターンはクイックブースト直後に
+向きたい方向に&lt;?kgicon@90?&gt;を入力することで発動できる
+
+&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;：ブースト移動ON
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;：クイックブースト使用
+クイックブースト直後に&lt;?kgicon@90?&gt;：ドリフトターン</text>
+<text id="1505003">%null%</text>
+<text id="1505004">%null%</text>
+<text id="1505005">タンクタイプの脚部は装甲と積載性能に優れている
+
+射撃反動も吸収するため
+「構え」を発生させずに重火器を扱うことができ
+高耐久と高火力を両立できる</text>
+<text id="1505006">%null%</text>
+<text id="1505007">タンクタイプではドリフトターンにより
+素早く向きを変えることができる
+
+ドリフトターンはクイックブースト直後に
+向きたい方向に&lt;?kgicon@90?&gt;を入力することで発動できる
+
+クイックブースト直後に&lt;?kgicon@90?&gt;：ドリフトターン</text>
+<text id="1505008">%null%</text>
+<text id="1505009">%null%</text>
+<text id="1505010">%null%</text>
+<text id="1505011">&lt;?kgicon@18?&gt;長押し + &lt;?kgicon@17?&gt;長押し：両手武器連射
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="1506000">実際のミッションでは敵の増援など
+様々な状況変化が発生する
+
+多くの状況に対応できる機体を組み
+作戦に応じて適宜変更を加えていくことが
+高等傭兵には求められる</text>
+<text id="1509090">ターゲットアシストOFFでは
+ON状態に比べて照準追従性能が向上し
+機体の移動方向が安定するという利点がある
+
+状況や技量に応じて使い分けていくと良いだろう</text>
+<text id="1600000">爆撃は着弾で炸裂するため
+地上で回避しても巻き込まれる可能性が高い
+
+そういったQBで回避しづらい攻撃は
+空中に逃れることで対処できる
+
+&lt;?kgicon@8?&gt;長押し：上昇</text>
+<text id="1601000">敵の強みに対して活路が見出せないときは
+アセンブルの時点で相性が悪い可能性が高い
+
+アセンブルによる変化については
+傭兵支援シミュレータで確認することができる</text>
+<text id="1602000">敵のスタッガー発生が近いときは
+武器のリロードやオーバーヒート発生に注意し
+最大火力を発揮できるよう備えておく必要がある
+
+&lt;?kgicon@22?&gt; + 各種武器使用：手動リロード</text>
+<text id="2000000">ASSEMBLYメニューでは
+所持しているパーツを組み合わせて
+機体構成をカスタマイズすることができます
+
+「積載状況」と「EN（エネルギー）負荷状況」が
+上限を超えないよう機体をアセンブルしてみましょう
+
+&lt;?kgicon@1014?&gt;：ヘルプメニュー起動</text>
+<text id="2001000">MISSIONメニューでは
+届いている依頼内容を確認し ミッションに出撃することで
+ストーリーを進行させることができます</text>
+<text id="2001100">REPLAY MISSIONメニューでは
+クリア済みミッションを繰り返しプレイでき
+内容に応じたランク評価を確認することができます
+
+・ランクSを獲得するには
+　チェックポイントからのリトライを使用せず
+　被弾 / 時間経過 / 弾薬消費を抑えて
+　ミッションをクリアする必要があります</text>
+<text id="2002000">BUYメニューでは
+企業など各種勢力の販売するパーツを購入することができます
+
+・販売されるパーツは
+　ストーリー進行や特定の条件達成で追加されていきます</text>
+<text id="2002001">%null%</text>
+<text id="2002002">%null%</text>
+<text id="2002003">%null%</text>
+<text id="2002004">%null%</text>
+<text id="2002005">%null%</text>
+<text id="2002006">%null%</text>
+<text id="2002007">%null%</text>
+<text id="2002008">%null%</text>
+<text id="2002009">%null%</text>
+<text id="2002010">SELLメニューでは
+所持しているパーツを売却することができます
+
+・パーツの売却は購入価格と同額で行うことができ
+　売却したパーツはBUYメニューから
+　再度購入することも可能です</text>
+<text id="2003000">PAINTメニューでは
+機体のカラーリングや質感設定などを行うことができます</text>
+<text id="2003100">DECALメニューでは
+所持しているエンブレムや作成したイメージを
+機体に貼り付けることができます</text>
+<text id="2003300">IMAGE EDITメニューでは
+プリセットのピースを組み合わせて
+イメージを作成することができます
+
+・作成したイメージはデカールとして機体に貼り付けたり
+　エンブレムとして設定することが可能です
+
+・オンライン接続中であれば
+　自作のイメージをアップロードして
+　発行される共有IDで公開したり
+　公開されている他プレイヤーのイメージを
+　ダウンロードすることが可能です</text>
+<text id="2004000">ARENAメニューでは
+登録された傭兵 / 機体情報を元に再現したACと
+仮想戦闘を行うことができます
+
+・戦闘に勝利することで
+　OS強化に用いるOST CHIPおよび対戦相手の機体データ
+　エンブレムを獲得することが可能です</text>
+<text id="2004100">NESTメニューでは
+ネットワークを介して他のプレイヤーと
+1対1 / 3対3のオンライン対戦をすることができます
+
+・カスタムマッチ
+　ホストとなるプレイヤーが対戦ルームを作成し
+　ゲストとなるプレイヤーが入室して対戦や観戦を行います
+
+・対戦履歴
+　直近の対戦相手と勝敗を確認できます</text>
+<text id="2004101">%null%</text>
+<text id="2004102">%null%</text>
+<text id="2004103">%null%</text>
+<text id="2004104">%null%</text>
+<text id="2004105">%null%</text>
+<text id="2004106">%null%</text>
+<text id="2004107">%null%</text>
+<text id="2004108">%null%</text>
+<text id="2004109">%null%</text>
+<text id="2004110">対戦ルームでは
+ALPHA / BETAに割り振られた出撃メンバーが
+準備完了を押すことで対戦が始まります
+
+出撃人数が不足している場合は
+準備完了を押したリザーブメンバーから選出されます</text>
+<text id="2005000">AC DATAメニューでは
+機体構成や外観設定の保存や読み込みをすることができます
+
+・機体データを読み込むには
+　含まれるパーツなど構成要素を
+　全て所持している必要があります
+
+・オンライン接続中であれば
+　自作の機体データをアップロードして
+　発行される共有IDで公開したり
+　公開されている他プレイヤーの機体データを
+　ダウンロードすることが可能です</text>
+<text id="2006000">AC TESTでは
+機体の性能や挙動をテストすることができます
+
+・テスト中は&lt;?kgicon@29?&gt;ポーズメニューから
+　機体のアセンブルや敵の生成などを行うことが可能です</text>
+<text id="2007000">TRAININGメニューでは
+機体の操縦方法や戦闘における基本技術を
+繰り返し学習することができます
+
+・トレーニングは教習機体を使って行われ
+　クリアすることで規定の教習パーツを獲得可能です</text>
+<text id="2008000">ARCHIVESメニューでは
+ミッションで入手した情報ログを読み返すことができます</text>
+<text id="2008100">TIPSメニューでは
+トレーニングで学習したチュートリアルを読み返したり
+ゲームの基礎知識を確認することができます</text>
+<text id="2009000">OS TUNINGメニューでは
+所持しているOST CHIPを消費して機体OSを強化し
+機能の解禁や性能の向上を行うことができます
+
+・OS強化に必要なOST CHIPは
+　アリーナで獲得することが可能です</text>
+<text id="2100000">以下の機能が利用可能になりました
+
+・PARTS SHOP</text>
+<text id="2100001">%null%</text>
+<text id="2100002">%null%</text>
+<text id="2100003">%null%</text>
+<text id="2100004">%null%</text>
+<text id="2100005">%null%</text>
+<text id="2100006">%null%</text>
+<text id="2100007">%null%</text>
+<text id="2100008">%null%</text>
+<text id="2100009">%null%</text>
+<text id="2100010">新しいパーツが購入可能になりました</text>
+<text id="2101000">以下の機能が利用可能になりました
+
+・OS TUNING
+・ARENA</text>
+<text id="2101001">%null%</text>
+<text id="2101002">%null%</text>
+<text id="2101003">%null%</text>
+<text id="2101004">%null%</text>
+<text id="2101005">%null%</text>
+<text id="2101006">%null%</text>
+<text id="2101007">%null%</text>
+<text id="2101008">%null%</text>
+<text id="2101009">%null%</text>
+<text id="2101010">アリーナに新たな傭兵情報が追加されました</text>
+<text id="2101011">%null%</text>
+<text id="2101012">%null%</text>
+<text id="2101013">%null%</text>
+<text id="2101014">%null%</text>
+<text id="2101015">%null%</text>
+<text id="2101016">%null%</text>
+<text id="2101017">%null%</text>
+<text id="2101018">%null%</text>
+<text id="2101019">%null%</text>
+<text id="2101020">以下の機能が利用可能になりました
+
+・NEST</text>
+<text id="2101021">%null%</text>
+<text id="2101022">%null%</text>
+<text id="2101023">%null%</text>
+<text id="2101024">%null%</text>
+<text id="2101025">%null%</text>
+<text id="2101026">%null%</text>
+<text id="2101027">%null%</text>
+<text id="2101028">%null%</text>
+<text id="2101029">%null%</text>
+<text id="2101030">アリーナに新たなカテゴリ
+「ANALYSIS」が追加されました
+
+・ARENAメニューにて&lt;?kgicon@1009?&gt;タブ切替を行うことで
+　「ANALYSIS」に入ることができます</text>
+<text id="2101031">%null%</text>
+<text id="2101032">%null%</text>
+<text id="2101033">%null%</text>
+<text id="2101034">%null%</text>
+<text id="2101035">%null%</text>
+<text id="2101036">%null%</text>
+<text id="2101037">%null%</text>
+<text id="2101038">%null%</text>
+<text id="2101039">%null%</text>
+<text id="2101040">アリーナの「ANALYSIS」に
+新たな機体情報が追加されました</text>
+<text id="2103000">以下の機能が利用可能になりました
+
+・OPERATION</text>
+<text id="2103001">%null%</text>
+<text id="2103002">%null%</text>
+<text id="2103003">%null%</text>
+<text id="2103004">%null%</text>
+<text id="2103005">%null%</text>
+<text id="2103006">%null%</text>
+<text id="2103007">%null%</text>
+<text id="2103008">%null%</text>
+<text id="2103009">%null%</text>
+<text id="2103010">以下の機能が利用可能になりました
+
+・OPERATION &gt; TRAINING
+
+・トレーニングでは機体の基本操作が学習でき
+　クリアすることでパーツを獲得することができます</text>
+<text id="2103011">%null%</text>
+<text id="2103012">%null%</text>
+<text id="2103013">%null%</text>
+<text id="2103014">%null%</text>
+<text id="2103015">%null%</text>
+<text id="2103016">%null%</text>
+<text id="2103017">%null%</text>
+<text id="2103018">%null%</text>
+<text id="2103019">%null%</text>
+<text id="2103020">トレーニングに教習項目が追加されました</text>
+<text id="2104000">傭兵支援プログラム「ログハント」に招待されました
+
+・ログハント対象アイコンが表示されている敵を発見し
+　撃破すると戦闘ログが獲得できるようになります
+
+・戦闘ログを集めてハンタークラスを上げれば
+　オールマインドから報酬パーツが提供されます</text>
+<text id="2105000">以下の機能が利用可能になりました
+
+・AC DESIGN</text>
+<text id="2106000">アーキバス・コーポレーションより
+以下の試作パーツが供与されました
+
+・肩武器：スタンニードルランチャー「VE-60SNA」</text>
+<text id="2107000">全ての教習プログラムを修了しました</text>
+<text id="2107001">%null%</text>
+<text id="2107002">%null%</text>
+<text id="2107003">%null%</text>
+<text id="2107004">%null%</text>
+<text id="2107005">%null%</text>
+<text id="2107006">%null%</text>
+<text id="2107007">%null%</text>
+<text id="2107008">%null%</text>
+<text id="2107009">%null%</text>
+<text id="2107010">全ての戦闘ログを回収しました</text>
+<text id="2107011">%null%</text>
+<text id="2107012">%null%</text>
+<text id="2107013">%null%</text>
+<text id="2107014">%null%</text>
+<text id="2107015">%null%</text>
+<text id="2107016">%null%</text>
+<text id="2107017">%null%</text>
+<text id="2107018">%null%</text>
+<text id="2107019">%null%</text>
+<text id="2107020">全ての戦闘技能検証プログラムを完了しました</text>
+<text id="2107021">%null%</text>
+<text id="2107022">%null%</text>
+<text id="2107023">%null%</text>
+<text id="2107024">%null%</text>
+<text id="2107025">%null%</text>
+<text id="2107026">%null%</text>
+<text id="2107027">%null%</text>
+<text id="2107028">%null%</text>
+<text id="2107029">%null%</text>
+<text id="2107030">全てのインテグレーション・プログラムを完了しました</text>
+<text id="2107031">%null%</text>
+<text id="2107032">%null%</text>
+<text id="2107033">%null%</text>
+<text id="2107034">%null%</text>
+<text id="2107035">%null%</text>
+<text id="2107036">%null%</text>
+<text id="2107037">%null%</text>
+<text id="2107038">%null%</text>
+<text id="2107039">%null%</text>
+<text id="2107040">全てのミッションをクリアしました</text>
+<text id="2107041">%null%</text>
+<text id="2107042">%null%</text>
+<text id="2107043">%null%</text>
+<text id="2107044">%null%</text>
+<text id="2107045">%null%</text>
+<text id="2107046">%null%</text>
+<text id="2107047">%null%</text>
+<text id="2107048">%null%</text>
+<text id="2107049">%null%</text>
+<text id="2107050">全てのミッションをランクSでクリアしました</text>
+<text id="2107070">全てのアーカイブを入手しました</text>
+<text id="2201000">ACは左右の腕部に「手武器」を装備することができる
+
+手武器にはマシンガンなどの小火器から
+構えが発生する代わりに威力に優れるバズーカなど
+幅広いラインナップが存在する
+
+近接武器は左手専用となり
+いずれも高い攻撃力や衝撃力を誇る</text>
+<text id="2202000">ACは左右の背部に「肩武器」を装備することができる
+
+肩武器には機体の動きを止めずに発射できるミサイルや
+手には持てないサイズのキャノン系重火器などが存在する
+
+シールドは左肩専用となり
+パーツによって防御性能や特性が異なる</text>
+<text id="2203000">ACのフレームを構成する「頭部」
+
+APや防御性能の他 システム異常への耐性や
+スキャンの性能に影響を与える</text>
+<text id="2204000">ACのフレームを構成する「コア」
+
+APや防御性能の他 ブースタやジェネレータといった
+インナーパーツの性能に補正を加える</text>
+<text id="2205000">ACのフレームを構成する「腕部」
+
+APや防御性能の他 積載できる手武器の重量上限や
+射撃武器の予測精度 / 近接武器の攻撃力などに影響を与える</text>
+<text id="2206000">ACのフレームを構成する「脚部」
+
+APや防御性能の他 積載できる重量上限を規定し
+地上での移動性能に影響を与える
+
+脚部には複数の種類があり それによって
+ジャンプやクイックブーストなどの挙動が変化する</text>
+<text id="2207000">「ブースタ」はACの移動性能に大きな影響を与える
+
+ブースタによって移動や上昇の速度
+クイックブーストやアサルトブーストの推力が定まり
+性能が高いほどEN消費が激しい傾向にある</text>
+<text id="2208000">「FCS（火器管制システム）」はACの攻撃性能に
+大きな影響を与える
+
+FCSによって距離ごとの照準追従性能が定まり
+ミサイルロック / マルチロック時間も変動するため
+使用する武器と相性の良いパーツを選ぶ必要がある</text>
+<text id="2209000">「ジェネレータ」はACの基本性能に大きな影響を与える
+
+ジェネレータによって装備できるパーツが増減する他
+ENの総量や回復速度なども変動するため
+機体構成と相性の良いパーツを選ぶ必要がある</text>
+<text id="2210000">コア拡張機能のひとつ「アサルトアーマー」
+アサルトアーマーは機体を中心としたパルス爆発を発生させ
+敵弾をかき消しつつ広範囲に衝撃を与える
+
+装備した状態で
+&lt;?kgicon@22?&gt; + &lt;?kgicon@15?&gt;：アサルトアーマーの発動</text>
+<text id="2211000">コア拡張機能のひとつ「パルスアーマー」
+パルスアーマーは機体追従型のパルス防壁を発生させ
+耐久限界もしくは一定時間経過まで防御性能を飛躍的に高める
+
+装備した状態で
+&lt;?kgicon@22?&gt; + &lt;?kgicon@15?&gt;：パルスアーマーの発動</text>
+<text id="2212000">コア拡張機能のひとつ「パルスプロテクション」
+パルスプロテクションは空間設置型のパルス防壁を発生させ
+耐久限界もしくは一定時間経過まで敵弾を遮蔽する
+
+装備した状態で
+&lt;?kgicon@22?&gt; + &lt;?kgicon@15?&gt;：パルスプロテクションの発動</text>
+<text id="2213000">コア拡張機能のひとつ「ターミナルアーマー」
+ターミナルアーマーは機体AP限界を検出して自動発動する
+機体追従型の緊急パルスアーマーである
+
+装備した状態で
+撃破されると：ターミナルアーマー発動</text>
+<text id="2214000">システム解禁機能のひとつ「ウェイトコントロール」
+
+積載超過での強制出撃を解禁し
+併せて武器の手動パージを可能とする
+武器をパージすることで機体重量は減少するため
+重量過多の状態から速度性能を変化させることができる
+
+&lt;?kgicon@26?&gt; + 武器使用ボタン：対象武器の手動パージ</text>
+<text id="2215000">システム解禁機能のひとつ「ブーストキック」
+
+アサルトブーストからの追加アクションを解禁し
+脚部によるブーストキックを可能とする
+ブーストキックは速度と重量が乗った攻撃であり
+敵の姿勢制御を崩すのに向く
+
+アサルトブースト中に&lt;?kgicon@9?&gt;：ブーストキック</text>
+<text id="2216000">システム解禁機能のひとつ「ウェポンハンガー」
+
+肩部への武器ハンガー機能を解禁し
+手持ち武器を左右に2つずつ装備可能とする
+
+手持ち武器を肩部に装備している状態で
+&lt;?kgicon@20?&gt;：右手武器持ち替え
+&lt;?kgicon@19?&gt;：左手武器持ち替え</text>
+<text id="2217000">システム解禁機能のひとつ「マニュアルエイム」
+
+マニュアル照準モードを解禁し
+手動でのエイム操作を可能とする
+このモードで敵に攻撃を当てるのは現実的ではないが
+動きを読めていれば移動先を狙い撃てるという利点はある
+
+&lt;?kgicon@15?&gt;長押し：マニュアル照準モードON
+ONの状態で&lt;?kgicon@15?&gt;：マニュアル照準モードOFF</text>
+<text id="2218000">システム解禁機能のひとつ「クイックターン」
+
+クイックターン機能を解禁し
+側面や背面の方向に高速で振り向くことを可能とする
+
+&lt;?kgicon@6?&gt; + &lt;?kgicon@2?&gt;：入力方向にクイックターン</text>
+<text id="2219000">ACに発生するシステム異常のひとつ
+
+高熱によりACSにエラーが生じた状態であり
+通常より受ける衝撃が増大することで
+スタッガーが発生しやすくなってしまう
+
+発生から一定時間経過でシステム復旧する</text>
+<text id="2220000">ACに発生するシステム異常のひとつ
+
+電気系統に対する負荷から強制放電が発生し
+機体が一定のダメージを受けてしまう</text>
+<text id="2221000">ACを動かすための基本操作
+&lt;?kgicon@91?&gt;：カメラ操作
+&lt;?kgicon@90?&gt;：移動
+&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;：ブースト移動ON
+&lt;?kgicon@8?&gt;：ジャンプ / 長押しで上昇
+&lt;?kgicon@18?&gt;：右手武器使用
+&lt;?kgicon@17?&gt;：左手武器使用
+&lt;?kgicon@20?&gt;：右肩武器使用
+&lt;?kgicon@19?&gt;：左肩武器使用</text>
+<text id="2222000">射撃武器チャージ中に
+&lt;?kgicon@22?&gt;：チャージ中断
+
+ミサイルマルチロック中に
+&lt;?kgicon@22?&gt;：マルチロック中断
+
+アサルトブースト中に
+&lt;?kgicon@3?&gt;：アサルトブースト中断</text>
+<text id="2223000">ACに発生するシステム異常のひとつ
+
+ジャミングによりカメラ機能が妨害され
+ロックオン可能距離が短くなってしまう
+
+効果範囲から逃れることでシステム復旧する</text>
+</entries>
+</fmg>

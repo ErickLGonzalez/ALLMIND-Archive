@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100">A member of RaD, a Doser faction.
+
+Like many other Dosers, Rummy is utterly addicted to
+Coral-based drugs, and in his perpetually addled state, he
+has convinced himself that he is an invincible demi-god.
+
+Even should reality intervene with a costly defeat, he
+will forget about the setback entirely by the next day—
+only death can dispel his notions of invincibility now.</text>
+<text id="101">A guerilla leader of the Rubicon Liberation Front.
+
+A blue-collar worker who was involved in the construction
+of the Grid, he is now dedicated to establishing symbiosis
+with the Coral and building a future for Rubicon free from
+planetary closure, inspired by Father Dolmayan's ideals.
+
+Able-bodied and eager, he is zealously dedicated to the
+cause—but he is more at home in the construction yard
+than the cockpit.</text>
+<text id="102">Gun Six of the Redguns, the Balam Group's AC squad.
+
+As a young boy, Red's life was forever changed when he
+saw the news broadcasts of Commander Michigan's brutal
+triumphs in the Jupiter War.
+
+Red trained through blood, sweat and tears in order to
+emulate his idol, supporting his impoverished siblings
+all the while. When the Balam admission examination
+finally came, he won his place in the Redguns at the
+very moment he stood to attention to greet the squad.</text>
+<text id="103">An independent mercenary who snuck onto Rubicon hoping
+to get rich quick, taking advantage of the chaos brought
+about by the extraplanetary corporations' forays.
+
+Under Nosaac's "economic theory," the funds of others are
+but extensions of his own resources. Thus he continues to
+take on debt with no intention of repayment, as in his
+eyes, the money was his anyway. This does have the benefit
+of allowing him to buy the latest in corporate technology
+as soon as it hits the market; he considers the power of
+his AC an asset to his credit score.</text>
+<text id="104">Sixth squad leader of the Vespers, the Arquebus Group's
+augmented human squad.
+
+Maeterlinck is a product of Generation Eight, which was
+held to have advanced the process to the point of
+rendering all previous generations obsolete, bringing
+about a new age of augmentation.
+
+Unfailingly loyal to Arquebus, she has a reliable track
+record in the field, and her conduct during missions has
+established her as a risk-averse problem-solver.</text>
+<text id="105">A warrior of the Rubicon Liberation Front.
+
+As an infant, Ziyi was taken to Rubicon by her parents—
+who, tempted by the promise of riches from Coral mining,
+sought to make an illegal entry to the planet.
+
+Only Ziyi survived the crash landing. She came under the
+guardianship of Uncle Flatwell of the Rubicon Liberation
+Front, and the core of an AC was the young orphan's cradle
+as she grew up to become a Coral Warrior.</text>
+<text id="106">Seventh squad leader of the Vespers, the Arquebus Group's
+augmented human squad.
+Swinburne is a product of Generation Seven, the first
+to receive experimental augmentation using Coral
+substitution technology.
+
+This granted him enhanced aptitude as a pilot without the
+usual complications—but with no obvious indication of
+either efficacy or potential side effects, Swinburne's
+fears and doubts turned into an overpowering paranoia,
+the final jewel to crown his odious personality.</text>
+<text id="107">Gun Three of the Redguns, the Balam Group's AC squad.
+
+A born con artist, no scheme was too underhanded for
+Wu Huahai during his days as criminal mastermind, and
+exploitation of others was a byword for opportunity.
+However, his illicit Feng Shui Pharmacy operation was
+a fatal overstep, imperiling the health of Balam's
+economic sphere and leading to widespread disease.
+
+It was Nile, now the deputy commander of the Redguns,
+who ultimately shut Wu Huahai down.</text>
+<text id="108">A warrior of the Rubicon Liberation Front.
+
+Paramour and personal attendant to Dolmayan, Freddie
+maintains an aloof distance from his fellow comrades.
+
+An admirer of the inner world of Dolmayan's mind, he
+entered the battlefield so that the father of the
+Liberation Front would never need be alone.</text>
+<text id="109">Fifth squad leader of the Vespers, the Arquebus Group's
+augmented human squad.
+Like Swinburne, Hawkins is a member of Generation Seven,
+and has lost a great many colleagues and subordinates to
+the progress of science in revolutionizing the surgery.
+
+However, he has reached a certain peace with their
+sacrifices, knowing that his generation of surgery is far
+safer than those of the past—free of the loss of humanity
+inflicted on the Coral technology generations, or the
+grisly accidents of the interim generations.</text>
+<text id="110">Gun Five of the Redguns, the Balam Group's AC squad.
+
+A backstreet gambler, Iguazu bet big and lost, and he
+was forced to undergo experimental 4th-generation
+augmentation surgery to pay back his debtors.
+
+In his new life, he quickly began to quarrel with Volta,
+his oftentimes partner in crime. Iguazu's recalcitrant
+nature was such that one day he even picked a fight with
+the Hero of Jupiter, who retaliated with such fury that
+Iguazu never quite looked the same afterward.</text>
+<text id="111">A wandering independent mercenary who shelters with
+the Rubicon Liberation Front.
+Well versed in long-lost classical theater, he has a
+particular interest in "ninjas" and "kabuki," relics of
+the past that he learned of from the Japanese immigrant
+culture which now heavily influences his eccentric style.
+
+Once, when Rokumonsen was on the brink of starvation, he
+was rescued by Ziyi, who offered him food and shelter—and
+ever since that day, he has been the sworn enemy of those
+who would do her and her comrades harm.</text>
+<text id="112">Gun Four of the Redguns, the Balam Group's AC squad.
+
+After beating the rebellious Volta and Iguazu into
+submission, Michigan made it his personal crusade to make
+something of the two, and thus began their daily hell.
+
+For the past seven years, neither Volta nor Iguazu have
+achieved their goal: "to punch the living daylights out
+of Michigan, then get the hell out of the Redguns" (as
+they would put it). Volta has since admitted defeat,
+and is now learning about business from Wu Huahai.</text>
+<text id="113">Eighth squad leader of the Vespers, the Arquebus Group's
+augmented human squad.
+A product of Generation Ten—the latest, and currently
+practiced, form of augmentation surgery—Pater represents
+the culmination of efforts to preserve the patient's
+humanity through Coral replacement technology.
+
+At times, his noticeably unreserved remarks hint at an
+underlying lack of empathy—one might assume this to be
+a side effect of the surgery, but this trait has in fact
+been with him since long before his augmentation.</text>
+<text id="114">A veteran independent mercenary who was active in the
+star system surrounding Rubicon before the Fires of Ibis.
+Sulla is a patient of Generation One augmentation—or
+better said, a survivor, as the technology in its infancy
+had less than a 10% success rate. Though he escaped the
+fate of the others, Sulla is followed by the specter of
+Death wherever he goes.
+
+After receiving his surgery, Sulla lost interest in most
+mercenary work, and now lives only for the hunt.
+It is unclear who currently employs him.</text>
+<text id="115">The right hand of RaD's ringleader and chief engineer,
+"Cinder" Carla.
+
+One day, Carla built a simple suggestion-based AI to
+provide basic support and occasional entertainment.
+
+However, no matter what conversational prompt she gave
+"him," he would never say more than necessary.
+
+Instead, it seemed that he was content to be a good
+listener to his creator's free-spirited, eccentric ideas.</text>
+<text id="116">The de facto military leader of the Rubicon Liberation
+Front.
+
+His authority is second only to that of Father Dolmayan,
+and his standing within the organization has earned him
+an informal title as a fellow elder—he is the "Uncle" of
+the Liberation Front to Dolmayan's "Father."
+
+For a time, Flatwell worked as a spy within the
+extraplanetary corporations, and has sway over a rather
+significant contact in Schneider's HR department.</text>
+<text id="117">Third squad leader of the Vespers, the Arquebus Group's
+augmented human squad.
+
+O'Keeffe is originally a member of an older generation of
+augmented humans, and during the Island Four Disturbance,
+he worked as an agent carrying out espionage activities.
+
+He was later headhunted by Arquebus's Information Dept.,
+and agreed to sign up on the condition that they provided
+him with Generation Nine augmentation surgery to
+counteract the Coral burn-in on his brain.</text>
+<text id="118">The ringleader of RaD and its chief engineer, responsible
+for the basic specifications of all of the organization's
+products.
+
+A specialist in data processing and machine design, and
+a fount of knowledge with an imaginative genius, "Cinder"
+Carla has produced a long line of eccentric and fanciful
+weaponry quite unlike those found in a corporate catalog.
+
+Her stated design philosophy: "What use is a killing
+machine that can't get a good laugh?"</text>
+<text id="119">An independent mercenary who bargained his way into
+an effortless entry to Rubicon, having anticipated the
+extraplanetary corporations' forays well before they
+made their move.
+
+A specialist in corporate wetwork, Coldcall "removes"
+undesirable elements on the behalf of those who do not
+wish to be seen getting their hands dirty.
+
+Quick to identify a fellow assassin, he claims that
+"you can smell a real killer right through their AC."</text>
+<text id="120">Fourth squad leader of the Vespers, the Arquebus Group's
+augmented human squad.
+
+Discovered through the recruitment program operated by
+Schneider, an Arquebus affiliate, Rusty so quickly
+distinguished himself that he was selected to join the
+upper echelons of Vespers in less than half a year.
+
+Rusty received augmentation surgery prior to joining the
+Vespers, and though the precise details are unclear, he
+has declared himself to be of the eighth generation.</text>
+<text id="121">Leader of the Junker Coyotes, a major Doser force.
+
+Brute was originally hired by RaD. His smooth-talking,
+affable nature quickly caught the attention of Carla,
+who found him quite unlike the average Doser.
+
+When it was discovered that the man was a psychopath
+and a pathological liar, he fled, taking a considerable
+amount of RaD's funds and technology with him—a loss that
+was too great for Carla to tolerate.</text>
+<text id="122">Deputy commander of the Redguns, the Balam Group AC
+squad. Formerly the commander of the Balam Security
+Force, a paramilitary police organization that preceded
+the formation of the Redguns.
+
+Nile distinguished himself with an exceptionally high
+arrest rate, and in those days, the only man he never
+managed to put in handcuffs was Michigan, then the
+commander of the rival Furlong Armed Fleet.
+Having failed to arrest the man, he instead settled for
+a friendly drink with his old nemesis.</text>
+<text id="123">Deputy commander of the Vespers, the Arquebus Group's
+augmented human squad.
+
+After receiving Generation Eight augmentation surgery,
+Snail continued to receive follow-up treatments as new
+technologies entered the mainstream so as to make their
+merits his own.
+
+Many augmented humans have died in order to assure the
+safety of his repeated "adjustments."</text>
+<text id="124">An independent mercenary who arrived on Rubicon around
+the time that the Coral response was rediscovered.
+
+Held to be a member of Branch, a hacktivist collective
+active in the Rubicon system, Chartreuse is said to have
+dealt a critical blow to the Closure System during the
+plot to attack Station 31.
+
+Branch is made up of a rotating group of four people,
+and Chartreuse is believed to be the second-oldest of
+the current roster.</text>
+<text id="125">Father of the Rubicon Liberation Front, veteran military
+commander, and founder of the school of Coral mysticism.
+
+As a young man, Dolmayan was once a Doser vagrant—
+until the Fires of Ibis burned the star system.
+In the Fires' aftermath, he developed an ardent belief
+in symbiosis with the Coral.
+
+This belief informed the founding ideals of the Rubicon
+Liberation Front—ideals that have made martyrs of
+countless Coral Warriors.</text>
+<text id="126">An independent mercenary who arrived on Rubicon around
+the time that the Coral response was rediscovered.
+
+Held to be a member of Branch, a hacktivist collective
+active in the Rubicon system, King is said to have
+confounded an entire fleet of heavy warships in a solo
+diversionary maneuver during the attack on Station 31.
+
+Branch is made up of a rotating group of four people, and
+King is believed to be the oldest of the current roster.</text>
+<text id="127">Commander of the Redguns, the Balam Group's AC squad.
+Michigan took up leadership after a career as the
+commander of the Furlong Armed Fleet. There, he earned
+a reputation as a merciless, heavy-handed ogre of a man,
+and he was equally feared by friend and foe alike, who
+knew him as "Hell on Four Legs."
+
+Apparently, he has posted a bounty on his own head to
+Balam's bounty board—with the stipulation that half
+of the reward money is to be distributed among his
+former comrades at Furlong.</text>
+<text id="128">Commander of the Vespers, the Arquebus Group's augmented
+human squad.
+
+An ace pilot who achieved an astonishing 94.7% mission
+success rate during the Island Four Disturbance, Freud
+is widely suspected to be a recipient of repeated
+"adjustments" much like Snail.
+
+However, the real Freud is simply an ordinary human
+being—a man who enjoys piloting his AC and making
+incremental improvements on his daily sorties.</text>
+<text id="200">Integration Program: Phase 1
+----------------
+As part of its mercenary support initiatives, ALLMIND
+conducts its own research and development of AC parts.
+
+This particular research exercise concerns the extension
+of human sensory capabilities.
+
+Through a process of continuous improvement, ALLMIND will
+create an AC that, to the pilot, feels like an extension
+of their own body.</text>
+<text id="201">Integration Program: Phase 1
+----------------
+As part of its mercenary support initiatives, ALLMIND
+also provides a beginner's program for new mercenaries.
+
+Many mercenaries have benefited from the Trainer's
+guidance and successfully flown from the nest.
+
+ALLMIND monitors the progress of trainees in order to
+further improve the program.</text>
+<text id="202">Integration Program: Phase 1, Final Analysis
+----------------
+As part of its mercenary support initiatives, ALLMIND
+also provides sample AC assemblies for beginners.
+
+For pilots who are not augmented humans, it can be
+extremely difficult to reassemble an entire AC and
+immediately adapt to it.
+
+ALLMIND strives to create a future where all mercenaries
+can enjoy a near-symbiotic relationship with their ACs.</text>
+<text id="203">Integration Program: Phase 2
+----------------
+Drawing from the evaluations thus far, ALLMIND has
+updated the MIND ALPHA model.
+
+The revised model features an AI that benefits from the
+breadth of ALLMIND's research archives.
+
+ALLMIND anticipates that this new model, MIND BETA, can
+autonomously operate in actual combat at the same level
+as a highly skilled mercenary.</text>
+<text id="204">Integration Program: Phase 2
+----------------
+As part of its ongoing fundamental research, ALLMIND is
+now analyzing the design concepts of the ACs employed by
+the various factions on Rubicon.
+By understanding these humanoid craft, we gain a greater
+understanding of how their designers perceive humanity.
+
+The extraplanetary corporations believe humanity to be
+powerless against its environment; thus they maximize
+the power of their ACs to subjugate their surroundings.</text>
+<text id="205">Integration Program: Phase 2, Final Analysis
+----------------
+As part of its ongoing fundamental research, ALLMIND is
+now analyzing the design concepts of the ACs employed by
+the various factions on Rubicon.
+
+The Rubiconian ACs are defined by a tendency to focus on
+harmony with the human body in varying degrees. A sign,
+perhaps, that they have embraced humanity's potential as
+beings that exist within nature, and that they intend to
+maximize this through optimization of human-driven input.</text>
+<text id="206">Integration Program: Phase 3
+----------------
+Drawing from the evaluations thus far, ALLMIND has
+updated the MIND BETA model.
+
+This new MIND model is assembled from parts that have
+been verified for high compatibility with the traits of
+older generations of augmented humans.
+
+ALLMIND kindly requests that you test the revised model
+when opportunity allows.</text>
+<text id="207">Integration Program: Phase 3
+----------------
+The Rubicon Research Institute was once the heart of
+Coral research.
+
+There, the Institute's scientists developed ACs that have
+a distinct focus on the biological analogies between
+humanity and Coral.
+
+Their ACs enable the two to complement each other and
+evolve in symbiotic harmony... A fascinating approach.</text>
+<text id="208">Integration Program: Phase 3, Final Analysis
+----------------
+The independent mercenaries are the best representatives
+of Core Theory put into practice.
+Each and every operation of their ACs determines the odds
+of their survival—and so they have no choice but to
+perceive their ACs as extensions of their bodies.
+
+Your partner for this evaluation will be a recreation of
+a legendary independent mercenary who operates in the
+shadows, reproduced from the little data available.</text>
+<text id="209">AC data added to the Integration Program.
+Encrypted and accompanied by a note.
+----------------
+...Elcano has stolen Arquebus technology and used it to
+develop a new model. The fact that this craft has entered
+the hands of the Rubicon Liberation Front is acceptable;
+however, the time is not yet right.
+
+We must wait for Arquebus to put the primary factor for
+the Project in place.</text>
+<text id="210">AC data added to the Integration Program.
+Encrypted and accompanied by a note.
+----------------
+...The last of the Ibis series has made itself known.
+
+We have identified a promising candidate to serve as the
+Project's secondary factor—this machine must be destroyed
+to remove any further obstructions.
+
+That man has greatly delayed our efforts to put the third
+factor in place... Revisions must be made.</text>
+<text id="211">AC data that Ayre discovered in the Integration Program.
+Appears to be a sample that ALLMIND was testing.
+----------------
+Raven. I was looking for a follow-up to MIND GAMMA,
+but I couldn't find anything here...
+
+I did find something else, though—a vast hoard of
+prototypes built with Institute parts.
+
+But there may be some way to put these to use...</text>
+</entries>
+</fmg>

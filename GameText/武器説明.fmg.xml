@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10000000">Burst rifle developed by BAWS. Consumes kinetic
+ammunition to deliver on reliable offensive potential,
+both in terms of damage and impact. Can be charged
+to fire burst shots.</text>
+<text id="10000100">High-speed linear rifle developed by Balam.
+A special type of rifle that accelerates rounds using
+electromagnetic propulsion. Charging the weapon further
+increases round velocity, in turn increasing damage.</text>
+<text id="10000200">High-firepower linear rifle developed by Balam.
+The lengthened barrel provides extra distance for rounds
+to accelerate, allowing for high damage at long range.
+However, this comes at the cost of rapid-fire potential.</text>
+<text id="10010000">Burst assault rifle developed by BAWS. This weapon offers
+high accuracy and spontaneous firepower thanks to its
+burst-oriented design, leading to its mass production
+for use by new recruits to the Rubicon Liberation Front.</text>
+<text id="10010100">Standard assault rifle developed by Balam. Balances
+rapid-fire performance and firepower, making it easy to
+use on full auto. A long-selling classic popular with
+anyone from new corporate recruits to veteran mercenaries.</text>
+<text id="10010200">High-firepower assault rifle developed by Balam.
+This variation has been adjusted to focus on the offensive
+performance of individual shots. However, the longer
+firing cycle demands more precise aiming.</text>
+<text id="10020000">Burst machine gun developed by BAWS.
+The burst-oriented design of this weapon makes it both
+easy to use and highly accurate. A strong candidate for
+use as a sub-weapon in lightweight builds.</text>
+<text id="10020100">Machine gun developed by Balam. Has excellent rapid-fire
+output, but somewhat lacking in firepower when used
+alone. Shines in Double Trigger builds, whether using two
+of this weapon or in combination with another.</text>
+<text id="10020200">Machine gun developed by Dafeng Core Industries.
+This weapon was designed for sustained combat potential,
+and uses oversize ammunition magazines. Minimal need
+for reloading makes it well suited for suppressive fire.</text>
+<text id="10030000">Gatling gun developed by Dafeng Core Industries. Equipped
+with overwhelming rapid-fire performance and sustained
+firepower, it embodies the "domination through material
+superiority" mantra of Dafeng's parent company, Balam.</text>
+<text id="10040000">Compact bazooka developed by Melinite. Designed for
+lightweight builds and indoor engagements. Compromises
+have been made on the number and precision of rounds, but
+it amply retains Melinite's trademark explosive power.</text>
+<text id="10040100">Medium-sized bazooka developed by Melinite. Known for
+their attention to detail, even down to the composition of
+the explosive charges, Melinite's engineers designed this
+weapon for efficiency and ease of use from the ground up.</text>
+<text id="10040200">Bazooka developed by Dafeng Core Industries. Rounds
+explode on contact, guaranteeing heavy impact damage
+without ricocheting. With more rounds than most competing
+models, Dafeng bazookas deliver on sustained firepower.</text>
+<text id="10050000">Special shotgun developed by RaD. Strictly speaking,
+this unique weapon is not a true shotgun, as its area
+attacks are enabled by firing individual projectiles from
+multiple barrels simultaneously.</text>
+<text id="10050100">Close-range shotgun developed by Balam. Fires in a spread,
+resulting in excellent impact albeit with a short range.
+Regardless, this weapon offers unparalleled potency in
+close-range engagements.</text>
+<text id="10050200">Long-range shotgun developed by Balam. Uses specialized
+large shells to improve shot density, extending effective
+range but reducing the firing cycle.</text>
+<text id="10060000">Grenade launcher developed by Dafeng Core Industries.
+Grenades create sphere-shaped explosions centered on the
+point of impact, allowing each shot to deal significant
+damage to multiple targets in a wide area.</text>
+<text id="10060100">Heavy grenade launcher developed by Melinite. A handheld
+weapon painstakingly designed—from the composition of its
+explosive charges to the specifications of its barrel—to
+maximize firepower. Greatest blast radius in its class.</text>
+<text id="10070000">Needle gun developed by Elcano. A semi-auto weapon that
+fires special needle-shaped ammunition. Provides a good
+balance of attack power and impact.</text>
+<text id="10070100">Burst handgun developed by BAWS. This weapon is designed
+to serve as a sub-weapon for contributing to ACS overload,
+leveraging the accuracy and spontaneous firepower that
+its burst-oriented design provides.</text>
+<text id="10070200">Large-caliber handgun developed by Balam. The rise of
+Core Theory introduced a new kind of close-quarters combat
+and with it a reappraisal of handguns, which demonstrate
+stopping power with tremendous impact potential.</text>
+<text id="10070300">Long-barreled handgun developed by Balam. This model
+increases firepower while retaining the impact potential
+of its predecessor. Still, taking advantage of this weapon
+in a large-scale engagement demands skill and experience.</text>
+<text id="10080000">Jamming round launcher developed by BAWS.
+Craft caught in the blast will suffer from compromised
+lock-on capabilities. However, exploiting this trick calls
+for considerable tactical finesse.</text>
+<text id="10080100">Napalm bomb launcher developed by BAWS.
+Launches ultra-hot incendiary rounds that scorch the area
+around the point of impact, limiting the maneuverability
+of ground-based enemies.</text>
+<text id="10080200">Stun round launcher developed by RaD. Fires special
+projectiles that scatter electrified metallic shards, the
+effects of which build up to induce a forced electrical
+discharge in the afflicted craft.</text>
+<text id="10090000">Handheld multi-missile launcher developed by Furlong
+Dynamics. A masterpiece of Furlong's second-gen
+lineup, this weapon is capable of multi-locking up to
+four targets.</text>
+<text id="10090100">Handheld split missile launcher developed by Furlong
+Dynamics. An ambitious entry in Furlong's third-gen
+lineup, this weapon improves accuracy with missile
+payloads that split as they approach their target.</text>
+<text id="10100000">Compact grenade launcher developed by Melinite. Defies
+conventional wisdom that lightweight craft are forced to
+rely on repeated weak attacks. Limited number of rounds,
+but its blast radius and power are nothing to sneer at.</text>
+<text id="10110000">Laser handgun developed by Arquebus. Essentially a
+miniaturized laser rifle, this energy weapon offers
+unparalleled ease of use. Fires in bursts when charged.</text>
+<text id="10110100">Laser rifle developed by Arquebus. One of the most
+commonly-used laser weapons on the battlefield, this
+is a flagship product for the corporation. Can be
+charged to amplify its power.</text>
+<text id="10110200">Prototype Coral beam weapon developed long ago by the
+the Rubicon Research Institute. Manipulates Coral swarm
+intelligence using energy to adjust shape/directionality
+of beam. Two-stage charge allows for fine-tuned control.</text>
+<text id="10110300">Single-barreled laser rifle designed by Arquebus ADD.
+Fundamental performance has been improved in order to aid
+the effort against the Planetary Closure Administration.
+Can be charged to amplify its power.</text>
+<text id="10120000">Plasma rifle developed by VCPL. Plasma explosions create
+a damage-inflicting area that remains active for a brief
+period of time. Charging the weapon causes the plasma
+fire to scatter, producing multiple explosions.</text>
+<text id="10120100">Multi energy rifle developed by ALLMIND.
+Capable of laser, plasma, or combined fire, this weapon
+is equipped with a two-stage charge system that provides
+a choice of firing modes.</text>
+<text id="10130000">Rapid-fire pulse gun developed by Takigawa Harmonics.
+Destroys targets with sustained high-frequency
+oscillation, making it especially suited for canceling
+out pulse defenses, which use the same technology.</text>
+<text id="10130100">Spread pulse gun developed by Takigawa Harmonics.
+This weapon features a larger oscillator to further
+improve firepower and effective range, as well as
+enhance its ability to cancel out pulse defenses.</text>
+<text id="10140000">Double-barreled laser rifle designed by Arquebus ADD.
+This is a power-hungry, high-performance variant that
+features two barrels in a vertical juxtaposition.
+Can be charged to amplify its power.</text>
+<text id="10150000">Laser shotgun developed by Schneider.
+Dominates at close range with diffuse laser beams.
+Charge the weapon to concentrate the beams and produce
+a thrusting "spike" of energy.</text>
+<text id="10150100">Laser shotgun developed by Arquebus. True to style,
+this weapon remains reliable at medium range. Charge
+to concentrate the laser, producing an energy explosion.</text>
+<text id="10150200">Plasma rifle developed long ago by the Rubicon Research
+Institute. Focuses on suppressive potential, prioritizing
+rapid-fire performance over explosive power. Can be
+charged to increase output and expand blast radius.</text>
+<text id="10150300">Experimental weapon developed long ago by the Rubicon
+Research Institute. Manipulates Coral swarm intelligence
+using energy to produce chain explosions. Charging the
+weapon increases the number of these explosions.</text>
+<text id="10160000">Flamethrower developed by RaD. A weaponized form of
+a tool used to melt down scrap at ultra-high temperatures.
+Continued use at point-blank range is enough to outstrip
+an AC's antithermal defenses.</text>
+<text id="10170000">Special bazooka developed by ALLMIND. Creates a chain
+of explosions on contact that layer on impact damage.
+Compared to standard explosive weapons, this weapon
+has notably high direct hit damage.</text>
+<text id="10180000">Stun gun developed by Arquebus. Fires electrified probes,
+the effects of which build up to induce a forced discharge
+of electricity in the afflicted craft. Frequently used to
+immobilize and seize hardware from enemies and rivals.</text>
+<text id="10190000">Handheld siege missile launcher developed by RaD.
+The missiles linger for a short while after launch before
+propelling themselves toward the target, allowing the
+user to effectively surround their target single-handedly.</text>
+<text id="15000000">Burst rifle developed by BAWS. Consumes kinetic
+ammunition to deliver on reliable offensive potential,
+both in terms of damage and impact. Can be charged
+to fire burst shots.</text>
+<text id="15000100">High-speed linear rifle developed by Balam.
+A special type of rifle that accelerates rounds using
+electromagnetic propulsion. Charging the weapon further
+increases round velocity, in turn increasing damage.</text>
+<text id="15000200">High-firepower linear rifle developed by Balam.
+The lengthened barrel provides extra distance for rounds
+to accelerate, allowing for high damage at long range.
+However, this comes at the cost of rapid-fire potential.</text>
+<text id="15010000">Burst assault rifle developed by BAWS. This weapon offers
+high accuracy and spontaneous firepower thanks to its
+burst-oriented design, leading to its mass production
+for use by new recruits to the Rubicon Liberation Front.</text>
+<text id="15010100">Standard assault rifle developed by Balam. Balances
+rapid-fire performance and firepower, making it easy to
+use on full auto. A long-selling classic popular with
+anyone from new corporate recruits to veteran mercenaries.</text>
+<text id="15010200">High-firepower assault rifle developed by Balam.
+This variation has been adjusted to focus on the offensive
+performance of individual shots. However, the longer
+firing cycle demands more precise aiming.</text>
+<text id="15020000">Burst machine gun developed by BAWS.
+The burst-oriented design of this weapon makes it both
+easy to use and highly accurate. A strong candidate for
+use as a sub-weapon in lightweight builds.</text>
+<text id="15020100">Machine gun developed by Balam. Has excellent rapid-fire
+output, but somewhat lacking in firepower when used
+alone. Shines in Double Trigger builds, whether using two
+of this weapon or in combination with another.</text>
+<text id="15020200">Machine gun developed by Dafeng Core Industries.
+This weapon was designed for sustained combat potential,
+and uses oversize ammunition magazines. Minimal need
+for reloading makes it well suited for suppressive fire.</text>
+<text id="15030000">Gatling gun developed by Dafeng Core Industries. Equipped
+with overwhelming rapid-fire performance and sustained
+firepower, it embodies the "domination through material
+superiority" mantra of Dafeng's parent company, Balam.</text>
+<text id="15040000">Compact bazooka developed by Melinite. Designed for
+lightweight builds and indoor engagements. Compromises
+have been made on the number and precision of rounds, but
+it amply retains Melinite's trademark explosive power.</text>
+<text id="15040100">Medium-sized bazooka developed by Melinite. Known for
+their attention to detail, even down to the composition of
+the explosive charges, Melinite's engineers designed this
+weapon for efficiency and ease of use from the ground up.</text>
+<text id="15040200">Bazooka developed by Dafeng Core Industries. Rounds
+explode on contact, guaranteeing heavy impact damage
+without ricocheting. With more rounds than most competing
+models, Dafeng bazookas deliver on sustained firepower.</text>
+<text id="15050000">Special shotgun developed by RaD. Strictly speaking,
+this unique weapon is not a true shotgun, as its area
+attacks are enabled by firing individual projectiles from
+multiple barrels simultaneously.</text>
+<text id="15050100">Close-range shotgun developed by Balam. Fires in a spread,
+resulting in excellent impact albeit with a short range.
+Regardless, this weapon offers unparalleled potency in
+close-range engagements.</text>
+<text id="15050200">Long-range shotgun developed by Balam. Uses specialized
+large shells to improve shot density, extending effective
+range but reducing the firing cycle.</text>
+<text id="15060000">Grenade launcher developed by Dafeng Core Industries.
+Grenades create sphere-shaped explosions centered on the
+point of impact, allowing each shot to deal significant
+damage to multiple targets in a wide area.</text>
+<text id="15060100">Heavy grenade launcher developed by Melinite. A handheld
+weapon painstakingly designed—from the composition of its
+explosive charges to the specifications of its barrel—to
+maximize firepower. Greatest blast radius in its class.</text>
+<text id="15070000">Needle gun developed by Elcano. A semi-auto weapon that
+fires special needle-shaped ammunition. Provides a good
+balance of attack power and impact.</text>
+<text id="15070100">Burst handgun developed by BAWS. This weapon is designed
+to serve as a sub-weapon for contributing to ACS overload,
+leveraging the accuracy and spontaneous firepower that
+its burst-oriented design provides.</text>
+<text id="15070200">Large-caliber handgun developed by Balam. The rise of
+Core Theory introduced a new kind of close-quarters combat
+and with it a reappraisal of handguns, which demonstrate
+stopping power with tremendous impact potential.</text>
+<text id="15070300">Long-barreled handgun developed by Balam. This model
+increases firepower while retaining the impact potential
+of its predecessor. Still, taking advantage of this weapon
+in a large-scale engagement demands skill and experience.</text>
+<text id="15080000">Jamming round launcher developed by BAWS.
+Craft caught in the blast will suffer from compromised
+lock-on capabilities. However, exploiting this trick calls
+for considerable tactical finesse.</text>
+<text id="15080100">Napalm bomb launcher developed by BAWS.
+Launches ultra-hot incendiary rounds that scorch the area
+around the point of impact, limiting the maneuverability
+of ground-based enemies.</text>
+<text id="15080200">Stun round launcher developed by RaD. Fires special
+projectiles that scatter electrified metallic shards, the
+effects of which build up to induce a forced electrical
+discharge in the afflicted craft.</text>
+<text id="15090000">Handheld multi-missile launcher developed by Furlong
+Dynamics. A masterpiece of Furlong's second-gen
+lineup, this weapon is capable of multi-locking up to
+four targets.</text>
+<text id="15090100">Handheld split missile launcher developed by Furlong
+Dynamics. An ambitious entry in Furlong's third-gen
+lineup, this weapon improves accuracy with missile
+payloads that split as they approach their target.</text>
+<text id="15100000">Compact grenade launcher developed by Melinite. Defies
+conventional wisdom that lightweight craft are forced to
+rely on repeated weak attacks. Limited number of rounds,
+but its blast radius and power are nothing to sneer at.</text>
+<text id="15110000">Laser handgun developed by Arquebus. Essentially a
+miniaturized laser rifle, this energy weapon offers
+unparalleled ease of use. Fires in bursts when charged.</text>
+<text id="15110100">Laser rifle developed by Arquebus. One of the most
+commonly-used laser weapons on the battlefield, this
+is a flagship product for the corporation. Can be
+charged to amplify its power.</text>
+<text id="15110200">Prototype Coral beam weapon developed long ago by the
+the Rubicon Research Institute. Manipulates Coral swarm
+intelligence using energy to adjust shape/directionality
+of beam. Two-stage charge allows for fine-tuned control.</text>
+<text id="15110300">Single-barreled laser rifle designed by Arquebus ADD.
+Fundamental performance has been improved in order to aid
+the effort against the Planetary Closure Administration.
+Can be charged to amplify its power.</text>
+<text id="15120000">Plasma rifle developed by VCPL. Plasma explosions create
+a damage-inflicting area that remains active for a brief
+period of time. Charging the weapon causes the plasma
+fire to scatter, producing multiple explosions.</text>
+<text id="15120100">Multi energy rifle developed by ALLMIND.
+Capable of laser, plasma, or combined fire, this weapon
+is equipped with a two-stage charge system that provides
+a choice of firing modes.</text>
+<text id="15130000">Rapid-fire pulse gun developed by Takigawa Harmonics.
+Destroys targets with sustained high-frequency
+oscillation, making it especially suited for canceling
+out pulse defenses, which use the same technology.</text>
+<text id="15130100">Spread pulse gun developed by Takigawa Harmonics.
+This weapon features a larger oscillator to further
+improve firepower and effective range, as well as
+enhance its ability to cancel out pulse defenses.</text>
+<text id="15140000">Double-barreled laser rifle designed by Arquebus ADD.
+This is a power-hungry, high-performance variant that
+features two barrels in a vertical juxtaposition.
+Can be charged to amplify its power.</text>
+<text id="15150000">Laser shotgun developed by Schneider.
+Dominates at close range with diffuse laser beams.
+Charge the weapon to concentrate the beams and produce
+a thrusting "spike" of energy.</text>
+<text id="15150100">Laser shotgun developed by Arquebus. True to style,
+this weapon remains reliable at medium range. Charge
+to concentrate the laser, producing an energy explosion.</text>
+<text id="15150200">Plasma rifle developed long ago by the Rubicon Research
+Institute. Focuses on suppressive potential, prioritizing
+rapid-fire performance over explosive power. Can be
+charged to increase output and expand blast radius.</text>
+<text id="15150300">Experimental weapon developed long ago by the Rubicon
+Research Institute. Manipulates Coral swarm intelligence
+using energy to produce chain explosions. Charging the
+weapon increases the number of these explosions.</text>
+<text id="15160000">Flamethrower developed by RaD. A weaponized form of
+a tool used to melt down scrap at ultra-high temperatures.
+Continued use at point-blank range is enough to outstrip
+an AC's antithermal defenses.</text>
+<text id="15170000">Special bazooka developed by ALLMIND. Creates a chain
+of explosions on contact that layer on impact damage.
+Compared to standard explosive weapons, this weapon
+has notably high direct hit damage.</text>
+<text id="15180000">Stun gun developed by Arquebus. Fires electrified probes,
+the effects of which build up to induce a forced discharge
+of electricity in the afflicted craft. Frequently used to
+immobilize and seize hardware from enemies and rivals.</text>
+<text id="15190000">Handheld siege missile launcher developed by RaD.
+The missiles linger for a short while after launch before
+propelling themselves toward the target, allowing the
+user to effectively surround their target single-handedly.</text>
+<text id="20000100">Prototype Coral oscillator developed long ago by the
+Rubicon Research Institute. Manipulates Coral swarm
+intelligence using energy to create a blade-like beam.
+Charge the weapon to perform sweeping area attacks.</text>
+<text id="20000200">Light-wave blade developed long ago by the Rubicon
+Research Institute. Fuses laser and pulse technology to
+accompany slashing attacks with waves of light. Charge
+to increase output, emitting larger waves of light.</text>
+<text id="20000300">Experimental weapon developed long ago by the Rubicon
+Research Institute. Manipulates Coral swarm intelligence
+using energy to accompany slashing attacks with waves of
+light. Charge to increase output and produce larger waves.</text>
+<text id="20010000">Pulse blade developed by Takigawa Harmonics. Delivers
+slashing attacks with high-frequency oscillation that are
+ideal for canceling out pulse defenses. Charge to increase
+output and pound targets with more powerful oscillation.</text>
+<text id="20020000">Laser blade developed by VCPL. Stable laser control
+enables powerful, energy-based slashing attacks.
+Charge the weapon to increase laser output, enabling
+combo attacks that sweep through the surrounding area.</text>
+<text id="20030000">Laser slicer developed by VCPL. This double-bladed weapon
+is equipped with a rotation system to carve through
+targets. Charge to increase rotation speed and advance
+aggressively while slashing through incoming fire.</text>
+<text id="20040000">Laser dagger developed by Arquebus. Designed for
+close-range combat using lightweight craft, this energy
+weapon is built to deliver agile slashing attacks. Charge
+to blitz the area with an instantaneous sweep attack.</text>
+<text id="20050000">Laser lance designed by Arquebus ADD. Uses the thrust of
+its internal booster to launch into energy-based piercing
+attacks. Booster thrust can be increased by charging the
+weapon, allowing high-speed, long-distance rushes.</text>
+<text id="20060000">Chainsaw developed by RaD. Originally a tool used by
+industrial demolition craft, now repurposed as a weapon.
+Charge to deploy the blades, which can be pushed into
+a target to rapidly accumulate damage.</text>
+<text id="20070000">Plasma mine launcher developed by ALLMIND. Launches
+a rotating unit that uses centrifugal force and thrust
+support to strike targets. Charge the weapon to scatter
+mines as the weapon swings, causing plasma explosions.</text>
+<text id="20080000">Pile bunker developed by Balam. This weapon gores the
+target with a massive steel pile, obliterating it through
+sheer physical force. Charge to prime the firing hammer,
+enabling attacks that are enhanced by explosive damage.</text>
+<text id="20090000">Stun baton developed by Arquebus. Repeated attacks induce
+a forced electrical discharge effect on afflicted craft.
+Charge to expose the core rod of the baton and attack
+with a brutal electrified thrust.</text>
+<text id="20100000">Explosive launcher developed by Dafeng Core Industries.
+Scatters a spray of compact explosives to devastate the
+area ahead of the user. Charge to arrange the spray of
+projectiles into a vertical spread.</text>
+<text id="25000000">Pulse buckler developed by Arquebus.
+Has high Initial Guard output, but only deploys for
+a short duration, requiring the user to predictively
+deploy in anticipation of when enemy attacks will land.</text>
+<text id="25000100">Standard pulse shield developed by Takigawa Harmonics.
+Generally unremarkable in terms of performance, but is
+well balanced for its low EN footprint. It also offers a
+relatively long Initial Guard duration for ease of use.</text>
+<text id="25010000">Pulse shield developed by Arquebus. Used by the Vespers,
+this shield boasts excellent damage mitigation. Has a window
+of heightened output immediately after deploying the shield
+that is capable of canceling out incoming fire.</text>
+<text id="25010100">Circular pulse shield developed by Takigawa Harmonics.
+Concave design improves efficiency of fire interception.
+The shield is optimized for standard deflection, resulting
+in a relatively brief Initial Guard duration.</text>
+<text id="25010200">Pulse buckler developed by Takigawa Harmonics. Features
+a relatively long Initial Guard duration and reliably
+cancels out enemy fire. However, reduced output during
+regular guarding hinders sustained defense potential.</text>
+<text id="25010300">Prototype Coral shield developed long ago by the Rubicon
+Research Institute. Application of energy interference to
+the Coral's swarm intelligence manipulates the arrangement
+of Coral particles, creating a 360-degree defense.</text>
+<text id="25020000">Pulse scutum designed by Arquebus ADD. Unlike other
+models, this shield must remain idle for a short time
+after deployment to exhibit its true potential. Regular
+guarding provides higher damage mitigation than IG.</text>
+<text id="30000000">Three-cell plasma missile launcher developed by VCPL.
+Proximity fuses trigger plasma explosions, creating a
+damage area. A light, compact weapon suitable for
+a wide range of builds and capable of multi-lock.</text>
+<text id="30000100">Vertical plasma missile launcher developed by VCPL.
+Overhead plasma explosions help to circumvent cover or
+similar defenses. The vertical trajectory of the missiles
+further hinders enemy evasion. Capable of multi-lock.</text>
+<text id="30000200">Six-cell plasma missile launcher developed by VCPL.
+Proximity fuses trigger plasma explosions, creating a
+damage area. This coaxial arrangement of twin three-cell
+launchers is capable of multi-lock.</text>
+<text id="30010000">Twin-cell homing missile launcher developed by Furlong
+Dynamics. Features high-powered payloads with propulsion
+systems deliberately slowed down. The twin-cell format
+adds to pressure potential and enables multi-lock.</text>
+<text id="30010100">Homing missile launcher developed by Furlong Dynamics.
+Features high-powered payloads with propulsion systems
+deliberately slowed down. Missiles hound targets during
+lengthy airborne time, enabling heavy pressure tactics.</text>
+<text id="30020000">Six-cell missile launcher developed by Furlong Dynamics.
+Missiles track targets and explode on hit, contributing
+greatly to buildup of ACS strain. Standard model for
+medium-weight builds. Capable of multi-lock.</text>
+<text id="30020100">Four-cell missile launcher developed by Furlong Dynamics.
+Missiles track targets and explode on hit, contributing
+greatly to buildup of ACS strain. Compact model for
+lightweight builds. Capable of multi-lock.</text>
+<text id="30020200">Ten-cell missile launcher developed by Furlong Dynamics.
+Missiles track targets and explode on hit, contributing
+greatly to buildup of ACS strain. Oversize model for
+heavyweight builds. Capable of multi-lock.</text>
+<text id="30030000">Prototype Coral missile launcher developed long ago by the
+Rubicon Research Institute. Energy interference applied to
+swarm intelligence enables Coral-based tracking/detonation
+control. Charge to dramatically increase damage potential.</text>
+<text id="30040000">Twelve-cell vertical missile launcher developed by Furlong
+Dynamics. High vertical trajectory allows missiles to deny
+enemies cover and circumvent such defenses. This is the
+heavyweight AC model, and is also capable of multi-lock.</text>
+<text id="30040100">Eight-cell vertical missile launcher developed by Furlong
+Dynamics. High vertical trajectory allows missiles to deny
+enemies cover and circumvent such defenses. This is the
+medium-weight AC model, and is also capable of multi-lock.</text>
+<text id="30040200">Four-cell vertical missile launcher developed by Furlong
+Dynamics. High vertical trajectory allows missiles to deny
+enemies cover and circumvent such defenses. This is the
+lightweight AC model, and is also capable of multi-lock.</text>
+<text id="30050000">Special missile launcher developed by ALLMIND.
+Creates a chain of delayed explosions along the missile's
+trajectory, allowing for sustained suppressive fire even
+against targets that manage to evade the initial missile.</text>
+<text id="30070000">Scatter missile launcher developed by RaD.
+Features a unique construction that allows it to fire
+10-missile salvos in three consecutive stages for
+sustained overwhelming force.</text>
+<text id="30080000">Compact, three-cell dual missile launcher developed
+by Furlong Dynamics. Traps targets in pincer trajectory,
+limiting evasive options. This is a simple revision of an
+existing weapon for coaxial use. Capable of multi-lock.</text>
+<text id="30080100">Medium-sized, three-cell dual missile launcher developed
+by Furlong Dynamics. Traps targets in pincer trajectory,
+limiting evasive options. A coaxial version of an existing
+Furlong multi-missile launcher, capable of multi-lock.</text>
+<text id="30080200">Compact, two-cell dual missile launcher developed
+by Furlong Dynamics. Traps targets in pincer trajectory,
+limiting evasive options. This model is suitable for use
+with lightweight builds, and is capable of multi-lock.</text>
+<text id="30090000">Two-cell, six-way split missile launcher developed by
+Furlong Dynamics. Missiles split before contact and
+surround target with homing sub-missiles. This model
+focuses on flexibility at the cost of sub-missile count.</text>
+<text id="30090100">Launcher for 8-way split missiles developed by
+Furlong Dynamics. Missiles split before contact and
+surround target with homing sub-missiles. Suited for
+aggressive solo tactics against one or multiple targets.</text>
+<text id="30090200">Two-cell, 8-way split missile launcher developed by
+Furlong Dynamics. Missiles split before contact and
+surround target with homing sub-missiles. A simple
+evolution that uses two batteries instead of one.</text>
+<text id="30100000">Compact double-barreled grenade cannon developed by
+Melinite. Commissioned for medium-weight ACs, its compact
+size reduces its explosive power, but the double-barreled
+format makes strides toward resolving the issue.</text>
+<text id="30110000">Needle missile launcher developed by Elcano.
+Fires stake-shaped projectiles at high velocity that bore
+through the target's armor. These are non-explosive
+missiles that rely on raw physical power.</text>
+<text id="30120000">Container missile launcher developed by Furlong Dynamics.
+Fires a container that flies in a forward trajectory and
+is loaded with a large number of micro-missiles, which
+scatter explosions during the container's flight.</text>
+<text id="30130000">Cluster missile launcher developed by RaD.
+Packed with a large number of compact explosives to
+carpet-bomb the area. Apparently, this design came from
+the feverish mind of a Coral-addled engineer.</text>
+<text id="30140100">Laser drones developed by VCPL. When launched, these
+drones surround enemy machines and provide supporting
+laser fire. The drones also pursue enemies, allowing the
+user to effectively outnumber their target.</text>
+<text id="30150100">Laser turret developed by Arquebus. When launched, it
+hovers in place to provide supporting laser fire.
+The turret is stationary and does not follow the user like
+orbits, calling for some planning for optimal placement.</text>
+<text id="30200000">Scatter bazooka developed by Balam. Scatters small shaped
+charges that deliver overwhelming impact potential. This
+weapon captures the essence of Balam's go-to strategy:
+to dominate through material superiority.</text>
+<text id="30210000">Heavy grenade cannon developed by Melinite. A high-end
+model, its raw power and blast radius verge on excessive
+and make it hard to handle, yet still it enchants
+mercenaries with its considerable destructive force.</text>
+<text id="30220000">Triple-barreled laser cannon designed by Arquebus ADD.
+Simultaneous fire from all barrels provides overwhelming
+offensive potential at the cost of a hefty EN burden.
+Charge to amplify firepower.</text>
+<text id="30230000">Plasma cannon developed by Schneider. The internals of
+this weapon feature plasma technology provided by VCPL.
+Charge to ramp up output and expand blast radius.</text>
+<text id="30240000">Pulse cannon developed by Schneider.
+Powerful, continuous high-frequency oscillation cancels
+out pulse defenses with ease. Features a distinctive spec
+that creates oscillations from a "string."</text>
+<text id="30250000">Laser cannon developed by Arquebus. This is an enlarged
+version of the standard laser rifle, reimagined as a back-
+mounted weapon. Charge the weapon to amplify its power.</text>
+<text id="30260000">Spread laser cannon developed by Arquebus. This is an
+enlarged version of the standard laser shotgun, reimagined
+as a back-mounted weapon. Charge to concentrate the laser,
+producing an energy explosion.</text>
+<text id="30270000">Anti-Ice Worm weapon designed by Arquebus ADD.
+Neutralizes Coral shielding with electrical interference,
+by firing a massive electrified needle to create
+a powerful discharge at the point of impact.</text>
+<text id="30300000">Kinetic-ammo orbits developed by Balam. These orbits
+follow the user's AC and automatically fire at any enemy
+craft they detect. The control components of the orbits
+incorporate the technology of an Arquebus affiliate.</text>
+<text id="30300100">Laser orbits developed by ALLMIND. These orbits follow
+the user's AC and automatically fire at any enemy craft
+they detect. The technology used to control the orbits
+was implemented by ALLMIND's neuroengineering division.</text>
+<text id="30310000">Pulse shield launcher developed by Schneider. Deploys
+pulse barriers that cancel out incoming fire. Craft that
+come into contact with these barriers suffer major ACS
+strain due to resulting sensor interference.</text>
+<text id="30350100">Light-wave cannon developed long ago by the Rubicon
+Research Institute. This fusion of laser and pulse
+technology fires energy projectiles accompanied
+by distinctive fluctuations.</text>
+<text id="35000000">Three-cell plasma missile launcher developed by VCPL.
+Proximity fuses trigger plasma explosions, creating a
+damage area. A light, compact weapon suitable for
+a wide range of builds and capable of multi-lock.</text>
+<text id="35000100">Vertical plasma missile launcher developed by VCPL.
+Overhead plasma explosions help to circumvent cover or
+similar defenses. The vertical trajectory of the missiles
+further hinders enemy evasion. Capable of multi-lock.</text>
+<text id="35000200">Six-cell plasma missile launcher developed by VCPL.
+Proximity fuses trigger plasma explosions, creating a
+damage area. This coaxial arrangement of twin three-cell
+launchers is capable of multi-lock.</text>
+<text id="35010000">Twin-cell homing missile launcher developed by Furlong
+Dynamics. Features high-powered payloads with propulsion
+systems deliberately slowed down. The twin-cell format
+adds to pressure potential and enables multi-lock.</text>
+<text id="35010100">Homing missile launcher developed by Furlong Dynamics.
+Features high-powered payloads with propulsion systems
+deliberately slowed down. Missiles hound targets during
+lengthy airborne time, enabling heavy pressure tactics.</text>
+<text id="35020000">Six-cell missile launcher developed by Furlong Dynamics.
+Missiles track targets and explode on hit, contributing
+greatly to buildup of ACS strain. Standard model for
+medium-weight builds. Capable of multi-lock.</text>
+<text id="35020100">Four-cell missile launcher developed by Furlong Dynamics.
+Missiles track targets and explode on hit, contributing
+greatly to buildup of ACS strain. Compact model for
+lightweight builds. Capable of multi-lock.</text>
+<text id="35020200">Ten-cell missile launcher developed by Furlong Dynamics.
+Missiles track targets and explode on hit, contributing
+greatly to buildup of ACS strain. Oversize model for
+heavyweight builds. Capable of multi-lock.</text>
+<text id="35030000">Prototype Coral missile launcher developed long ago by the
+Rubicon Research Institute. Energy interference applied to
+swarm intelligence enables Coral-based tracking/detonation
+control. Charge to dramatically increase damage potential.</text>
+<text id="35040000">Twelve-cell vertical missile launcher developed by Furlong
+Dynamics. High vertical trajectory allows missiles to deny
+enemies cover and circumvent such defenses. This is the
+heavyweight AC model, and is also capable of multi-lock.</text>
+<text id="35040100">Eight-cell vertical missile launcher developed by Furlong
+Dynamics. High vertical trajectory allows missiles to deny
+enemies cover and circumvent such defenses. This is the
+medium-weight AC model, and is also capable of multi-lock.</text>
+<text id="35040200">Four-cell vertical missile launcher developed by Furlong
+Dynamics. High vertical trajectory allows missiles to deny
+enemies cover and circumvent such defenses. This is the
+lightweight AC model, and is also capable of multi-lock.</text>
+<text id="35050000">Special missile launcher developed by ALLMIND.
+Creates a chain of delayed explosions along the missile's
+trajectory, allowing for sustained suppressive fire even
+against targets that manage to evade the initial missile.</text>
+<text id="35070000">Scatter missile launcher developed by RaD.
+Features a unique construction that allows it to fire
+10-missile salvos in three consecutive stages for
+sustained overwhelming force.</text>
+<text id="35080000">Compact, three-cell dual missile launcher developed
+by Furlong Dynamics. Traps targets in pincer trajectory,
+limiting evasive options. This is a simple revision of an
+existing weapon for coaxial use. Capable of multi-lock.</text>
+<text id="35080100">Medium-sized, three-cell dual missile launcher developed
+by Furlong Dynamics. Traps targets in pincer trajectory,
+limiting evasive options. A coaxial version of an existing
+Furlong multi-missile launcher, capable of multi-lock.</text>
+<text id="35080200">Compact, two-cell dual missile launcher developed
+by Furlong Dynamics. Traps targets in pincer trajectory,
+limiting evasive options. This model is suitable for use
+with lightweight builds, and is capable of multi-lock.</text>
+<text id="35090000">Two-cell, six-way split missile launcher developed by
+Furlong Dynamics. Missiles split before contact and
+surround target with homing sub-missiles. This model
+focuses on flexibility at the cost of sub-missile count.</text>
+<text id="35090100">Launcher for 8-way split missiles developed by
+Furlong Dynamics. Missiles split before contact and
+surround target with homing sub-missiles. Suited for
+aggressive solo tactics against one or multiple targets.</text>
+<text id="35090200">Two-cell, 8-way split missile launcher developed by
+Furlong Dynamics. Missiles split before contact and
+surround target with homing sub-missiles. A simple
+evolution that uses two batteries instead of one.</text>
+<text id="35100000">Compact double-barreled grenade cannon developed by
+Melinite. Commissioned for medium-weight ACs, its compact
+size reduces its explosive power, but the double-barreled
+format makes strides toward resolving the issue.</text>
+<text id="35110000">Needle missile launcher developed by Elcano.
+Fires stake-shaped projectiles at high velocity that bore
+through the target's armor. These are non-explosive
+missiles that rely on raw physical power.</text>
+<text id="35120000">Container missile launcher developed by Furlong Dynamics.
+Fires a container that flies in a forward trajectory and
+is loaded with a large number of micro-missiles, which
+scatter explosions during the container's flight.</text>
+<text id="35130000">Cluster missile launcher developed by RaD.
+Packed with a large number of compact explosives to
+carpet-bomb the area. Apparently, this design came from
+the feverish mind of a Coral-addled engineer.</text>
+<text id="35140100">Laser drones developed by VCPL. When launched, these
+drones surround enemy machines and provide supporting
+laser fire. The drones also pursue enemies, allowing the
+user to effectively outnumber their target.</text>
+<text id="35150100">Laser turret developed by Arquebus. When launched, it
+hovers in place to provide supporting laser fire.
+The turret is stationary and does not follow the user like
+orbits, calling for some planning for optimal placement.</text>
+<text id="35200000">Scatter bazooka developed by Balam. Scatters small shaped
+charges that deliver overwhelming impact potential. This
+weapon captures the essence of Balam's go-to strategy:
+to dominate through material superiority.</text>
+<text id="35210000">Heavy grenade cannon developed by Melinite. A high-end
+model, its raw power and blast radius verge on excessive
+and make it hard to handle, yet still it enchants
+mercenaries with its considerable destructive force.</text>
+<text id="35220000">Triple-barreled laser cannon designed by Arquebus ADD.
+Simultaneous fire from all barrels provides overwhelming
+offensive potential at the cost of a hefty EN burden.
+Charge to amplify firepower.</text>
+<text id="35230000">Plasma cannon developed by Schneider. The internals of
+this weapon feature plasma technology provided by VCPL.
+Charge to ramp up output and expand blast radius.</text>
+<text id="35240000">Pulse cannon developed by Schneider.
+Powerful, continuous high-frequency oscillation cancels
+out pulse defenses with ease. Features a distinctive spec
+that creates oscillations from a "string."</text>
+<text id="35250000">Laser cannon developed by Arquebus. This is an enlarged
+version of the standard laser rifle, reimagined as a back-
+mounted weapon. Charge the weapon to amplify its power.</text>
+<text id="35260000">Spread laser cannon developed by Arquebus. This is an
+enlarged version of the standard laser shotgun, reimagined
+as a back-mounted weapon. Charge to concentrate the laser,
+producing an energy explosion.</text>
+<text id="35270000">Anti-Ice Worm weapon designed by Arquebus ADD.
+Neutralizes Coral shielding with electrical interference,
+by firing a massive electrified needle to create
+a powerful discharge at the point of impact.</text>
+<text id="35300000">Kinetic-ammo orbits developed by Balam. These orbits
+follow the user's AC and automatically fire at any enemy
+craft they detect. The control components of the orbits
+incorporate the technology of an Arquebus affiliate.</text>
+<text id="35300100">Laser orbits developed by ALLMIND. These orbits follow
+the user's AC and automatically fire at any enemy craft
+they detect. The technology used to control the orbits
+was implemented by ALLMIND's neuroengineering division.</text>
+<text id="35310000">Pulse shield launcher developed by Schneider. Deploys
+pulse barriers that cancel out incoming fire. Craft that
+come into contact with these barriers suffer major ACS
+strain due to resulting sensor interference.</text>
+<text id="35350100">Light-wave cannon developed long ago by the Rubicon
+Research Institute. This fusion of laser and pulse
+technology fires energy projectiles accompanied
+by distinctive fluctuations.</text>
+<text id="75000000">Core Expansion: Assault Armor. Creates a pulse explosion
+centered on the AC, canceling out incoming enemy fire
+and creating a damaging area-of-effect shockwave.</text>
+<text id="75010000">Core Expansion: Pulse Armor. Creates a pulse barrier
+that trails the AC, dramatically increasing defensive
+performance until it exceeds its durability or time
+limit.</text>
+<text id="75020000">Core Expansion: Pulse Protection. Creates a pulse barrier
+in a fixed position, providing cover from enemy fire until
+the barrier reaches its durability limit. The barrier is
+not permanent and will disappear after time has passed.</text>
+<text id="75030000">Core Expansion: Terminal Armor. An emergency variant
+of Pulse Armor that trails the AC, activating when the AC
+has reached critical AP damage.</text>
+</entries>
+</fmg>

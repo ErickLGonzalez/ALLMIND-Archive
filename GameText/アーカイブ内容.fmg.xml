@@ -1,0 +1,1005 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="13021500">License code extracted from an AC wreck in the
+contaminated city.
+Contains the pilot's registration data.
+----------------
+Registration number: Rb18
+Callsign: Thomas Kirk
+Rank: 26 / E
+
+Affiliation: Independent
+
+• License expired</text>
+<text id="13021501">%null%</text>
+<text id="13021502">%null%</text>
+<text id="13021503">%null%</text>
+<text id="13021504">%null%</text>
+<text id="13021505">%null%</text>
+<text id="13021506">%null%</text>
+<text id="13021507">%null%</text>
+<text id="13021508">%null%</text>
+<text id="13021509">%null%</text>
+<text id="13021510">License code extracted from an AC wreck in the
+contaminated city.
+Contains the pilot's registration data.
+----------------
+Registration number: Rb37
+Callsign: Monkey Gordo
+Rank: -- / –
+
+Affiliation: Independent
+
+• License expires in 15 days</text>
+<text id="13021511">%null%</text>
+<text id="13021512">%null%</text>
+<text id="13021513">%null%</text>
+<text id="13021514">%null%</text>
+<text id="13021515">%null%</text>
+<text id="13021516">%null%</text>
+<text id="13021517">%null%</text>
+<text id="13021518">%null%</text>
+<text id="13021519">%null%</text>
+<text id="13021520">License code extracted from an AC wreck in the
+contaminated city.
+Contains the pilot's registration data.
+----------------
+Registration number: Rb29
+Callsign: G7 Hakra
+Rank: 22 / D
+
+Affiliation: Balam Industries
+
+• License expires in 12 hours</text>
+<text id="13021521">%null%</text>
+<text id="13021522">%null%</text>
+<text id="13021523">%null%</text>
+<text id="13021524">%null%</text>
+<text id="13021525">License code extracted from an AC wreck in the
+contaminated city.
+Contains the pilot's registration data.
+----------------
+Registration number: Rb23
+Callsign: Raven
+Rank: -- / F
+
+Affiliation: Independent
+
+• License expires in 3 days</text>
+<text id="13021526">%null%</text>
+<text id="13021527">%null%</text>
+<text id="13021528">%null%</text>
+<text id="13021529">%null%</text>
+<text id="13021530">System log extracted from a wreck.
+Allows one to examine the operation of the craft prior
+to its destruction.
+
+The log indicates that the FCS was operating at
+maximum capacity, and yet it was still unable to
+track the enemy.
+
+It was completely overwhelmed by V.IV Rusty's speed.
+This was clearly a one-sided engagement.</text>
+<text id="13021531">%null%</text>
+<text id="13021532">%null%</text>
+<text id="13021533">%null%</text>
+<text id="13021534">%null%</text>
+<text id="13021535">%null%</text>
+<text id="13021536">%null%</text>
+<text id="13021537">%null%</text>
+<text id="13021538">%null%</text>
+<text id="13021539">%null%</text>
+<text id="13021540">System log extracted from a wreck.
+Allows one to examine the commands received by the
+craft prior to its destruction.
+
+No data regarding offensive or evasive maneuvers
+detected.
+
+It appears that the pilot of this craft immediately
+pulled the emergency eject lever at the start of the
+operation.</text>
+<text id="13021541">%null%</text>
+<text id="13021542">%null%</text>
+<text id="13021543">%null%</text>
+<text id="13021544">%null%</text>
+<text id="13021545">%null%</text>
+<text id="13021546">%null%</text>
+<text id="13021547">%null%</text>
+<text id="13021548">%null%</text>
+<text id="13021549">%null%</text>
+<text id="13021550">Video record extracted from a wreck.
+Allows one to discern the assembly of V.IV Rusty's AC,
+STEEL HAZE.
+
+The STEEL HAZE appears to be assembled from a Schneider
+high-mobility frame equipped with weapons that allow
+for swift, agile action.
+
+Notably, Rusty appears to favor kinetic weaponry that
+Vespers members would not normally use.</text>
+<text id="13021551">%null%</text>
+<text id="13021552">%null%</text>
+<text id="13021553">%null%</text>
+<text id="13021554">%null%</text>
+<text id="13021555">%null%</text>
+<text id="13021556">%null%</text>
+<text id="13021557">%null%</text>
+<text id="13021558">%null%</text>
+<text id="13021559">%null%</text>
+<text id="13021560">Video record extracted from a wreck.
+Contains data recorded by the craft's cameras
+in the past.
+
+It seems that this craft was once stationed at
+BAWS Arsenal No. 2.
+
+At first glance, the recovered image depicts nothing
+out of the ordinary. However, on closer inspection,
+one can identify noise in one corner of the picture
+indicative of digital interference...
+
+Potentially, an effect of Monitor Display Deception
+jamming.</text>
+<text id="13021561">%null%</text>
+<text id="13021562">%null%</text>
+<text id="13021563">%null%</text>
+<text id="13021564">%null%</text>
+<text id="13021565">%null%</text>
+<text id="13021566">%null%</text>
+<text id="13021567">%null%</text>
+<text id="13021568">%null%</text>
+<text id="13021569">%null%</text>
+<text id="13021570">Comms record extracted from a wreck.
+Contains leftover data from an attempt to intercept
+V.IV Rusty's encrypted line.
+----------------
+When......me comes...urlong will...technology...
+Elcano.
+You must...hidden...then.</text>
+<text id="13021571">%null%</text>
+<text id="13021572">%null%</text>
+<text id="13021573">%null%</text>
+<text id="13021574">%null%</text>
+<text id="13021575">%null%</text>
+<text id="13021576">%null%</text>
+<text id="13021577">%null%</text>
+<text id="13021578">%null%</text>
+<text id="13021579">%null%</text>
+<text id="13021580">Text data extracted from a wreck.
+Appears to be the auto-transcription for a voice log
+recorded by an off-duty pilot.
+----------------
+The well we found in Gallia is going to dry up sooner
+than later...
+
+We just can't harvest as much Coral as we used to, and
+what little we do get, the corps squeeze out of us.
+
+They know we need it to raise mealworms.
+
+How many more children must we watch starve...?</text>
+<text id="13021581">%null%</text>
+<text id="13021582">%null%</text>
+<text id="13021583">%null%</text>
+<text id="13021584">%null%</text>
+<text id="13021585">%null%</text>
+<text id="13021586">%null%</text>
+<text id="13021587">%null%</text>
+<text id="13021588">%null%</text>
+<text id="13021589">%null%</text>
+<text id="13021590">Video record extracted from a wreck.
+Contains leftover data from an attempt to communicate
+with V.IV Rusty during combat.
+----------------
+How could you...?!
+I... I know who you are!
+
+I've seen Uncle's files...
+
+At least tell me why...!</text>
+<text id="13021591">%null%</text>
+<text id="13021592">%null%</text>
+<text id="13021593">%null%</text>
+<text id="13021594">%null%</text>
+<text id="13021595">%null%</text>
+<text id="13021596">%null%</text>
+<text id="13021597">%null%</text>
+<text id="13021598">%null%</text>
+<text id="13021599">%null%</text>
+<text id="13021600">Comms record extracted from a wreck.
+This appears to be a conversation between allies
+prior to the start of a mission.
+----------------
+We can't beat the top Vespers.
+We're as good as dead...
+
+At least Ziyi is off duty.
+She's the Liberation Front's little sister...
+
+She doesn't deserve to be out there on the battlefield.
+She can still love, and be loved... Have a family...</text>
+<text id="13021601">%null%</text>
+<text id="13021602">%null%</text>
+<text id="13021603">%null%</text>
+<text id="13021604">%null%</text>
+<text id="13021605">%null%</text>
+<text id="13021606">%null%</text>
+<text id="13021607">%null%</text>
+<text id="13021608">%null%</text>
+<text id="13021609">%null%</text>
+<text id="13021610">Observation data extracted from a survey drone.
+Contains records of surface-level Coral density at
+the Central Ice Field.
+----------------
+No major change in values compared to readings
+recorded in the Belius region.
+
+Likely to be cinders from the Fires of Ibis.
+Inert Coral readings make up 80% of the total.
+
+Analysis underway of the remaining 20%.</text>
+<text id="13021611">%null%</text>
+<text id="13021612">%null%</text>
+<text id="13021613">%null%</text>
+<text id="13021614">%null%</text>
+<text id="13021615">%null%</text>
+<text id="13021616">%null%</text>
+<text id="13021617">%null%</text>
+<text id="13021618">%null%</text>
+<text id="13021619">%null%</text>
+<text id="13021620">Observation data extracted from a survey drone.
+Contains an analysis of a surface-level scan of the
+Central Ice Field.
+----------------
+Sonar's picking up something strange—whatever it is,
+you can't miss it.
+
+Some kind of massive cave, perhaps?
+
+...How could there be a cavity underneath this vast
+sheet of ice?</text>
+<text id="13021621">%null%</text>
+<text id="13021622">%null%</text>
+<text id="13021623">%null%</text>
+<text id="13021624">%null%</text>
+<text id="13021625">%null%</text>
+<text id="13021626">%null%</text>
+<text id="13021627">%null%</text>
+<text id="13021628">%null%</text>
+<text id="13021629">%null%</text>
+<text id="13021630">Observation data extracted from a survey drone.
+Contains records about old bases scattered across
+the Central Ice Field.
+----------------
+Most of these installations appear to have been built
+by the Planetary Closure Administration after the
+Fires of Ibis.
+
+They must have been made redundant by the subsequent
+completion of the Closure System. That said, with a bit
+of elbow grease, we might be able to repurpose these
+old ruins...</text>
+<text id="13021631">%null%</text>
+<text id="13021632">%null%</text>
+<text id="13021633">%null%</text>
+<text id="13021634">%null%</text>
+<text id="13021635">%null%</text>
+<text id="13021636">%null%</text>
+<text id="13021637">%null%</text>
+<text id="13021638">%null%</text>
+<text id="13021639">%null%</text>
+<text id="13021640">Observation data extracted from a survey drone.
+Contains records about an attempted video survey of
+the ocean near the Central Ice Field.
+----------------
+Our video data of the ocean region has a noticeable
+gap. Stranger still, this hole in our records remains
+regardless of how many drones we send.
+
+What's going on here?
+Some kind of camera interference?</text>
+<text id="13021641">%null%</text>
+<text id="13021642">%null%</text>
+<text id="13021643">%null%</text>
+<text id="13021644">%null%</text>
+<text id="13021645">%null%</text>
+<text id="13021646">%null%</text>
+<text id="13021647">%null%</text>
+<text id="13021648">%null%</text>
+<text id="13021649">%null%</text>
+<text id="13021650">Video record extracted from a wreck.
+Appears to be a recording of a Rubicon Liberation
+Front address to fellow comrades.
+----------------
+They say that the Coral was plentiful, infinite!
+Before the Fires of Ibis.
+
+And then the Institute burned this planet dry.
+
+The academics in their ivory tower underestimated
+the power of Rubicon's blessing—and when it laid their
+weakness bare, they burned it all to ash!</text>
+<text id="13021651">%null%</text>
+<text id="13021652">%null%</text>
+<text id="13021653">%null%</text>
+<text id="13021654">%null%</text>
+<text id="13021655">%null%</text>
+<text id="13021656">%null%</text>
+<text id="13021657">%null%</text>
+<text id="13021658">%null%</text>
+<text id="13021659">%null%</text>
+<text id="13021660">Comms record extracted from a wreck.
+Appears to be a leftover log of chatter between allies.
+----------------
+Those Coral mealworms... They're just kinda...y'know.
+
+Buncha crap is what they are! A teeny tiny shot of
+Coral diluted all the way down until there's damn near
+nothing left! No one's getting high off that!
+
+That's why we're different. You gotta take Rubicon's
+blessings raw... Oh man, there's nothing like it!
+
+Damn right. Hits your brain with a pop and a sizzle.</text>
+<text id="13021661">%null%</text>
+<text id="13021662">%null%</text>
+<text id="13021663">%null%</text>
+<text id="13021664">%null%</text>
+<text id="13021665">%null%</text>
+<text id="13021666">%null%</text>
+<text id="13021667">%null%</text>
+<text id="13021668">%null%</text>
+<text id="13021669">%null%</text>
+<text id="13021670">Text data extracted from a wreck.
+This appears to come from the writings of
+Thumb Dolmayan, Father of the Liberation Front.
+----------------
+The Coral is Rubicon's blessing.
+
+The land is frail and withered, yet within lurks
+limitless abundance—and just a single drop grants
+us our flesh and blood.
+
+Coral, abide with Rubicon!</text>
+<text id="13021671">%null%</text>
+<text id="13021672">%null%</text>
+<text id="13021673">%null%</text>
+<text id="13021674">%null%</text>
+<text id="13021675">%null%</text>
+<text id="13021676">%null%</text>
+<text id="13021677">%null%</text>
+<text id="13021678">%null%</text>
+<text id="13021679">%null%</text>
+<text id="13021680">Text data extracted from a wreck.
+This appears to come from the writings of
+Thumb Dolmayan, Father of the Liberation Front.
+----------------
+How long has it been since I first "saw" her voice?
+
+"Fear not," she said. "There will always be plenty."
+She told me this, as I was imbibing Rubicon's blessings
+one fateful day...
+
+"If I were you, I'd never allow this," I replied.
+And I was forever ashamed by my deceit.</text>
+<text id="13021681">%null%</text>
+<text id="13021682">%null%</text>
+<text id="13021683">%null%</text>
+<text id="13021684">%null%</text>
+<text id="13021685">%null%</text>
+<text id="13021686">%null%</text>
+<text id="13021687">%null%</text>
+<text id="13021688">%null%</text>
+<text id="13021689">%null%</text>
+<text id="13021690">Text data extracted from a wreck.
+This appears to come from the writings of
+Thumb Dolmayan, Father of the Liberation Front.
+----------------
+"Symbiosis."
+She seemed to be contemplating the meaning of the
+word...
+
+This moment of happiness we share comes at the cost
+of her siblings—sacrifices all.
+
+Is that symbiosis? Surely not...</text>
+<text id="13021691">%null%</text>
+<text id="13021692">%null%</text>
+<text id="13021693">%null%</text>
+<text id="13021694">%null%</text>
+<text id="13021695">%null%</text>
+<text id="13021696">%null%</text>
+<text id="13021697">%null%</text>
+<text id="13021698">%null%</text>
+<text id="13021699">%null%</text>
+<text id="13021700">Text data extracted from a wreck.
+This appears to come from the writings of
+Thumb Dolmayan, Father of the Liberation Front.
+----------------
+As always, she whispers to me from inside.
+She tells me that she found something in the journals
+of Institute City...something about the potential for
+symbiosis.
+
+"Coral Release..."
+
+If such a thing is truly possible, then perhaps I can
+join her on the other side...</text>
+<text id="13021701">%null%</text>
+<text id="13021702">%null%</text>
+<text id="13021703">%null%</text>
+<text id="13021704">%null%</text>
+<text id="13021705">%null%</text>
+<text id="13021706">%null%</text>
+<text id="13021707">%null%</text>
+<text id="13021708">%null%</text>
+<text id="13021709">%null%</text>
+<text id="13021710">Text data extracted from a wreck.
+This appears to come from the writings of
+Thumb Dolmayan, Father of the Liberation Front.
+----------------
+She says that she will respect my wishes.
+
+If I cross this threshold, tragedy will befall the
+world of mankind. Yet if I do not...
+
+Here I stand, too afraid to cast the die.</text>
+<text id="13021711">%null%</text>
+<text id="13021712">%null%</text>
+<text id="13021713">%null%</text>
+<text id="13021714">%null%</text>
+<text id="13021715">%null%</text>
+<text id="13021716">%null%</text>
+<text id="13021717">%null%</text>
+<text id="13021718">%null%</text>
+<text id="13021719">%null%</text>
+<text id="13021720">Text data extracted from a wreck.
+The lost auto-transcription for a voice log recorded by
+Prof. Nagai, the Rubicon Research Institute director.
+----------------
+Coral is an organic substance capable of
+self-propagation. The speed at which it proliferates
+is determined by the density of the colony.
+As such, a vacuum would provide an ideal environment
+to maximize Coral density and thus growth.
+
+However, one must not overlook the signs of mutations
+within the Coral brought about by this density effect;
+it is mutations such as these that will bring about
+a collapse that humanity has no hope of controlling.</text>
+<text id="13021721">%null%</text>
+<text id="13021722">%null%</text>
+<text id="13021723">%null%</text>
+<text id="13021724">%null%</text>
+<text id="13021725">%null%</text>
+<text id="13021726">%null%</text>
+<text id="13021727">%null%</text>
+<text id="13021728">%null%</text>
+<text id="13021729">%null%</text>
+<text id="13021730">Text data extracted from a wreck.
+The lost auto-transcription for a voice log recorded by
+Prof. Nagai, the Rubicon Research Institute director.
+----------------
+Assistant No. 1 has lost his mind.
+His research has utterly consumed him.
+
+Granted, there may be some logic to C-Pulse sensory
+augmentation of human subjects—but no ethical scholar
+would ever dare cross that point of no return.
+
+Mankind is driven mad by possibilities.
+What does Coral represent, if not sheer potential?</text>
+<text id="13021731">%null%</text>
+<text id="13021732">%null%</text>
+<text id="13021733">%null%</text>
+<text id="13021734">%null%</text>
+<text id="13021735">%null%</text>
+<text id="13021736">%null%</text>
+<text id="13021737">%null%</text>
+<text id="13021738">%null%</text>
+<text id="13021739">%null%</text>
+<text id="13021740">Text data extracted from a wreck.
+The lost auto-transcription for a voice log recorded by
+Prof. Nagai, the Rubicon Research Institute director.
+----------------
+I have decided that Assistant No. 1's son is to remain
+at the lab. He's a reticent one—tough, too, beyond his
+years. And now, our research has robbed him of his
+mother and driven his father mad. He has every right
+to hate me...
+
+Perhaps Assistant No. 2 will be able to help.
+She does seem to have a knack for assembling toys...
+I hope that at least she can give him something to
+smile about.</text>
+<text id="13021741">%null%</text>
+<text id="13021742">%null%</text>
+<text id="13021743">%null%</text>
+<text id="13021744">%null%</text>
+<text id="13021745">%null%</text>
+<text id="13021746">%null%</text>
+<text id="13021747">%null%</text>
+<text id="13021748">%null%</text>
+<text id="13021749">%null%</text>
+<text id="13021750">Text data extracted from a wreck.
+The lost auto-transcription for a voice log recorded by
+Prof. Nagai, the Rubicon Research Institute director.
+----------------
+No—
+The Coral tide is rising at an abnormal rate!
+
+This resonance—it suggests some kind of mutation...
+Run the calculations. How much time do we have?
+
+47 hours, 2 minutes, 16 seconds.
+
+We still have time.
+Deploy Ibis!</text>
+<text id="13021751">%null%</text>
+<text id="13021752">%null%</text>
+<text id="13021753">%null%</text>
+<text id="13021754">%null%</text>
+<text id="13021755">%null%</text>
+<text id="13021756">%null%</text>
+<text id="13021757">%null%</text>
+<text id="13021758">%null%</text>
+<text id="13021759">%null%</text>
+<text id="13021760">Video record extracted from a wreck.
+Includes audio of what may be the last words spoken
+by Prof. Nagai, the Rubicon Research Institute director.
+----------------
+12 minutes remain. I have done all that I must.
+
+I alone shall bear the burden of watching
+the Fires of Ibis burn.
+
+Whatever future awaits the boy, I hope he grows
+into a man strong enough to seize it.
+
+I have friends in the Jupiter colonies...
+Surely they will look after him.</text>
+<text id="13021761">%null%</text>
+<text id="13021762">%null%</text>
+<text id="13021763">%null%</text>
+<text id="13021764">%null%</text>
+<text id="13021765">%null%</text>
+<text id="13021766">%null%</text>
+<text id="13021767">%null%</text>
+<text id="13021768">%null%</text>
+<text id="13021769">%null%</text>
+<text id="13021770">A sketch by STV, a masked battlefield artist said by
+some to be one of the last artists to dedicate his
+career to the art of hand-drawn portraits. His works
+command a high value among collectors in the know.
+----------------
+//STV's notes
+• Awful bunch. Never again.</text>
+<text id="13021771">%null%</text>
+<text id="13021772">%null%</text>
+<text id="13021773">%null%</text>
+<text id="13021774">%null%</text>
+<text id="13021775">%null%</text>
+<text id="13021776">%null%</text>
+<text id="13021777">%null%</text>
+<text id="13021778">%null%</text>
+<text id="13021779">%null%</text>
+<text id="13021780">A sketch by STV, a masked battlefield artist said by
+some to be one of the last artists to dedicate his
+career to the art of hand-drawn portraits. His works
+command a high value among collectors in the know.
+----------------
+//STV's notes
+• Request for interview was met with snide derision
+   by the most important-looking member of the group.
+
+• They're not all bad, though. One of them offered
+   me a cup of coffee, or something like it.</text>
+<text id="13021781">%null%</text>
+<text id="13021782">%null%</text>
+<text id="13021783">%null%</text>
+<text id="13021784">%null%</text>
+<text id="13021785">%null%</text>
+<text id="13021786">%null%</text>
+<text id="13021787">%null%</text>
+<text id="13021788">%null%</text>
+<text id="13021789">%null%</text>
+<text id="13021790">A sketch by STV, a masked battlefield artist said by
+some to be one of the last artists to dedicate his
+career to the art of hand-drawn portraits. His works
+command a high value among collectors in the know.
+----------------
+//STV's notes
+• Old man (seated) looks like he's seen some things.</text>
+<text id="13021791">%null%</text>
+<text id="13021792">%null%</text>
+<text id="13021793">%null%</text>
+<text id="13021794">%null%</text>
+<text id="13021795">%null%</text>
+<text id="13021796">%null%</text>
+<text id="13021797">%null%</text>
+<text id="13021798">%null%</text>
+<text id="13021799">%null%</text>
+<text id="13021800">A sketch by STV, a masked battlefield artist said by
+some to be one of the last artists to dedicate his
+career to the art of hand-drawn portraits. His works
+command a high value among collectors in the know.
+----------------
+//STV's notes
+• The woman's the one in charge, and she's the smartest
+   of the bunch. Have I seen her somewhere else before,
+   though?</text>
+<text id="13021801">%null%</text>
+<text id="13021802">%null%</text>
+<text id="13021803">%null%</text>
+<text id="13021804">%null%</text>
+<text id="13021805">%null%</text>
+<text id="13021806">%null%</text>
+<text id="13021807">%null%</text>
+<text id="13021808">%null%</text>
+<text id="13021809">%null%</text>
+<text id="13021810">A sketch by STV, a masked battlefield artist said by
+some to be one of the last artists to dedicate his
+career to the art of hand-drawn portraits. His works
+command a high value among collectors in the know.
+----------------
+//STV's notes
+• These independent mercenaries are members of a
+   group of four (one serves as an operator). Weren't
+   willing to answer many questions.
+
+• Never got to meet the group's fourth merc, either.</text>
+<text id="13021811">%null%</text>
+<text id="13021812">%null%</text>
+<text id="13021813">%null%</text>
+<text id="13021814">%null%</text>
+<text id="13021815">%null%</text>
+<text id="13021816">%null%</text>
+<text id="13021817">%null%</text>
+<text id="13021818">%null%</text>
+<text id="13021819">%null%</text>
+<text id="13021820">A sketch by STV, a masked battlefield artist said by
+some to be one of the last artists to dedicate his
+career to the art of hand-drawn portraits. His works
+command a high value among collectors in the know.
+----------------
+//STV's notes
+• Caught a couple of hired killers on the prowl—
+   managed to sneak in a sketch without being noticed.
+
+• "The fool won't pay back what he owes," one said.</text>
+<text id="13021821">%null%</text>
+<text id="13021822">%null%</text>
+<text id="13021823">%null%</text>
+<text id="13021824">%null%</text>
+<text id="13021825">%null%</text>
+<text id="13021826">%null%</text>
+<text id="13021827">%null%</text>
+<text id="13021828">%null%</text>
+<text id="13021829">%null%</text>
+<text id="13021830">A sketch by the famed artist STK, who perished half
+a century ago during the Fires of Ibis.
+His style was assimilated by AI artists, and with
+time mimicry supplanted the real technique.
+----------------
+//Notes (STK)
+• Prof., two assistants, boy
+• Assistant 1's heading for a breakdown
+• Boy's sharper than he looks</text>
+<text id="13021831">%null%</text>
+<text id="13021832">%null%</text>
+<text id="13021833">%null%</text>
+<text id="13021834">%null%</text>
+<text id="13021835">%null%</text>
+<text id="13021836">%null%</text>
+<text id="13021837">%null%</text>
+<text id="13021838">%null%</text>
+<text id="13021839">%null%</text>
+<text id="13021840">Observation data extracted from a survey drone.
+Perhaps this was recorded by Handler Walter's "friend."
+----------------
+Xylem remains fully operational.
+
+The Planetary Closure Administration did their best
+to hide the place, but I'll find a way there soon
+enough...
+
+The only ones who know are the PCA, and—</text>
+<text id="13021841">%null%</text>
+<text id="13021842">%null%</text>
+<text id="13021843">%null%</text>
+<text id="13021844">%null%</text>
+<text id="13021845">%null%</text>
+<text id="13021846">%null%</text>
+<text id="13021847">%null%</text>
+<text id="13021848">%null%</text>
+<text id="13021849">%null%</text>
+<text id="13021850">Video record extracted from a wreck.
+An incomplete message sent from one member of the
+Redguns to another, apparently just before death.
+----------------
+Iguazu, I'm telling you, man, you gotta give Michigan
+a chance. He's different from the suits at HQ.
+
+Look, I know he's an asshole, but he's looking out for
+us, you know? Almost like we got a family here, heh.
+
+Man, if there's anyone who deserves punching out,
+it's the freaks who sent us on this suicide mission.
+You picked a good day to go AWOL... Wish I—</text>
+<text id="13021851">%null%</text>
+<text id="13021852">%null%</text>
+<text id="13021853">%null%</text>
+<text id="13021854">%null%</text>
+<text id="13021855">%null%</text>
+<text id="13021856">%null%</text>
+<text id="13021857">%null%</text>
+<text id="13021858">%null%</text>
+<text id="13021859">%null%</text>
+<text id="13021860">Text data extracted from a wreck.
+Makes reference to the Arquebus Re-education Center.
+----------------
+• To facilitate smooth progress of the Coral response
+   survey, a temporary branch of AREC is to be
+   installed on Rubicon.
+• Primary subjects are to be Rubiconist POWs.
+   Re-education of hostile corporate assets
+   permissible as the situation dictates.
+• Subjects who are resistant to re-education and
+   who possess a certain degree of combat skill are
+   to be processed according to the relevant
+   procedures and transferred to the Factory.</text>
+<text id="13021880">Video record extracted from a wreck.
+One can see performance tests of an unpiloted AC.
+An officer's voice can be heard in the background.
+----------------
+I see no significant difference in performance compared
+to what an AI can achieve... How very disappointing.
+This experiment was another failure, then.
+
+Regardless, I will have answers. The arrival of ACs
+brought the age of unpiloted craft to an end...
+but what essential difference makes them superior?
+
+Send a message to the Factory.
+Have them leave the torso intact next time.</text>
+<text id="13021881">%null%</text>
+<text id="13021882">%null%</text>
+<text id="13021883">%null%</text>
+<text id="13021884">%null%</text>
+<text id="13021885">%null%</text>
+<text id="13021886">%null%</text>
+<text id="13021887">%null%</text>
+<text id="13021888">%null%</text>
+<text id="13021889">%null%</text>
+<text id="13021890">Video record extracted from a wreck.
+It seems that a guard stationed at BAWS Arsenal No. 2
+was shot dead by an unknown aggressor.
+----------------
+You're just on edge, man.
+BAWS supplies MTs to the off-world corps, too.
+No one would ever touch this arsenal.
+
+Gotta move as many units as we can to bankroll Elcano.
+That's the only way we Rubiconians stand a...
+
+What was that? The connection's—</text>
+<text id="13021891">%null%</text>
+<text id="13021892">%null%</text>
+<text id="13021893">%null%</text>
+<text id="13021894">%null%</text>
+<text id="13021895">%null%</text>
+<text id="13021896">%null%</text>
+<text id="13021897">%null%</text>
+<text id="13021898">%null%</text>
+<text id="13021899">%null%</text>
+<text id="13021900">Video record extracted from a wreck.
+An AC that infiltrated Grid 086 appears to have
+been received by an RaD welcoming party.
+----------------
+Wait! Let's not do anything hasty!
+
+I'm no one, okay? I'm just a lowly debt collector.
+I didn't know this was your turf, I swear!
+
+The guy I'm after, he's a tricky one.
+He could be hiding anywhere in the Grid by now...
+
+Wait—no, please!
+You don't have to kill me!</text>
+<text id="13021901">%null%</text>
+<text id="13021902">%null%</text>
+<text id="13021903">%null%</text>
+<text id="13021904">%null%</text>
+<text id="13021905">%null%</text>
+<text id="13021906">%null%</text>
+<text id="13021907">%null%</text>
+<text id="13021908">%null%</text>
+<text id="13021909">%null%</text>
+<text id="13021910">Comms record extracted from a wreck.
+Appears to have been left by an RLF messenger who
+infiltrated earlier but was killed by the corporations.
+----------------
+I have to get this back to Uncle!
+
+Furlong agreed to provide technological assistance.
+Now the new model can finally be completed...
+
+He has to know—before those two destroy each other!</text>
+<text id="13021911">%null%</text>
+<text id="13021912">%null%</text>
+<text id="13021913">%null%</text>
+<text id="13021914">%null%</text>
+<text id="13021915">%null%</text>
+<text id="13021916">%null%</text>
+<text id="13021917">%null%</text>
+<text id="13021918">%null%</text>
+<text id="13021919">%null%</text>
+<text id="13021920">Comms record extracted from a wreck.
+Appears to be a leftover log of chatter between allies.
+----------------
+Wanna hear something wild? Turns out those big shots
+at the PCA who run the satellites take their orders from
+an AI. They're working for a computer, man!
+
+What? Ha, guess you're right.
+Then again...we're not too different there, huh.
+
+Yeah, but at least Chatty follows the boss's orders.
+S'pose he's just programmed that way, though...</text>
+<text id="13021921">%null%</text>
+<text id="13021922">%null%</text>
+<text id="13021923">%null%</text>
+<text id="13021924">%null%</text>
+<text id="13021925">%null%</text>
+<text id="13021926">%null%</text>
+<text id="13021927">%null%</text>
+<text id="13021928">%null%</text>
+<text id="13021929">%null%</text>
+<text id="13021930">Comms record extracted from a wreck.
+Appears to be a leftover log of chatter between allies.
+----------------
+I dunno about our new boss... Think we can trust him?
+
+You think Carla's better? She's got the nerve to call
+herself a freakin' Cinder. Nice try, lady, but you're a
+little young for that stolen valor.
+
+Man. Are those people at RaD full of shit or what?</text>
+<text id="13021931">%null%</text>
+<text id="13021932">%null%</text>
+<text id="13021933">%null%</text>
+<text id="13021934">%null%</text>
+<text id="13021935">%null%</text>
+<text id="13021936">%null%</text>
+<text id="13021937">%null%</text>
+<text id="13021938">%null%</text>
+<text id="13021939">%null%</text>
+<text id="13021940">Comms record extracted from a wreck.
+Evidence of independent mercenaries sharing
+intelligence with one another.
+----------------
+Looks like the PCA inspectors are on the move.
+Make sure the "four" know.
+
+As for the other corps, well...
+Melinite and Takigawa don't seem too ambitious.
+All they care about is selling their products.
+
+Furlong, though... They're pretending to be neutral,
+but you know those crafty foxes would never make a
+move out in the open.</text>
+<text id="13021941">%null%</text>
+<text id="13021942">%null%</text>
+<text id="13021943">%null%</text>
+<text id="13021944">%null%</text>
+<text id="13021945">%null%</text>
+<text id="13021946">%null%</text>
+<text id="13021947">%null%</text>
+<text id="13021948">%null%</text>
+<text id="13021949">%null%</text>
+<text id="13021950">Comms record extracted from a wreck.
+Appears to be information shared between members
+of an enforcement squad.
+----------------
+We do what the notice from the System tells us.
+For now, focus on mopping up the corporate forces.
+
+Make sure to keep an eye on the independent
+mercenaries, too.
+
+We have Branch to thank for causing this mess...
+
+No doubt they've landed on Rubicon.</text>
+<text id="13021951">%null%</text>
+<text id="13021952">%null%</text>
+<text id="13021953">%null%</text>
+<text id="13021954">%null%</text>
+<text id="13021955">%null%</text>
+<text id="13021956">%null%</text>
+<text id="13021957">%null%</text>
+<text id="13021958">%null%</text>
+<text id="13021959">%null%</text>
+<text id="13021960">Observation data extracted from an AC of unknown
+affiliation.
+Appears to have once been heavily encoded, then
+cracked by a third party.
+----------------
+A wave mutation has been detected.
+It's happening.
+
+The aging mercenary is the ideal candidate to serve
+as the trigger...
+We must now bring the third factor into play.</text>
+<text id="13021961">%null%</text>
+<text id="13021962">%null%</text>
+<text id="13021963">%null%</text>
+<text id="13021964">%null%</text>
+<text id="13021965">%null%</text>
+<text id="13021966">%null%</text>
+<text id="13021967">%null%</text>
+<text id="13021968">%null%</text>
+<text id="13021969">%null%</text>
+<text id="13021970">Observation data extracted from an AC of unknown
+affiliation.
+Appears to have once been heavily encoded, then
+cracked by a third party.
+----------------
+The aftereffects of the Fires of Ibis are causing
+anomalies that frustrate attempts to observe a
+number of sites.
+
+The Central Ice Field is dotted with many such
+"blind spots"—areas that cannot be observed off-planet.
+
+The PCA would be keen to exploit these.
+We'll surely find the first Watchpoint there.</text>
+<text id="13021971">%null%</text>
+<text id="13021972">%null%</text>
+<text id="13021973">%null%</text>
+<text id="13021974">%null%</text>
+<text id="13021975">%null%</text>
+<text id="13021976">%null%</text>
+<text id="13021977">%null%</text>
+<text id="13021978">%null%</text>
+<text id="13021979">%null%</text>
+<text id="13021980">Observation data extracted from an AC of unknown
+affiliation.
+Appears to have once been heavily encoded, then
+cracked by a third party.
+----------------
+The Enforcement System had been buried deep within
+Rubicon all this time. Little wonder that the
+suppression fleet was so quick to arrive..
+
+For now, we shall monitor the Observers' actions...
+and provide indirect aid to Arquebus.</text>
+<text id="13021981">%null%</text>
+<text id="13021982">%null%</text>
+<text id="13021983">%null%</text>
+<text id="13021984">%null%</text>
+<text id="13021985">%null%</text>
+<text id="13021986">%null%</text>
+<text id="13021987">%null%</text>
+<text id="13021988">%null%</text>
+<text id="13021989">%null%</text>
+<text id="13021990">Text data extracted from a wreck.
+The lost auto-transcription for a voice log recorded by
+Prof. Nagai, the Rubicon Research Institute director.
+----------------
+There is no averting the ruin that awaits both
+the Institute and Rubicon itself.
+I must now concern myself with what follows.
+
+The data shows signs of wave mutation...
+Observation must continue.
+
+Assistant No. 2 is our only remaining hope.
+Though it pains me, I have no choice but to pass the legacy
+of our sins onto her—my own student.</text>
+</entries>
+</fmg>

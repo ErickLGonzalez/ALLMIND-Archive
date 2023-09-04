@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="50000000">Medium-weight head part developed by Balam. The simple
+design and solid performance of this model make it suited
+for mass production—reflecting Balam's strategy of
+overwhelming its enemies with its material superiority.</text>
+<text id="50000100">Head part for a combat AC developed by RaD. Though it
+was assembled from a patchwork of reclaimed resources,
+RaD mobilized its entire engineering team to fine-tune
+its design for formidable performance.</text>
+<text id="50000200">Retrofitted head part developed by Balam. This high-end
+model is a strong performer with a hefty energy footprint,
+and features an intimidating spider-eye design chosen to
+suit the tastes of the Redguns' commander.</text>
+<text id="50000300">Custom head part developed by Balam. Altered to improve
+combat suitability, the revisions to this model include
+partial armor plating and the addition of a scanner
+module.</text>
+<text id="50010000">Head part developed by Dafeng Core Industries for the
+heavyweight TIAN-QIANG AC. Incorporates only the most
+essential functionality with a minimalist build in keeping
+with Dafeng's "stout tree, slender branches" philosophy.</text>
+<text id="50020000">Lightweight head part developed by Schneider.
+Schneider is a specialist in aerodynamic research,
+and this model reflects their experience with a light
+but highly stable build.</text>
+<text id="50020100">Expanded head part developed by Schneider.
+This model further improves on stability but with
+a higher energy burden, resulting in excellent
+performance in aerial combat.</text>
+<text id="50030000">Mass-produced head part developed by Arquebus.
+A number of refinements and updates have been made to the
+strong foundation laid by the preceding model, creating a
+masterpiece in the realm of second-generation AC parts.</text>
+<text id="50030100">Head part developed by Arquebus, derived from an existing
+model. Engineered in anticipation of regular use by the
+Vespers, this model features further improvements to
+stability.</text>
+<text id="50040000">Heavyweight head part designed by Arquebus ADD.
+Incorporates cutting-edge technology to enable defiance of
+the PCA. This model's distinctive curved armor plating
+provides solid defense against damage of all kinds.</text>
+<text id="50040100">Special head part designed by Arquebus ADD. Engineered to
+accommodate a proposal from V.VII, this model maximizes
+scanning performance, positioning its overall performance
+close to that of a surveillance-oriented concept model.</text>
+<text id="50050000">Head part developed by ALLMIND for model ACs. Designed
+as part of a research project to extend human sensory
+capabilities, with numerous optimizations to create an AC
+that, to the pilot, feels like an extension of the body.</text>
+<text id="50050100">Model head part developed by ALLMIND.
+In line with a change in approach, this part maximizes
+stability at the expense of armor robustness.</text>
+<text id="50060000">Lightweight head part developed by Elcano. In keeping
+with Elcano's roots in producing and forging steel, this
+model exhibits craftsman-like flair, being light while
+providing reliable defenses.</text>
+<text id="50070200">Head part developed by BAWS for an old-generation AC.
+Said AC was one of the earliest models, developed to
+succeed MT-class machines, and modern fans of such
+classic hardware are fond of its characteristic bulk.</text>
+<text id="50070300">Head part for construction ACs developed by RaD.
+Specced for demolition work, this model makes up for
+combat performance shortcomings with its sturdiness
+and outstanding defensive performance.</text>
+<text id="50070400">Head part for scout ACs developed by RaD. Originally
+specced for surveying terrain, this model makes up for
+what it lacks in combat performance with a light energy
+footprint and commendable ease of use.</text>
+<text id="50070600">Custom part derived from the scout AC head developed by
+RaD. Comprehensively rebuilt for combat by an anonymous
+independent mercenary group, this model takes some steps
+forward but sacrifices the minimalism of its predecessor.</text>
+<text id="50080000">Head part for the HAL 826 piloted AC, developed long ago
+by the Rubicon Research Institute. The last of the Ibis
+Series and the only piloted Ibis craft, it was built to be
+the final safety valve to prevent a Coral Collapse.</text>
+<text id="50080100">Head part for the EPHEMERA unpiloted ACs, developed long
+ago by the Rubicon Research Institute. An old development
+quirk allows for piloted operation, but one should not
+expect any concessions for the limits of human sight.</text>
+<text id="50080200">A new head part developed by Elcano. This model utilizes
+technology received from Furlong Dynamics to achieve
+improved overall balance and precise AC control.</text>
+<text id="50900000">Junk. Originally a head part for an old-generation AC
+developed by BAWS. RaD engineers infiltrated Institute
+City to make field repairs—just enough to make this part
+operable, but not enough to fix its weathered armor.</text>
+<text id="51000000">Medium-weight core part developed by Balam. The simple
+design and solid performance of this model make it suited
+for mass production—reflecting Balam's strategy of
+overwhelming its enemies with its material superiority.</text>
+<text id="51000100">Core part for a combat AC developed by RaD. Though it
+was assembled from a patchwork of reclaimed resources,
+RaD mobilized its entire engineering team to fine-tune
+its design for formidable performance.</text>
+<text id="51000300">Custom core part developed by Balam. Altered to improve
+combat suitability, this model features a lighter basic
+frame enhanced with partial armor plating to maintain a
+modest weight.</text>
+<text id="51010000">Core part developed by Dafeng Core Industries for the
+heavyweight TIAN-QIANG AC. This is the "trunk" in Dafeng's
+"stout tree, slender branches" philosophy; a defensive
+foundation with extremely heavy, sturdy armor.</text>
+<text id="51020000">Lightweight core part developed by Schneider.
+Schneider is a specialist in aerodynamic research,
+and this model reflects their experience with a light
+and highly agile build.</text>
+<text id="51030000">Mass-produced core part developed by Arquebus.
+A number of refinements and updates have been made to the
+strong foundation laid by the preceding model, creating a
+masterpiece in the realm of second-generation AC parts.</text>
+<text id="51040000">Heavyweight core part designed by Arquebus ADD.
+Incorporates cutting-edge technology to enable defiance of
+the PCA. This model features excellent generator output
+adjustment and solid defense against damage of all kinds.</text>
+<text id="51050000">Core part developed by ALLMIND for model ACs. Designed
+as part of a research project to extend human sensory
+capabilities, with numerous optimizations to create an AC
+that, to the pilot, feels like an extension of the body.</text>
+<text id="51060000">Lightweight core part developed by Elcano. In keeping
+with Elcano's roots in producing and forging steel, this
+model exhibits craftsman-like flair, being light while
+providing reliable defenses.</text>
+<text id="51070200">Core part developed by BAWS for an old-generation AC.
+Said AC was one of the earliest models, developed to
+succeed MT-class machines, and modern fans of such
+classic hardware are fond of its characteristic bulk.</text>
+<text id="51070300">Core part for construction ACs developed by RaD.
+Specced for demolition work, this model makes up for
+combat performance shortcomings with its sturdiness
+and outstanding physical defenses.</text>
+<text id="51070400">Core part for scout ACs developed by RaD. Originally
+specced for extravehicular activity in space, this model
+makes up for what it lacks in combat performance with
+a light energy footprint and commendable ease of use.</text>
+<text id="51080000">Core part for the HAL 826 piloted AC, developed long ago
+by the Rubicon Research Institute. The last of the Ibis
+Series and the only piloted Ibis craft, it was built to be
+the final safety valve to prevent a Coral Collapse.</text>
+<text id="51080100">Core part for the EPHEMERA unpiloted ACs, developed long
+ago by the Rubicon Research Institute. An old development
+quirk allows for piloted operation, but the core box makes
+only perfunctory concessions for a human occupant.</text>
+<text id="51080200">A new core part developed by Elcano. This model utilizes
+technological insights derived from analyzing Schneider
+ACs to achieve improved overall balance and high
+suitability for aerial combat.</text>
+<text id="51900000">Junk. Originally a core part for an old-generation AC
+developed by BAWS. RaD engineers infiltrated Institute
+City to make field repairs—just enough to make this part
+operable, but not enough to fix its weathered armor.</text>
+<text id="52000000">Medium-weight arm parts developed by Balam. The simple
+design and solid performance of this model make it suited
+for mass production—reflecting Balam's strategy of
+overwhelming its enemies with its material superiority.</text>
+<text id="52000100">Arm parts for a combat AC developed by RaD. Though it
+was assembled from a patchwork of reclaimed resources,
+RaD mobilized its entire engineering team to fine-tune
+its design for formidable performance.</text>
+<text id="52000300">Custom arm parts developed by Balam. Altered to improve
+combat suitability, this model features a lighter basic
+frame while also enhancing arm maneuverability.</text>
+<text id="52010000">Arm parts developed by Dafeng Core Industries for the
+heavyweight TIAN-QIANG AC. Built to embody Dafeng's
+"stout tree, slender branches" philosophy, their weight
+is balanced by heavy upper arms and lighter forearms.</text>
+<text id="52010100">Revised arm parts developed by Dafeng Core Industries.
+This model attempts to further refine Dafeng's "stout
+tree, slender branches" philosophy by enhancing the
+durability of the armor plating around the shoulders.</text>
+<text id="52020000">Lightweight arm parts developed by Schneider.
+Schneider is a specialist in aerodynamic research,
+and this model reflects their experience with a light
+and highly agile build.</text>
+<text id="52030000">Mass-produced arm parts developed by Arquebus.
+A number of refinements and updates have been made to the
+strong foundation laid by the preceding model, creating a
+masterpiece in the realm of second-generation AC parts.</text>
+<text id="52030100">Arm parts developed by Arquebus, derived from an existing
+model. Engineered in anticipation of regular use by the
+Vespers, this model features further improvements to
+performance.</text>
+<text id="52040000">Heavyweight arm parts designed by Arquebus ADD.
+Incorporates cutting-edge technology to enable defiance of
+the PCA. This model's distinctive curved armor plating
+provides solid defense against damage of all kinds.</text>
+<text id="52050000">Arm parts developed by ALLMIND for model ACs. Designed
+as part of a research project to extend human sensory
+capabilities, with numerous optimizations to create an AC
+that, to the pilot, feels like an extension of the body.</text>
+<text id="52060000">Lightweight arm parts developed by Elcano. In keeping
+with Elcano's roots in producing and forging steel, this
+model exhibits craftsman-like flair, being light while
+providing dependable carrying capacity.</text>
+<text id="52070200">Arm parts developed by BAWS for an old-generation AC.
+Said AC was one of the earliest models, developed to
+succeed MT-class machines, and modern fans of such
+classic hardware are fond of its characteristic bulk.</text>
+<text id="52070300">Arm parts for construction ACs developed by RaD.
+Specced for demolition work, this model makes up for
+combat performance shortcomings with its sturdiness
+and excellent recoil control.</text>
+<text id="52070400">Arm parts for scout ACs developed by RaD. Originally
+specced for recovering scrap, this model makes up for
+what it lacks in combat performance with a light energy
+footprint and commendable ease of use.</text>
+<text id="52080000">Arm parts for the HAL 826 piloted AC, developed long ago
+by the Rubicon Research Institute. The last of the Ibis
+Series and the only piloted Ibis craft, it was built to be
+the final safety valve to prevent a Coral Collapse.</text>
+<text id="52080100">Arm parts for the EPHEMERA unpiloted ACs, developed long
+ago by the Rubicon Research Institute. An old development
+quirk allows for piloted operation, albeit with actuation
+translation that outstrips the capability of human nerves.</text>
+<text id="52080200">New arm parts developed by Elcano. This model utilizes
+technology received from Furlong Dynamics to achieve
+improved overall balance and precise AC control.</text>
+<text id="52900000">Junk. Originally arm parts for an old-generation AC
+developed by BAWS. RaD engineers infiltrated Institute
+City to make field repairs—just enough to make this part
+operable, but not enough to fix its weathered armor.</text>
+<text id="53000000">Medium-weight bipedal leg parts developed by Balam. The
+simple design and solid performance of this model make it
+suited for mass production—reflecting Balam's strategy
+of overwhelming its enemies with its material superiority.</text>
+<text id="53000100">Bipedal leg parts for a combat AC developed by RaD.
+Though it was assembled from a patchwork of reclaimed
+resources, RaD mobilized its entire engineering team to
+fine-tune its design for formidable performance.</text>
+<text id="53000300">Custom bipedal leg parts developed by Balam. Altered to
+improve combat suitability, this model features a lighter
+basic frame enhanced with partial armor plating to
+maintain a modest weight.</text>
+<text id="53010000">Bipedal legs developed by Dafeng Core Industries for the
+heavyweight TIAN-QIANG AC. Built to embody Dafeng's
+"stout tree, slender branches" philosophy, their weight
+is balanced by heavy upper legs and lighter lower legs.</text>
+<text id="53020000">Lightweight bipedal leg parts developed by Schneider.
+Schneider is a specialist in aerodynamic research,
+and this model reflects their experience with a light
+and highly agile build.</text>
+<text id="53030000">Mass-produced bipedal leg parts developed by Arquebus.
+A number of refinements and updates have been made to the
+strong foundation laid by the preceding model, creating a
+masterpiece in the realm of second-generation AC parts.</text>
+<text id="53040000">Heavyweight bipedal leg parts designed by Arquebus ADD.
+Incorporates cutting-edge technology to enable defiance of
+the PCA. This model utilizes hover movement for increased
+loading capacity and greatly improved stability.</text>
+<text id="53050000">Bipedal legs developed by ALLMIND for model ACs. Designed
+as part of a research project to extend human sensory
+capabilities, with numerous optimizations to create an AC
+that, to the pilot, feels like an extension of the body.</text>
+<text id="53060000">Lightweight bipedal leg parts developed by Elcano. In
+keeping with Elcano's roots in producing and forging
+steel, this model exhibits craftsman-like flair, being
+light yet retaining high load capacity.</text>
+<text id="53070200">Bipedal legs developed by BAWS for an old-generation AC.
+Said AC was one of the earliest models, developed to
+succeed MT-class machines, and modern fans of such
+classic hardware are fond of its characteristic bulk.</text>
+<text id="53070300">Bipedal leg parts for construction ACs developed by RaD.
+Specced for demolition work, this model makes up for
+combat performance shortcomings with its sturdiness
+and outstanding loading capacity.</text>
+<text id="53070400">Bipedal legs for scout ACs developed by RaD. Originally
+specced for surface surveys of astronomical objects, this
+model makes up for what it lacks in combat performance
+with a light energy footprint and commendable ease of use.</text>
+<text id="53080000">Bipedal legs for the HAL 826 piloted AC, developed long
+ago by the Rubicon Research Institute. The last of the
+Ibis Series and the only piloted Ibis craft, it was built
+to be the final safety valve to prevent a Coral Collapse.</text>
+<text id="53080100">Bipedal legs for EPHEMERA unpiloted ACs, developed long
+ago by the Rubicon Research Institute. An old development
+quirk allows for piloted operation, albeit with actuation
+translation that outstrips the capability of human nerves.</text>
+<text id="53080200">New bipedal leg parts developed by Elcano. This model
+utilizes technological insights derived from analyzing
+Schneider ACs to achieve improved overall balance and
+high suitability for aerial combat.</text>
+<text id="53120000">Lightweight reverse-joint legs developed by Schneider.
+These legs sacrifice stability and defensive performance
+to provide exceptional jumping performance, enabling agile
+transitions to aerial combat—as is Schneider's forte.</text>
+<text id="53150000">Alternative reverse-joint legs developed by ALLMIND.
+Marking a new approach, this part explores changes in
+human sensory perception through introduction of alien
+elements; in this case, animal-like digitigrade legs.</text>
+<text id="53170400">Heavyweight reverse-joint legs for scout ACs developed by
+RaD. Originally specced for resource transportation rather
+than combat, these legs are capable of leaping up to high
+positions while supporting a significant weight burden.</text>
+<text id="53200000">Tetrapod leg option developed by Balam. The design
+division was all but held at gunpoint to produce a model
+that satisfied the Redguns' demand for a highly mobile
+AC platform also capable of supporting heavy weaponry.</text>
+<text id="53230000">Tetrapod leg parts developed by Arquebus, derived from
+an existing model. Intended for tetrapods deployed along-
+side Arquebus's bipedal and reverse-joint ACs, this model
+focuses on mobility to enable hovering-based fire support.</text>
+<text id="53300000">Heavyweight tank parts developed by Balam.
+Designed with the simple goal of turning ACs into tanks
+capable of carrying the heavy weaponry manufactured
+by Dafeng Core Industries.</text>
+<text id="53340000">Special tank parts designed by Arquebus ADD.
+Prioritizes hovering performance and forward propulsion
+to focus on aerial combat. During development, the specs
+were stolen and leaked by an independent mercenary.</text>
+<text id="53360000">Lightweight tank parts developed by Elcano. Inspired by
+wheelchairs made for competitive sports, this product was
+an instant success with soldiers who had lost the use of
+their legs in combat but still pined for the battlefield.</text>
+<text id="53900000">Junk. Originally bipedal leg parts for an old-generation
+AC developed by BAWS. RaD engineers infiltrated Institute
+City to make field repairs—just enough to make this part
+operable, but not enough to fix its weathered armor.</text>
+</entries>
+</fmg>

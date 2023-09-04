@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="5000">Select a standard sorting order.</text>
+<text id="71510">Optimizes fire control of AC and weapons to enhance
+all sources of kinetic damage, excluding melee weapons.</text>
+<text id="71511">Optimizes power output of AC and weapons to enhance
+all sources of energy damage, excluding melee weapons.</text>
+<text id="71512">Optimizes fuse control of AC and weapons to enhance
+all sources of explosive damage, excluding melee weapons.</text>
+<text id="71513">Optimizes drive control of AC and weapons to enhance
+all sources of melee damage.</text>
+<text id="71514">Improves the precision of attacks against staggered enemies,
+increasing damage dealt by direct hits.</text>
+<text id="71515">%null%</text>
+<text id="71516">%null%</text>
+<text id="71517">%null%</text>
+<text id="71518">%null%</text>
+<text id="71519">%null%</text>
+<text id="71520">Improves the precision of ACS-based bracing posture control,
+reducing damage received from enemy attacks.</text>
+<text id="71531">Improves the AC's ability to scan for damage,
+boosting the effectiveness of Repair Kits.</text>
+<text id="71532">%null%</text>
+<text id="71533">%null%</text>
+<text id="71534">%null%</text>
+<text id="71535">%null%</text>
+<text id="71536">%null%</text>
+<text id="71537">%null%</text>
+<text id="71538">%null%</text>
+<text id="71539">%null%</text>
+<text id="71540">Improves object access speed by optimizing hacking
+and override functionality.
+</text>
+<text id="71541">%null%</text>
+<text id="71542">%null%</text>
+<text id="71543">%null%</text>
+<text id="71544">%null%</text>
+<text id="71545">Unlocks the ability to sortie when AC is overburdened,
+and to manually purge weapons.
+Purging weapons reduces weight load and improves speed.
+
+&lt;?kgicon@26?&gt; + &lt;?kgicon@18?&gt; / &lt;?kgicon@17?&gt; / &lt;?kgicon@20?&gt; / &lt;?kgicon@19?&gt;: Manual Purge</text>
+<text id="71546">%null%</text>
+<text id="71547">%null%</text>
+<text id="71548">%null%</text>
+<text id="71549">%null%</text>
+<text id="71550">Unlocks the ability to perform a Boost Kick.
+Boost Kicks hit with heavy impact by combining the speed
+of an Assault Boost with the sheer weight of the AC.
+
+&lt;?kgicon@9?&gt; during Assault Boost: Boost Kick</text>
+<text id="71551">Unlocks the Weapon Bay feature for AC shoulders, allowing
+shoulder weapons to be replaced with additional hand weapons.
+
+With hand weapon equipped to corresponding shoulder:
+&lt;?kgicon@20?&gt;: Switch Right Hand Weapon
+&lt;?kgicon@19?&gt;: Switch Left Hand Weapon</text>
+<text id="71552">Unlocks the ability to perform manual aiming.
+Allows for manual reticle control, but practical usage
+calls for experienced technique.
+
+Hold &lt;?kgicon@15?&gt;: Enable Manual Aiming
+&lt;?kgicon@15?&gt; with Manual Aiming ON: Disable Manual Aiming</text>
+<text id="71553">Unlocks the Quick Turn feature, allowing the AC to perform
+snap turns to side or rear directions.
+
+&lt;?kgicon@6?&gt; + &lt;?kgicon@90?&gt;: Quick Turn</text>
+<text id="71554">%null%</text>
+<text id="71555">%null%</text>
+<text id="71556">%null%</text>
+<text id="71557">%null%</text>
+<text id="71558">%null%</text>
+<text id="71559">%null%</text>
+<text id="71560">Unlocks Core Expansion: Assault Armor and allows it to be
+installed. Assault Armor creates a pulse explosion centered on
+the AC, canceling out incoming enemy fire and creating a
+damaging area-of-effect shockwave.
+
+&lt;?kgicon@99?&gt; while equipped: Activate Assault Armor</text>
+<text id="71561">Unlocks Core Expansion: Pulse Armor and allows it to be
+installed. Pulse Armor creates a pulse barrier that trails the
+AC, dramatically increasing defensive performance until it
+exceeds its durability or time limit.
+
+&lt;?kgicon@99?&gt; while equipped: Activate Pulse Armor</text>
+<text id="71562">Unlocks Core Expansion: Pulse Protection and allows it to be
+installed. Pulse Protection creates a pulse barrier in a fixed
+position, providing cover from enemy fire until the barrier
+reaches its durability or time limit.
+
+&lt;?kgicon@99?&gt; while equipped: Activate Pulse Protection</text>
+<text id="71563">Unlocks Core Expansion: Terminal Armor and allows it to be
+installed. Terminal Armor automatically triggers a pulse barrier
+when the AC's AP reaches its limit, greatly enhancing defense
+until the barrier reaches its durability or time limit.
+
+When equipped, activates automatically when AP falls to 0.</text>
+<text id="100002">Buy and sell parts for AC assembly.</text>
+<text id="100003">%null%</text>
+<text id="100004">Sortie on missions, or hone your skills using mercenary support simulators.</text>
+<text id="100005">Enter the "Nest" online battle simulator.</text>
+<text id="101001">Apply OS upgrades to your AC.</text>
+<text id="102001">Modify assembly of AC parts.</text>
+<text id="102002">Change AC parts and adjust its appearance.</text>
+<text id="102003">Manage AC assemblies, appearance settings, and other AC data.</text>
+<text id="102004">Test AC performance.</text>
+<text id="103001">Buy parts.</text>
+<text id="103002">%null%</text>
+<text id="103003">Sell parts.</text>
+<text id="104000">Enter the "Arena" combat aptitude evaluation program.</text>
+<text id="104001">Check received requests and sortie on missions.</text>
+<text id="104002">%null%</text>
+<text id="104003">Sortie on missions that you have already completed.</text>
+<text id="104004">%null%</text>
+<text id="104005">%null%</text>
+<text id="104006">%null%</text>
+<text id="104007">%null%</text>
+<text id="104008">%null%</text>
+<text id="104009">%null%</text>
+<text id="104010">Learn AC controls and basic tactics via mercenary support simulators.</text>
+<text id="105002">View online match records.</text>
+<text id="105003">%null%</text>
+<text id="105004">%null%</text>
+<text id="105005">%null%</text>
+<text id="105006">Battle using customized rules.</text>
+<text id="111001">Change AC color scheme.</text>
+<text id="111002">%null%</text>
+<text id="111003">Change AC decal settings.</text>
+<text id="111004">Create images for use as decals or pilot emblems.</text>
+<text id="120001">Check and adjust various settings.</text>
+<text id="120002">Restart mission from the beginning.</text>
+<text id="120003">Quit mission and return to the Garage.</text>
+<text id="120004">Restart mission from the most recent checkpoint.</text>
+<text id="120005">%null%</text>
+<text id="120006">%null%</text>
+<text id="120007">%null%</text>
+<text id="120008">%null%</text>
+<text id="120009">%null%</text>
+<text id="120010">Configure settings for enemies appearing in this test.</text>
+<text id="120011">Replenish AP and ammunition.</text>
+<text id="120012">%null%</text>
+<text id="120013">%null%</text>
+<text id="120014">%null%</text>
+<text id="120015">%null%</text>
+<text id="120016">%null%</text>
+<text id="120017">%null%</text>
+<text id="120018">%null%</text>
+<text id="120019">%null%</text>
+<text id="120020">Restart program from the beginning.</text>
+<text id="120021">End program and return to the Garage.</text>
+<text id="120022">%null%</text>
+<text id="120023">%null%</text>
+<text id="120024">%null%</text>
+<text id="120025">%null%</text>
+<text id="120026">%null%</text>
+<text id="120027">%null%</text>
+<text id="120028">%null%</text>
+<text id="120029">%null%</text>
+<text id="120030">Restart training from the beginning.</text>
+<text id="120031">Quit training and return to the Garage.</text>
+<text id="120050">Quit test and return to the Garage.</text>
+<text id="120100">End the match and return to the Versus Room.</text>
+<text id="121000">Load AC data.</text>
+<text id="254010">Restart mission from the beginning.</text>
+<text id="254011">Restart mission from the most recent checkpoint.</text>
+<text id="254012">Quit mission and return to the Garage.</text>
+<text id="281201">Set the maximum number of
+Versus Room participants.
+
+Options vary depending on
+match format.</text>
+<text id="281202">Select from one of two match formats.
+
+Single:
+   1-vs-1. The first player to secure
+   a two-phase lead wins.
+
+• Win phase or draw to earn 1 point.
+   First player to score 2 pts. wins.
+
+Team:
+   3-vs-3. Two teams compete in an
+   endurance match.
+
+• Destroy enemy ACs to score team
+   points. The highest-scoring team
+   when time is called wins.
+
+• The player with the most kills will
+   be marked as a priority target.
+   Destroy them to earn extra points.</text>
+<text id="281203">Set the time limit for the match.</text>
+<text id="281204">Select the map used for the match.</text>
+<text id="281205">Select one of three member
+rotation methods.
+
+Hosts can manually designate room
+members to sortie/spectate regardless
+of the rotation method chosen.
+
+Locked
+   No automatic rotation.
+   Members are locked in for
+   subsequent sorties.
+
+Losers Rotate
+   Losers of previous match spectate,
+   changing places with reserves who
+   did not sortie.
+
+Winners Rotate
+   Winners of previous match spectate,
+   changing places with reserves who
+   did not sortie.</text>
+<text id="281206">Select an option to configure
+room access.
+
+Open:
+   Players can join via room search.
+
+Private:
+   Room will not appear in room search.</text>
+<text id="281207">Select keywords for the Versus Room.
+
+Room searches using matching keywords
+will show this room in their results.</text>
+<text id="281208">%null%</text>
+<text id="281209">%null%</text>
+<text id="281210">Create Versus Room with configured settings.</text>
+<text id="281260">Create Versus Room with configured settings.</text>
+<text id="281310">Create Versus Room with configured settings.</text>
+<text id="400001"> </text>
+<text id="400002"> </text>
+<text id="400003">%null%</text>
+<text id="400004"> </text>
+<text id="400005">%null%</text>
+<text id="400006"> </text>
+<text id="400007"> </text>
+<text id="400008">%null%</text>
+<text id="400009">%null%</text>
+<text id="400010"> </text>
+<text id="400011">%null%</text>
+<text id="400012">%null%</text>
+<text id="400013">%null%</text>
+<text id="400014">%null%</text>
+<text id="400015">%null%</text>
+<text id="400016">%null%</text>
+<text id="400017">%null%</text>
+<text id="400018">%null%</text>
+<text id="400019">%null%</text>
+<text id="400020"> </text>
+<text id="400021"> </text>
+<text id="400090"> </text>
+<text id="410560">Press the key to assign.</text>
+<text id="410610">Move forwards.</text>
+<text id="410611">Move rearwards.</text>
+<text id="410612">Move leftwards.</text>
+<text id="410613">Move rightwards.</text>
+<text id="410614">Moves using boosters.</text>
+<text id="410615">Performs a Quick Boost.</text>
+<text id="410616">Jumps or ascends.</text>
+<text id="410617">%null%</text>
+<text id="410618">Performs an Assault Boost.</text>
+<text id="410619">Scan vicinity around AC
+to detect enemies and part containers.</text>
+<text id="410620">Aims camera upward.</text>
+<text id="410621">Aims camera downward.</text>
+<text id="410622">Aims camera left.</text>
+<text id="410623">Aims camera right.</text>
+<text id="410624">Toggles Target Assist on or off.</text>
+<text id="410640">Uses left arm weapon.</text>
+<text id="410641">Uses right arm weapon.</text>
+<text id="410642">Uses a Repair Kit.</text>
+<text id="410643">Attempts computer access to a nearby object.</text>
+<text id="410644">%null%</text>
+<text id="410645">%null%</text>
+<text id="410646">%null%</text>
+<text id="410647">Uses left shoulder weapon.</text>
+<text id="410648">Uses right shoulder weapon.</text>
+<text id="410649">Used in combination with other controls
+to perform special actions.</text>
+<text id="410650">Manually purges weapon when used in
+combination with &lt;?kgicon@18?&gt; / &lt;?kgicon@17?&gt; / &lt;?kgicon@20?&gt; / &lt;?kgicon@19?&gt;.</text>
+<text id="410651">%null%</text>
+<text id="410652">%null%</text>
+<text id="410653">%null%</text>
+<text id="410654">%null%</text>
+<text id="410655">%null%</text>
+<text id="410656">%null%</text>
+<text id="410657">%null%</text>
+<text id="410658">%null%</text>
+<text id="410659">%null%</text>
+<text id="410660">Selects option appearing on the left.</text>
+<text id="410661">%null%</text>
+<text id="410662">%null%</text>
+<text id="410663">%null%</text>
+<text id="410664">%null%</text>
+<text id="410665">Selects option appearing on the right.</text>
+<text id="411001">Choose whether Target Assist
+should remain enabled after
+destroying the current target.</text>
+<text id="411002">&lt;?systemMsgId@3000?&gt;</text>
+<text id="411003">%null%</text>
+<text id="411004">%null%</text>
+<text id="411005">Choose a method to activate
+Core Expansions.
+
+TYPE A:
+   Assault Boost + Shift
+
+TYPE B:
+   Assault Boost + Target Assist</text>
+<text id="411006">Automatically purges weapon
+when that weapon's ammunition
+is fully depleted.</text>
+<text id="412001">Configure y-axis camera controls.
+
+Normal:
+   Default up/down controls.
+
+Inverted:
+   Reversed up/down controls.</text>
+<text id="412002">Configure x-axis camera controls.
+
+Normal:
+   Default left/right controls.
+
+Inverted:
+   Reversed left/right controls.</text>
+<text id="412003">%null%</text>
+<text id="412004">Configures speed of camera movement.</text>
+<text id="413001">Select game display mode.
+
+Windowed:
+   Displays in a window.
+
+Full Screen:
+   Displays in full-screen mode.
+
+Borderless Window:
+   Simulates full-screen display.</text>
+<text id="413002">Configure screen resolution.</text>
+<text id="413003">Enable or disable HDR.
+
+(Only applicable for
+HDR-compatible displays.)</text>
+<text id="413004">Adjust screen brightness.</text>
+<text id="413005">Configure screen luminosity,
+brightness, and saturation
+when HDR is enabled.</text>
+<text id="413006">Automatically adjusts rendering
+settings when frame rate
+decreases occur.</text>
+<text id="413007">Configure rendering quality.</text>
+<text id="413008">Configure advanced settings
+for rendering quality.</text>
+<text id="413009">Enable or disable ray tracing.
+
+(This setting only applies to the Garage.)</text>
+<text id="413010">Choose whether to prioritize image quality or frame rate.</text>
+<text id="413011">%null%</text>
+<text id="413012">Set a frame rate limit.</text>
+<text id="413013">%null%</text>
+<text id="413014">Enable/disable function to sync
+frame rate with refresh rate of
+the display.</text>
+<text id="413051">Adjust brightness until the image on the left is barely visible.</text>
+<text id="413071">Adjust the brightness.</text>
+<text id="413072">Adjust monitor luminosity.</text>
+<text id="413073">Adjust saturation to your liking.</text>
+<text id="413501">Configure texture quality.</text>
+<text id="413502">Makes edges appear smoother
+when rendering the picture.</text>
+<text id="413503">Configure the quality of shadows
+resulting from indirect lighting.</text>
+<text id="413504">Configure the quality of
+depth-of-field rendering effects.</text>
+<text id="413505">Configure the quality of
+motion blur effects.</text>
+<text id="413506">Configure the quality of
+shadow rendering.</text>
+<text id="413507">Configure the quality of
+light effects.</text>
+<text id="413508">Configure the quality of
+various effects.</text>
+<text id="413509">Configure the quality of
+volumetric fog.</text>
+<text id="413510">Configure the quality of
+reflection effects.</text>
+<text id="413511">Configure the quality of
+water surface rendering.</text>
+<text id="413512">Configure shader quality.</text>
+<text id="413513">Configure ray tracing quality.
+
+(This setting only applies to the Garage.)</text>
+<text id="414001">Adjust music volume.</text>
+<text id="414002">Adjust sound effects volume.</text>
+<text id="414003">Adjust voice volume.</text>
+<text id="414004">Adjust the overall volume.</text>
+<text id="415001">Toggle display of subtitles
+on or off.</text>
+<text id="415002">Choose a HUD display method.
+The Automatic setting hides
+the HUD when out of combat.</text>
+<text id="417001">Configure keyboard/mouse controls.</text>
+<text id="417002">Choose the device that
+on-screen prompts
+should represent.</text>
+<text id="417003">Adjust sensitivity of
+mouse controls.</text>
+<text id="417004">Configure mouse x-axis controls.
+
+Normal:
+   Default left/right controls.
+
+Inverted:
+   Reversed left/right controls.</text>
+<text id="417005">Configure mouse y-axis controls.
+
+Normal:
+   Default up/down controls.
+
+Inverted:
+   Reversed up/down controls.</text>
+<text id="419002">Enable or disable voice chat.</text>
+<text id="419003">Adjust display of players' names.</text>
+<text id="419004">Choose which mode (online or offline)
+to start in from title launch.
+
+Setting will be applied after returning
+to title screen.</text>
+<text id="419005">Change the setting to
+consent to data usage.</text>
+<text id="419100">Select region to use
+for matchmaking.</text>
+<text id="419300">Read the Software Usage Agreement.</text>
+<text id="419301">%null%</text>
+<text id="419302">%null%</text>
+<text id="419303">%null%</text>
+<text id="419304">%null%</text>
+<text id="419305">%null%</text>
+<text id="419306">%null%</text>
+<text id="419307">%null%</text>
+<text id="419308">%null%</text>
+<text id="419309">%null%</text>
+<text id="419310">Read the Privacy Policy.</text>
+<text id="610001">Change the language used for game text.</text>
+<text id="610002">Change the language used for game voices.
+
+Based on Region Setting:
+   Sets the language to Japanese or English
+   based on the region supported by the game.</text>
+<text id="650000">Save settings and finish.</text>
+</entries>
+</fmg>

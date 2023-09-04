@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="70000000">FCS-G1/P01</text>
+<text id="70010000">FCS-G2/P05</text>
+<text id="70010100">FCS-G2/P10SLT</text>
+<text id="70010200">FCS-G2/P12SML</text>
+<text id="70010300">FC-006 ABBOT</text>
+<text id="70010400">FC-008 TALBOT</text>
+<text id="70020000">VE-21A</text>
+<text id="70020100">VE-21B</text>
+<text id="70030000">IA-C01F: OCELLUS</text>
+<text id="70030100">IB-C03F: WLT 001</text>
+</entries>
+</fmg>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="60000000">Second-generation booster developed by Furlong Dynamics.
+Designed to counteract the inevitable weight increases
+that result from improving AC performance. Performs well
+in a variety of assemblies including medium-weight builds.</text>
+<text id="60010000">Booster developed by RaD for heavy combat machines.
+Extended Quick Boost jet duration allows for reliable
+thrust regardless of weight. The eccentric model number
+suggests development under intoxicating influences.</text>
+<text id="60020000">Booster specialized for initial thrust, developed by
+Schneider. Intended for use with Schneider frames,
+it allows for extremely high evasive performance
+when used as part of a lightweight assembly.</text>
+<text id="60030000">Booster specialized for high mobility, developed by
+Schneider. Commissioned by Arquebus, this part is
+well balanced and offers stable performance even
+when used as part of a medium-weight assembly.</text>
+<text id="60040000">Booster specialized for long-distance cruising, developed
+by Schneider. Maximizes Assault Boost thrust and energy
+efficiency to provide excellent performance when rapidly
+closing in on a target from long range.</text>
+<text id="60050000">Second-generation booster developed by Furlong Dynamics.
+This model prizes movement speed over Quick Boost
+thrust, making it a good fit for assemblies that are
+designed for endurance.</text>
+<text id="60060000">Booster developed by RaD for lightweight machines.
+A design subcontracted by Elcano, this model was built for
+transport operations in the Grid and on other complex
+terrain, with only a modest EN requirement when in midair.</text>
+<text id="60070000">Prototype booster for piloted ACs, developed long ago by
+the Rubicon Research Institute. This model's design
+makes allowances for exoatmospheric operation, with a
+particular focus on enhanced Quick Boost-related specs.</text>
+<text id="60070100">Booster for unpiloted ACs, developed long ago by the
+Rubicon Research Institute. No consideration has been
+given to the g-force tolerance of human pilots, enabling
+uncompromising performance and rapid-fire Quick Boosts.</text>
+<text id="60070200">Booster developed by BAWS for an old-generation AC.
+An early AC model, it marked an attempt to faithfully
+represent Core Theory, and so its booster's specs were
+tweaked for melee performance—such was the trend.</text>
+<text id="60070300">Booster developed by RaD for heavyweight machines.
+Designed for heavy-industry ACs primarily working on
+the ground, it suffers from a slow vertical boost but
+boasts excellent energy efficiency.</text>
+<text id="60070400">First-generation booster developed by Furlong Dynamics.
+Though inferior to current models, this booster remains
+a viable choice, especially for lightweight assemblies,
+due to its modest energy burden and ease of use.</text>
+</entries>
+</fmg>

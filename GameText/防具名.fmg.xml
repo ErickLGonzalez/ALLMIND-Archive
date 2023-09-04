@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="50000000">HD-011 MELANDER</text>
+<text id="50000100">HS-5000 APPETIZER</text>
+<text id="50000200">HD-033M VERRILL</text>
+<text id="50000300">HD-012 MELANDER C3</text>
+<text id="50010000">DF-HD-08 TIAN-QIANG</text>
+<text id="50020000">NACHTREIHER/44E</text>
+<text id="50020100">KASUAR/44Z</text>
+<text id="50030000">VP-44S</text>
+<text id="50030100">VP-44D</text>
+<text id="50040000">VE-44A</text>
+<text id="50040100">VE-44B</text>
+<text id="50050000">20-081 MIND ALPHA</text>
+<text id="50050100">20-082 MIND BETA</text>
+<text id="50060000">EL-TH-10 FIRMEZA</text>
+<text id="50070200">AH-J-124 BASHO</text>
+<text id="50070300">HC-3000 WRECKER</text>
+<text id="50070400">HC-2000 FINDER EYE</text>
+<text id="50070600">HC-2000/BC SHADE EYE</text>
+<text id="50080000">IB-C03H: HAL 826</text>
+<text id="50080100">IA-C01H: EPHEMERA</text>
+<text id="50080200">EL-PH-00 ALBA</text>
+<text id="50900000">AH-J-124/RC JAILBREAK</text>
+<text id="51000000">BD-011 MELANDER</text>
+<text id="51000100">CS-5000 MAIN DISH</text>
+<text id="51000300">BD-012 MELANDER C3</text>
+<text id="51010000">DF-BD-08 TIAN-QIANG</text>
+<text id="51020000">NACHTREIHER/40E</text>
+<text id="51030000">VP-40S</text>
+<text id="51040000">VE-40A</text>
+<text id="51050000">07-061 MIND ALPHA</text>
+<text id="51060000">EL-TC-10 FIRMEZA</text>
+<text id="51070200">AC-J-120 BASHO</text>
+<text id="51070300">CC-3000 WRECKER</text>
+<text id="51070400">CC-2000 ORBITER</text>
+<text id="51080000">IB-C03C: HAL 826</text>
+<text id="51080100">IA-C01C: EPHEMERA</text>
+<text id="51080200">EL-PC-00 ALBA</text>
+<text id="51900000">AC-J-120/RC JAILBREAK</text>
+<text id="52000000">AR-011 MELANDER</text>
+<text id="52000100">AS-5000 SALAD</text>
+<text id="52000300">AR-012 MELANDER C3</text>
+<text id="52010000">DF-AR-08 TIAN-QIANG</text>
+<text id="52010100">DF-AR-09 TIAN-LAO</text>
+<text id="52020000">NACHTREIHER/46E</text>
+<text id="52030000">VP-46S</text>
+<text id="52030100">VP-46D</text>
+<text id="52040000">VE-46A</text>
+<text id="52050000">04-101 MIND ALPHA</text>
+<text id="52060000">EL-TA-10 FIRMEZA</text>
+<text id="52070200">AA-J-123 BASHO</text>
+<text id="52070300">AC-3000 WRECKER</text>
+<text id="52070400">AC-2000 TOOL ARM</text>
+<text id="52080000">IB-C03A: HAL 826</text>
+<text id="52080100">IA-C01A: EPHEMERA</text>
+<text id="52080200">EL-PA-00 ALBA</text>
+<text id="52900000">AA-J-123/RC JAILBREAK</text>
+<text id="53000000">LG-011 MELANDER</text>
+<text id="53000100">2S-5000 DESSERT</text>
+<text id="53000300">LG-012 MELANDER C3</text>
+<text id="53010000">DF-LG-08 TIAN-QIANG</text>
+<text id="53020000">NACHTREIHER/42E</text>
+<text id="53030000">VP-422</text>
+<text id="53040000">VE-42A</text>
+<text id="53050000">06-041 MIND ALPHA</text>
+<text id="53060000">EL-TL-10 FIRMEZA</text>
+<text id="53070200">AL-J-121 BASHO</text>
+<text id="53070300">2C-3000 WRECKER</text>
+<text id="53070400">2C-2000 CRAWLER</text>
+<text id="53080000">IB-C03L: HAL 826</text>
+<text id="53080100">IA-C01L: EPHEMERA</text>
+<text id="53080200">EL-PL-00 ALBA</text>
+<text id="53120000">KASUAR/42Z</text>
+<text id="53150000">06-042 MIND BETA</text>
+<text id="53170400">RC-2000 SPRING CHICKEN</text>
+<text id="53200000">LG-033M VERRILL</text>
+<text id="53230000">VP-424</text>
+<text id="53300000">LG-022T BORNEMISSZA</text>
+<text id="53340000">VE-42B</text>
+<text id="53360000">EL-TL-11 FORTALEZA</text>
+<text id="53900000">AL-J-121/RC JAILBREAK</text>
+</entries>
+</fmg>

@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2010">• Obtain a mercenary license.</text>
+<text id="2011">%null%</text>
+<text id="2012">%null%</text>
+<text id="2013">%null%</text>
+<text id="2014">%null%</text>
+<text id="2015">%null%</text>
+<text id="2016">%null%</text>
+<text id="2017">%null%</text>
+<text id="2018">%null%</text>
+<text id="2019">%null%</text>
+<text id="2020">• Attack the Rubicon Liberation Front's dam complex
+   and destroy all generator facilities.
+
+• Accompanied by friendly craft.</text>
+<text id="2021">%null%</text>
+<text id="2022">%null%</text>
+<text id="2023">%null%</text>
+<text id="2024">%null%</text>
+<text id="2025">• Attack the Rubicon Liberation Front's dam complex
+   and destroy all generator facilities.
+
+• Accompanied by friendly craft.</text>
+<text id="2026">%null%</text>
+<text id="2027">%null%</text>
+<text id="2028">%null%</text>
+<text id="2029">%null%</text>
+<text id="2030">• Assist the assault on the Rubicon Liberation Front
+   stronghold and destroy the JUGGERNAUT heavy
+   mobile artillery platform.
+
+• Mid-route rendezvous with friendly craft.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="2050">• Eliminate the SG squad in the Watchpoint and
+   destroy the device in the control center at the
+   heart of the complex.</text>
+<text id="2051">%null%</text>
+<text id="2052">%null%</text>
+<text id="2053">%null%</text>
+<text id="2054">%null%</text>
+<text id="2055">• Eliminate the SG squad in the Watchpoint and
+   destroy the device in the control center at the
+   heart of the complex.</text>
+<text id="2056">%null%</text>
+<text id="2057">%null%</text>
+<text id="2058">%null%</text>
+<text id="2059">%null%</text>
+<text id="2060">• Infiltrate BAWS Arsenal No. 2 and determine
+   why it went silent.</text>
+<text id="2080">• Destroy the weaponized mining ship STRIDER, a key
+   military asset of the Rubicon Liberation Front.</text>
+<text id="2100">• Recover at least 5 combat logs from MT wrecks.
+
+• Mission must be completed within time limit.
+
+• Extra rewards based on the logs recovered.</text>
+<text id="2120">• Infiltrate Grid 086 and reach the center.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="2140">• Escort the Rubicon Liberation Front helicopter deployed
+   on a prisoner rescue operation.</text>
+<text id="2170">• Eliminate V.VII Swinburne of the Vespers.
+
+• Immediate mission failure if identified by surveillance
+   MTs equipped with capture cameras.</text>
+<text id="2171">%null%</text>
+<text id="2172">%null%</text>
+<text id="2173">%null%</text>
+<text id="2174">%null%</text>
+<text id="2175">%null%</text>
+<text id="2176">%null%</text>
+<text id="2177">%null%</text>
+<text id="2178">%null%</text>
+<text id="2179">%null%</text>
+<text id="2180">• Reach the intercontinental cargo launcher found deep
+   within the outer shell area of upper Grid 086.</text>
+<text id="2200">• Eliminate the Planetary Closure Administration
+   squads carrying out a mandatory inspection.
+
+• Mid-route rendezvous with friendly craft.</text>
+<text id="2211">• Prevent export of Coral by corporate forces.
+
+• Immediate mission failure if 5 or more transport
+   helicopters leave the combat zone.</text>
+<text id="2212">%null%</text>
+<text id="2213">%null%</text>
+<text id="2214">%null%</text>
+<text id="2215">%null%</text>
+<text id="2216">%null%</text>
+<text id="2217">%null%</text>
+<text id="2218">%null%</text>
+<text id="2219">%null%</text>
+<text id="2220">• Defend the main missile of the RaD missile battery
+   until the launch sequence completes.
+
+• Additional rewards for defending sub-missiles.</text>
+<text id="2221">%null%</text>
+<text id="2222">%null%</text>
+<text id="2223">%null%</text>
+<text id="2224">%null%</text>
+<text id="2225">%null%</text>
+<text id="2226">%null%</text>
+<text id="2227">%null%</text>
+<text id="2228">%null%</text>
+<text id="2229">%null%</text>
+<text id="2230">• Destroy all hacking drones installed in Grid 086.
+
+• Mission failure if hack is allowed to complete.</text>
+<text id="2231">%null%</text>
+<text id="2232">%null%</text>
+<text id="2233">%null%</text>
+<text id="2234">%null%</text>
+<text id="2235">%null%</text>
+<text id="2236">%null%</text>
+<text id="2237">%null%</text>
+<text id="2238">%null%</text>
+<text id="2239">%null%</text>
+<text id="2240">• Destroy two top-ranking independent mercenaries.</text>
+<text id="2241">%null%</text>
+<text id="2242">%null%</text>
+<text id="2243">%null%</text>
+<text id="2244">%null%</text>
+<text id="2245">%null%</text>
+<text id="2246">%null%</text>
+<text id="2247">%null%</text>
+<text id="2248">%null%</text>
+<text id="2249">%null%</text>
+<text id="2250">• Defend the weaponized mining ship STRIDER, a key
+   military asset of the Rubicon Liberation Front.</text>
+<text id="3011">• Attack the Arquebus survey camp and seize
+   the corporation's observation data.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="3030">• Attack the refueling base seized by the Planetary
+   Closure Administration and destroy the energy
+   plant within.
+
+• Extra rewards based on number of enemies/fuel storage
+   tanks destroyed.</text>
+<text id="3043">• Attack the base seized by the Planetary Closure
+   Administration and destroy all berthed warships.
+
+• Mid-route rendezvous with friendly craft.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="3230">• Destroy the Ice Worm, a massive weapon deployed by
+   the Planetary Closure Administration.
+
+• Arquebus will provide a prototype weapon to ensure
+   breach of the Ice Worm's Coral shielding.
+
+   Shoulder weapon: VE-60SNA ("Stun Needle Launcher")</text>
+<text id="3320">• Eliminate "Honest" Brute,
+   a Doser hiding out in Grid 012.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="3420">• Destroy the deprecated device deep within
+   the underground tunnel.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="3421">%null%</text>
+<text id="3422">%null%</text>
+<text id="3423">%null%</text>
+<text id="3424">%null%</text>
+<text id="3425">%null%</text>
+<text id="3426">%null%</text>
+<text id="3427">%null%</text>
+<text id="3428">%null%</text>
+<text id="3429">%null%</text>
+<text id="3430">• Destroy the Planetary Closure Administration
+   Special Forces craft CATAPHRACT.</text>
+<text id="3500">• Salvage historic data scattered throughout
+   the subterranean tunnel.
+
+• No base pay. Compensation derived from saleable
+   data recovered from PCA wrecks.</text>
+<text id="4000">• Penetrate the subterranean facility and destroy
+   the NEPENTHES energy weapon platform.</text>
+<text id="4001">%null%</text>
+<text id="4002">%null%</text>
+<text id="4003">%null%</text>
+<text id="4004">%null%</text>
+<text id="4005">%null%</text>
+<text id="4006">%null%</text>
+<text id="4007">%null%</text>
+<text id="4008">%null%</text>
+<text id="4009">%null%</text>
+<text id="4010">• Continue infiltration of the subterranean facility
+   and reach the deepest point.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="4011">%null%</text>
+<text id="4012">%null%</text>
+<text id="4013">%null%</text>
+<text id="4014">%null%</text>
+<text id="4015">• Continue infiltration of the subterranean facility
+   and reach the deepest point.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="4016">%null%</text>
+<text id="4017">%null%</text>
+<text id="4018">%null%</text>
+<text id="4019">%null%</text>
+<text id="4020">• Destroy the core of the subterranean facility reactor
+   and disable the laser barrier.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="4021">• Head deep into unknown territory to find the Coral
+   convergence.
+• Eliminate your pursuer.</text>
+<text id="4022">%null%</text>
+<text id="4023">%null%</text>
+<text id="4024">%null%</text>
+<text id="4025">%null%</text>
+<text id="4026">• Head deep into unknown territory to find the Coral
+   convergence.
+• Eliminate your pursuer.</text>
+<text id="4027">%null%</text>
+<text id="4028">%null%</text>
+<text id="4029">%null%</text>
+<text id="4030">• Eliminate the 2 ACs dispatched by the corporations
+   and reach the Coral convergence.</text>
+<text id="4031">%null%</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">• Eliminate the 2 ACs dispatched by the corporations
+   and reach the Coral convergence.</text>
+<text id="4100">• Reach the designated coordinates.</text>
+<text id="4101">%null%</text>
+<text id="4102">%null%</text>
+<text id="4103">%null%</text>
+<text id="4104">%null%</text>
+<text id="4105">%null%</text>
+<text id="4106">%null%</text>
+<text id="4107">%null%</text>
+<text id="4108">%null%</text>
+<text id="4109">%null%</text>
+<text id="4110">• Eliminate V.V Hawkins and V.VIII Pater of the Vespers.
+
+• Accompanied by friendly craft.</text>
+<text id="4200">• Reach the designated coordinates.
+
+• Supplied AC is an old model and poorly equipped
+   for combat.</text>
+<text id="5010">• Defend the control tower until systems takeover
+   of the floating city Xylem is complete.</text>
+<text id="5011">%null%</text>
+<text id="5012">%null%</text>
+<text id="5013">%null%</text>
+<text id="5014">%null%</text>
+<text id="5015">%null%</text>
+<text id="5016">%null%</text>
+<text id="5017">%null%</text>
+<text id="5018">%null%</text>
+<text id="5019">%null%</text>
+<text id="5020">• Eliminate V.I Freud of the Vespers.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="5021">%null%</text>
+<text id="5022">%null%</text>
+<text id="5023">%null%</text>
+<text id="5024">%null%</text>
+<text id="5025">%null%</text>
+<text id="5026">%null%</text>
+<text id="5027">%null%</text>
+<text id="5028">%null%</text>
+<text id="5029">%null%</text>
+<text id="5030">• Destroy the large skyrmion generators located
+   throughout the Xylem's drive block.</text>
+<text id="5031">%null%</text>
+<text id="5032">%null%</text>
+<text id="5033">%null%</text>
+<text id="5034">%null%</text>
+<text id="5035">%null%</text>
+<text id="5036">%null%</text>
+<text id="5037">%null%</text>
+<text id="5038">%null%</text>
+<text id="5039">%null%</text>
+<text id="5040">• Destroy the Arquebus interceptor fleet.</text>
+<text id="5041">%null%</text>
+<text id="5042">%null%</text>
+<text id="5043">%null%</text>
+<text id="5044">%null%</text>
+<text id="5045">%null%</text>
+<text id="5046">%null%</text>
+<text id="5047">%null%</text>
+<text id="5048">%null%</text>
+<text id="5049">%null%</text>
+<text id="5050">• Eliminate "Cinder" Carla of Overseer.</text>
+<text id="5100">• Deactivate all ECM fog control devices and survey
+   Xylem, the floating city.</text>
+<text id="5101">%null%</text>
+<text id="5102">%null%</text>
+<text id="5103">%null%</text>
+<text id="5104">%null%</text>
+<text id="5105">• Deactivate all ECM fog control devices and survey
+   Xylem, the floating city.</text>
+<text id="5106">%null%</text>
+<text id="5107">%null%</text>
+<text id="5108">%null%</text>
+<text id="5109">%null%</text>
+<text id="5110">• Destroy all parasite modules set by Overseer</text>
+<text id="6000">—</text>
+<text id="6001">%null%</text>
+<text id="6002">%null%</text>
+<text id="6003">%null%</text>
+<text id="6004">%null%</text>
+<text id="6005">%null%</text>
+<text id="6006">%null%</text>
+<text id="6007">%null%</text>
+<text id="6008">%null%</text>
+<text id="6009">%null%</text>
+<text id="6010">—</text>
+<text id="6011">%null%</text>
+<text id="6012">%null%</text>
+<text id="6013">%null%</text>
+<text id="6014">%null%</text>
+<text id="6015">%null%</text>
+<text id="6016">%null%</text>
+<text id="6017">%null%</text>
+<text id="6018">%null%</text>
+<text id="6019">%null%</text>
+<text id="6020">—</text>
+<text id="7900">• Destroy all the Rubicon Liberation Front
+   logistics helicopters.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="7901">%null%</text>
+<text id="7902">%null%</text>
+<text id="7903">%null%</text>
+<text id="7904">%null%</text>
+<text id="7905">%null%</text>
+<text id="7906">%null%</text>
+<text id="7907">%null%</text>
+<text id="7908">%null%</text>
+<text id="7909">%null%</text>
+<text id="7910">• Destroy the LCs and new HC deployed by
+   the Planetary Closure Administration.</text>
+<text id="7911">%null%</text>
+<text id="7912">%null%</text>
+<text id="7913">%null%</text>
+<text id="7914">%null%</text>
+<text id="7915">%null%</text>
+<text id="7916">%null%</text>
+<text id="7917">%null%</text>
+<text id="7918">%null%</text>
+<text id="7919">%null%</text>
+<text id="7920">• Mop up Dafeng MT squads deployed in Grid 135.</text>
+<text id="7921">%null%</text>
+<text id="7922">%null%</text>
+<text id="7923">%null%</text>
+<text id="7924">%null%</text>
+<text id="7925">%null%</text>
+<text id="7926">%null%</text>
+<text id="7927">%null%</text>
+<text id="7928">%null%</text>
+<text id="7929">%null%</text>
+<text id="7930">• Eliminate Michigan, the Redguns' top commanding
+   officer, and destroy the Redguns' main MT force.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="7931">%null%</text>
+<text id="7932">%null%</text>
+<text id="7933">%null%</text>
+<text id="7934">%null%</text>
+<text id="7935">%null%</text>
+<text id="7936">%null%</text>
+<text id="7937">%null%</text>
+<text id="7938">%null%</text>
+<text id="7939">%null%</text>
+<text id="7940">• Eliminate V.III O'Keeffe, Arquebus Special Intelligence
+   officer.</text>
+<text id="7941">%null%</text>
+<text id="7942">%null%</text>
+<text id="7943">%null%</text>
+<text id="7944">%null%</text>
+<text id="7945">%null%</text>
+<text id="7946">%null%</text>
+<text id="7947">%null%</text>
+<text id="7948">%null%</text>
+<text id="7949">%null%</text>
+<text id="7950">• Defend the old spaceport and prevent its recapture
+   by the Planetary Closure Administration.</text>
+<text id="7951">%null%</text>
+<text id="7952">%null%</text>
+<text id="7953">%null%</text>
+<text id="7954">%null%</text>
+<text id="7955">%null%</text>
+<text id="7956">%null%</text>
+<text id="7957">%null%</text>
+<text id="7958">%null%</text>
+<text id="7959">%null%</text>
+<text id="7960">• Eliminate the Junker Coyotes, a Doser faction
+   invading Grid 086.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="7961">%null%</text>
+<text id="7962">%null%</text>
+<text id="7963">%null%</text>
+<text id="7964">%null%</text>
+<text id="7965">%null%</text>
+<text id="7966">%null%</text>
+<text id="7967">%null%</text>
+<text id="7968">%null%</text>
+<text id="7969">%null%</text>
+<text id="7970">• Destroy all Rubicon Liberation Front artillery
+   installations.
+
+• Extra rewards based on number of enemies destroyed.</text>
+<text id="7971">%null%</text>
+<text id="7972">%null%</text>
+<text id="7973">%null%</text>
+<text id="7974">%null%</text>
+<text id="7975">%null%</text>
+<text id="7976">%null%</text>
+<text id="7977">%null%</text>
+<text id="7978">%null%</text>
+<text id="7979">%null%</text>
+<text id="7980">• Destroy the Dafeng Core Industries Tester AC.</text>
+<text id="7981">%null%</text>
+<text id="7982">%null%</text>
+<text id="7983">%null%</text>
+<text id="7984">%null%</text>
+<text id="7985">%null%</text>
+<text id="7986">%null%</text>
+<text id="7987">%null%</text>
+<text id="7988">%null%</text>
+<text id="7989">%null%</text>
+<text id="7990">• Eliminate the PCA enforcement squads.</text>
+<text id="9200">This VR simulator for basic mercenary training is
+provided by ALLMIND.
+----------------
+Pilot a training craft to learn the basics of combat.
+
+• Training Subjects
+   Lock-on/Reloading/Missile Lock/
+   Melee Weapons/Scanning</text>
+<text id="9201">This VR simulator for basic mercenary training is
+provided by ALLMIND.
+----------------
+Pilot a training craft to learn the basics of combat.
+
+• Training Subjects
+   Charge Attacks/ACS Strain &amp; Stagger/
+   Direct Hits/ACS Accumulative Strain/Surprise Attacks/
+   Shield Defense/Attack Indicators &amp; Initial Guard/
+   Assault Boost Attacks</text>
+<text id="9202">This VR simulator for intermediate mercenary support
+is provided by ALLMIND.
+----------------
+Pilot a training craft to learn its behavior and features.
+
+• Training Subjects
+   Double Trigger/Boosters &amp; Mobility/
+   Generators &amp; Basic Specs/FCS &amp; Engagement Distance/
+   AC Assembly &amp; Strategy</text>
+<text id="9203">This VR simulator for intermediate mercenary support
+is provided by ALLMIND.
+----------------
+Pilot a training craft to learn its behavior and features.
+
+• Training Subjects
+   Reverse-Joint Parts/Area Attacks/Weapon Types/
+   Energy Weapons and Overheating/Ricochets</text>
+<text id="9204">This VR simulator for intermediate mercenary support
+is provided by ALLMIND.
+----------------
+Pilot a training craft to learn its behavior and features.
+
+• Training Subjects
+   Tetrapod Parts/Recoil/
+   Hovering-Based Tactics</text>
+<text id="9205">This VR simulator for intermediate mercenary support
+is provided by ALLMIND.
+----------------
+Pilot a training craft to learn its behavior and features.
+
+• Training Subjects
+   Tank Parts &amp; Strategy/Drifting</text>
+<text id="9206">This VR simulator for advanced mercenary certification
+is provided by ALLMIND.
+----------------
+Assemble your own AC and complete evaluation.
+
+• Training Subjects
+   Adaptive Assemblies</text>
+</entries>
+</fmg>

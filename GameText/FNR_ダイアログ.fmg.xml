@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">OK</text>
+<text id="2">CANCEL</text>
+<text id="3">YES</text>
+<text id="4">NO</text>
+<text id="1000">Insufficient COAM. Unable to purchase.</text>
+<text id="1001">%null%</text>
+<text id="1002">%null%</text>
+<text id="1003">%null%</text>
+<text id="1004">Buy &lt;?itemName?&gt;
+for &lt;?price?&gt; COAM?</text>
+<text id="1005">Sell &lt;?itemName?&gt;
+for &lt;?price?&gt; COAM?</text>
+<text id="1006">%null%</text>
+<text id="1007">%null%</text>
+<text id="1008">%null%</text>
+<text id="1009">%null%</text>
+<text id="1010">%null%</text>
+<text id="1011">Are you sure you want to revert all settings to the defaults?</text>
+<text id="1012">%null%</text>
+<text id="1013">%null%</text>
+<text id="1014">%null%</text>
+<text id="1015">%null%</text>
+<text id="1016">%null%</text>
+<text id="1017">%null%</text>
+<text id="1018">%null%</text>
+<text id="1019">%null%</text>
+<text id="1020">Name field is empty.</text>
+<text id="1040">Cannot sortie until game is fully installed.</text>
+<text id="1041">%null%</text>
+<text id="1042">%null%</text>
+<text id="1043">%null%</text>
+<text id="1044">%null%</text>
+<text id="1045">%null%</text>
+<text id="1046">%null%</text>
+<text id="1047">%null%</text>
+<text id="1048">%null%</text>
+<text id="1049">%null%</text>
+<text id="1050">Text includes unsupported characters.
+Please use alphanumeric characters only.</text>
+<text id="1100">Data that cannot be used has been detected.
+Paint, decals, and AC name have been reset.</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">%null%</text>
+<text id="1111">%null%</text>
+<text id="1112">%null%</text>
+<text id="1113">%null%</text>
+<text id="1114">%null%</text>
+<text id="1115">%null%</text>
+<text id="1116">%null%</text>
+<text id="1117">%null%</text>
+<text id="1118">%null%</text>
+<text id="1119">%null%</text>
+<text id="1120">Data that cannot be used has been detected.
+Emblem has been reset.</text>
+<text id="1121">%null%</text>
+<text id="1122">%null%</text>
+<text id="1123">%null%</text>
+<text id="1124">%null%</text>
+<text id="1125">%null%</text>
+<text id="1126">%null%</text>
+<text id="1127">%null%</text>
+<text id="1128">%null%</text>
+<text id="1129">%null%</text>
+<text id="1130">%null%</text>
+<text id="1131">%null%</text>
+<text id="1132">Failed to connect to &lt;?gameServer?&gt;.</text>
+<text id="1133">%null%</text>
+<text id="1134">Connecting to &lt;?gameServer?&gt;...</text>
+<text id="1135">%null%</text>
+<text id="1136">Data that cannot be used has been detected.
+The affected emblems will be replaced with defaults.</text>
+<text id="1137">%null%</text>
+<text id="1138">Data that cannot be used has been detected.
+Affected paint, decals, and AC name settings
+will be replaced with defaults.</text>
+<text id="1200">Unable to upload.
+The maximum number of uploads has been reached.</text>
+<text id="9103">Overwrite with the copied color?</text>
+<text id="9104">Discard edits?</text>
+<text id="20200">Accept</text>
+<text id="20201">Refuse</text>
+<text id="20202">%null%</text>
+<text id="20203">%null%</text>
+<text id="20204">%null%</text>
+<text id="20205">%null%</text>
+<text id="20206">%null%</text>
+<text id="20207">%null%</text>
+<text id="20208">%null%</text>
+<text id="20209">%null%</text>
+<text id="20210">Accept</text>
+<text id="20211">Refuse</text>
+<text id="21003">Obtained &lt;?quantity?&gt; OST Chips.</text>
+<text id="40202">This name cannot be used.
+Enter a different name.</text>
+<text id="40203">This name is already in use.
+Enter a different name.</text>
+<text id="40300">An edit lock is in place for this data.
+In order to proceed, the edit lock must be removed, which will
+revert paint, decals, and AC name to the defaults.
+
+Remove edit lock?</text>
+<text id="102004">Deploy AC on a test run?</text>
+<text id="104000">No missions available.</text>
+<text id="120002">Restart mission from the beginning?</text>
+<text id="120003">Quit mission and return to the Garage? </text>
+<text id="120004">Restart mission from the last checkpoint?</text>
+<text id="120005">%null%</text>
+<text id="120006">%null%</text>
+<text id="120007">%null%</text>
+<text id="120008">%null%</text>
+<text id="120009">%null%</text>
+<text id="120010">%null%</text>
+<text id="120011">AP and ammunition restored.</text>
+<text id="120012">%null%</text>
+<text id="120013">%null%</text>
+<text id="120014">%null%</text>
+<text id="120015">%null%</text>
+<text id="120016">%null%</text>
+<text id="120017">%null%</text>
+<text id="120018">%null%</text>
+<text id="120019">%null%</text>
+<text id="120020">Restart program from the beginning? </text>
+<text id="120021">Quit program and return to the Garage? </text>
+<text id="120022">%null%</text>
+<text id="120023">%null%</text>
+<text id="120024">%null%</text>
+<text id="120025">%null%</text>
+<text id="120026">%null%</text>
+<text id="120027">%null%</text>
+<text id="120028">%null%</text>
+<text id="120029">%null%</text>
+<text id="120030">Restart training from the beginning? </text>
+<text id="120031">Quit training and return to the Garage? </text>
+<text id="120050">Conclude test and return to the Garage?</text>
+<text id="120100">Stop spectating and return to Versus Room?
+
+(This will cancel the current match because you are the host.)</text>
+<text id="120101">Stop spectating and return to Versus Room?</text>
+<text id="201000">Reset settings?</text>
+<text id="201100">End photo mode?</text>
+<text id="205102">A specific craft will be assigned to you for this mission.</text>
+<text id="205513">Booster removed.
+Tank-type leg units use internal boosters.</text>
+<text id="205514">Tank-type leg unit removed.
+A booster unit in your possession has been equipped.</text>
+<text id="205515">Tank-type leg units use internal boosters.</text>
+<text id="205550">Changing parts will remove any affected decals.
+
+Proceed?</text>
+<text id="206001">Overwrite [&lt;?assembleDataName?&gt;]?
+
+(The previous AC data will be lost.)</text>
+<text id="206002">Load [&lt;?assembleDataName?&gt;]?
+
+(The current AC data will be lost.)</text>
+<text id="206003">Loaded [&lt;?assembleDataName?&gt;].</text>
+<text id="206004">Delete the selected AC data?</text>
+<text id="206005">Unable to load.
+This AC data includes parts you do not own.</text>
+<text id="206006">A specific craft will be assigned to you for this mission.</text>
+<text id="206007">Unable to load.
+Data uses weapon bay function, which has not been unlocked.</text>
+<text id="206008">Unable to load.
+This data uses a Core Expansion, which has not been unlocked yet.</text>
+<text id="206020">Unable to load.
+This AC data belongs to an user you have blocked.</text>
+<text id="206100">Overwrite [&lt;?assembleDataName?&gt;]?
+
+Paint, decals and AC name will be overwritten with the defaults,
+as the current AC assembly is locked.</text>
+<text id="206200">Paint, decals and AC name will be overwritten with the defaults,
+as the current AC assembly is locked.
+
+Proceed?</text>
+<text id="210500">The currently applied pattern must be removed to configure colors.
+Proceed?</text>
+<text id="210520">This color cannot be used with the currently selected pattern.</text>
+<text id="210550">Overwrite with current color set?</text>
+<text id="211000">Delete all applied images?</text>
+<text id="211001">%null%</text>
+<text id="211002">%null%</text>
+<text id="211003">%null%</text>
+<text id="211004">%null%</text>
+<text id="211005">%null%</text>
+<text id="211006">%null%</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">%null%</text>
+<text id="211010">Mirror applied images to the opposite arm?</text>
+<text id="211050">Maximum number of images reached.</text>
+<text id="211051">Delete all instances of the selected image?</text>
+<text id="211100">Delete selected layer?</text>
+<text id="211200">Discard edits?</text>
+<text id="211300">Mirror selected decal?</text>
+<text id="211350">Maximum number of applied decals reached.</text>
+<text id="211400">Using image from the IN USE tab because an image with
+the same piece composition has already been pasted.</text>
+<text id="212000">Your current emblem must be
+disabled to configure decals.
+
+Proceed?</text>
+<text id="213000">Delete selected image?</text>
+<text id="213001">%null%</text>
+<text id="213002">%null%</text>
+<text id="213003">%null%</text>
+<text id="213004">%null%</text>
+<text id="213005">Save location has reached maximum capacity.
+You can create space by deleting any unnecessary data.</text>
+<text id="213006">%null%</text>
+<text id="213007">%null%</text>
+<text id="213008">%null%</text>
+<text id="213009">%null%</text>
+<text id="213010">Unable to select.
+This image belongs to a user you have blocked.</text>
+<text id="213100">Discard edits?</text>
+<text id="213101">Delete layer?</text>
+<text id="213102">%null%</text>
+<text id="213103">%null%</text>
+<text id="213104">%null%</text>
+<text id="213105">%null%</text>
+<text id="213106">%null%</text>
+<text id="213107">%null%</text>
+<text id="213108">%null%</text>
+<text id="213109">%null%</text>
+<text id="213110">Save your edits?</text>
+<text id="213111">Discard edits?</text>
+<text id="213200">Maximum number of groups has been reached.
+You must delete an existing group to make a new one.</text>
+<text id="213201">Cannot insert due to maximum layer limit.</text>
+<text id="213300">If you have edited this group by resizing it,
+ungrouping may disrupt the layout.
+Proceed?</text>
+<text id="220000">Apply selected OS upgrade?</text>
+<text id="220001">Insufficient OST Chips. Unable to upgrade.</text>
+<text id="221000">Expend &lt;?price?&gt; COAM and reset OS upgrades?</text>
+<text id="221001">&lt;?price?&gt; COAM required to reset OS upgrades.</text>
+<text id="221002">OS upgrades have been reset.</text>
+<text id="221003">Removed bay weapon from shoulder.</text>
+<text id="221004">Removed Core Expansions.</text>
+<text id="231001">Purchase missing parts?</text>
+<text id="231002">%null%</text>
+<text id="231003">%null%</text>
+<text id="231004">%null%</text>
+<text id="231005">%null%</text>
+<text id="231006">%null%</text>
+<text id="231007">%null%</text>
+<text id="231008">%null%</text>
+<text id="231009">%null%</text>
+<text id="231010">No parts available for purchase.</text>
+<text id="231011">%null%</text>
+<text id="231012">%null%</text>
+<text id="231013">%null%</text>
+<text id="231014">%null%</text>
+<text id="231015">%null%</text>
+<text id="231016">%null%</text>
+<text id="231017">%null%</text>
+<text id="231018">%null%</text>
+<text id="231019">%null%</text>
+<text id="231020">All available parts have been purchased.</text>
+<text id="232002">Equipped parts cannot be sold.</text>
+<text id="234010">Insufficient NP. Unable to purchase.</text>
+<text id="250500">Sortie on selected mission?</text>
+<text id="250501">%null%</text>
+<text id="250502">%null%</text>
+<text id="250503">%null%</text>
+<text id="250504">Cannot sortie due to EN shortfall.</text>
+<text id="250505">Cannot sortie due to excess load.</text>
+<text id="251000">Begin training?</text>
+<text id="254000">Restart mission from the beginning?</text>
+<text id="254001">Restart mission from the last checkpoint?</text>
+<text id="254002">Quit mission and return to the Garage? </text>
+<text id="258301">You do not meet the conditions for this match.</text>
+<text id="258500">Begin the program?</text>
+<text id="258501">%null%</text>
+<text id="258502">Mobility impaired due to excess load.
+Sortie anyway?</text>
+<text id="258503">%null%</text>
+<text id="258504">%null%</text>
+<text id="258505">%null%</text>
+<text id="258506">%null%</text>
+<text id="258507">%null%</text>
+<text id="258508">%null%</text>
+<text id="258509">%null%</text>
+<text id="258510">Target tracking impaired due to overburdened arms.
+Sortie anyway?</text>
+<text id="258511">%null%</text>
+<text id="258512">%null%</text>
+<text id="258513">%null%</text>
+<text id="258514">%null%</text>
+<text id="258515">%null%</text>
+<text id="258516">%null%</text>
+<text id="258517">%null%</text>
+<text id="258518">%null%</text>
+<text id="258519">%null%</text>
+<text id="258520">Mobility and target tracking impaired due to excess
+load and overburdened arms.
+Sortie anyway?</text>
+<text id="280500">Saving current assembly to &lt;?gameServer?&gt;...</text>
+<text id="281000">Searching for opponents...</text>
+<text id="281001">Search for opponents failed.</text>
+<text id="281002">%null%</text>
+<text id="281003">%null%</text>
+<text id="281004">%null%</text>
+<text id="281005">%null%</text>
+<text id="281006">%null%</text>
+<text id="281007">%null%</text>
+<text id="281008">%null%</text>
+<text id="281009">%null%</text>
+<text id="281010">Enter keyword(s).</text>
+<text id="281011">Failed to create Versus Room.</text>
+<text id="281012">%null%</text>
+<text id="281013">%null%</text>
+<text id="281014">%null%</text>
+<text id="281015">%null%</text>
+<text id="281016">%null%</text>
+<text id="281017">%null%</text>
+<text id="281018">%null%</text>
+<text id="281019">%null%</text>
+<text id="281020">%null%</text>
+<text id="281021">No Versus Room found.</text>
+<text id="281022">%null%</text>
+<text id="281023">%null%</text>
+<text id="281024">%null%</text>
+<text id="281025">%null%</text>
+<text id="281026">%null%</text>
+<text id="281027">%null%</text>
+<text id="281028">%null%</text>
+<text id="281029">%null%</text>
+<text id="281030">Leave Versus Room?</text>
+<text id="281103">Waiting for other room members to complete preparations...</text>
+<text id="281104">%null%</text>
+<text id="281105">Leaving room...</text>
+<text id="281106">Failed to leave Versus Room.</text>
+<text id="281107">Failed to configure teams.
+Please try again.</text>
+<text id="281200">Create a Versus Room with these settings?</text>
+<text id="281201">The selected rules are not compatible
+with the current number of players.
+Try again.</text>
+<text id="281202">%null%</text>
+<text id="281203">%null%</text>
+<text id="281204">%null%</text>
+<text id="281205">%null%</text>
+<text id="281206">%null%</text>
+<text id="281207">%null%</text>
+<text id="281208">%null%</text>
+<text id="281209">%null%</text>
+<text id="281210">Creating Versus Room...</text>
+<text id="281260">Change to the selected rules?</text>
+<text id="281261">Changing rule settings...</text>
+<text id="281262">Failed to change rule settings.</text>
+<text id="281300">Search for Versus Rooms with these settings?</text>
+<text id="281301">%null%</text>
+<text id="281302">%null%</text>
+<text id="281303">%null%</text>
+<text id="281304">%null%</text>
+<text id="281305">%null%</text>
+<text id="281306">%null%</text>
+<text id="281307">%null%</text>
+<text id="281308">%null%</text>
+<text id="281309">%null%</text>
+<text id="281310">Versus Room search in progress...</text>
+<text id="281311">Versus Room search failed.</text>
+<text id="281400">Join the selected Versus Room?</text>
+<text id="281401">%null%</text>
+<text id="281402">%null%</text>
+<text id="281403">%null%</text>
+<text id="281404">%null%</text>
+<text id="281405">%null%</text>
+<text id="281406">%null%</text>
+<text id="281407">%null%</text>
+<text id="281408">%null%</text>
+<text id="281409">%null%</text>
+<text id="281410">Joining Versus Room...</text>
+<text id="281411">Failed to join Versus Room.</text>
+<text id="281750">Kick &lt;?onlineId?&gt;?</text>
+<text id="281751">Kicked &lt;?onlineId?&gt;.</text>
+<text id="281752">Failed to kick &lt;?onlineId?&gt;.</text>
+<text id="281753">Kicking &lt;?onlineId?&gt;...</text>
+<text id="281754">You were kicked by the host.</text>
+<text id="281810">Send a report with the reasons you selected?</text>
+<text id="281811">Report sent.
+
+If you wish to provide detailed information, please make
+a note of the below report ID and include it when sending
+a submission via user report/inquiries forms.
+
+Report ID: &lt;?reportId?&gt;</text>
+<text id="281812">Report failed.</text>
+<text id="281813">Reporting...</text>
+<text id="281900">Versus Room was disbanded.</text>
+<text id="281950">Repeated illegal cessations of multiplayer sessions were detected.
+Multiplayer functions disabled for a certain duration.</text>
+<text id="281951">%null%</text>
+<text id="281952">%null%</text>
+<text id="281953">%null%</text>
+<text id="281954">%null%</text>
+<text id="281955">Versus Room is full. Unable to join.</text>
+<text id="282000">Failed to join Versus Room.</text>
+<text id="282100">Option unavailable.
+You are currently assigned to a spectator slot.</text>
+<text id="282101">%null%</text>
+<text id="282102">%null%</text>
+<text id="282103">%null%</text>
+<text id="282104">%null%</text>
+<text id="282105">%null%</text>
+<text id="282106">%null%</text>
+<text id="282107">%null%</text>
+<text id="282108">%null%</text>
+<text id="282109">%null%</text>
+<text id="282110">Option unavailable.
+Room members have already sortied.</text>
+<text id="282111">%null%</text>
+<text id="282112">%null%</text>
+<text id="282113">%null%</text>
+<text id="282114">%null%</text>
+<text id="282115">%null%</text>
+<text id="282116">%null%</text>
+<text id="282117">%null%</text>
+<text id="282118">%null%</text>
+<text id="282119">%null%</text>
+<text id="282120">The maximum number of sortie members has been reached.</text>
+<text id="284010">Acquiring detailed information...</text>
+<text id="284011">Failed to acquire detailed information.</text>
+<text id="286000">Upload AC data [&lt;?assembleDataName?&gt;]?</text>
+<text id="286001">AC data [&lt;?assembleDataName?&gt;] uploaded
+and assigned Share ID &lt;?ugcId?&gt;.</text>
+<text id="286002">Failed to upload AC data [&lt;?assembleDataName?&gt;].</text>
+<text id="286003">%null%</text>
+<text id="286004">%null%</text>
+<text id="286005">Uploading AC data...</text>
+<text id="286100">Delete selected AC data (Share ID: &lt;?ugcId?&gt;)
+from the &lt;?gameServer?&gt;?</text>
+<text id="286101">Selected AC data (Share ID: &lt;?ugcId?&gt;)
+deleted from the &lt;?gameServer?&gt;.</text>
+<text id="286102">Failed to delete selected AC data
+(Share ID: &lt;?ugcId?&gt;) from the server.</text>
+<text id="286103">%null%</text>
+<text id="286104">%null%</text>
+<text id="286105">Deleting AC data from the &lt;?gameServer?&gt;.</text>
+<text id="286200">No AC data exists for Share ID &lt;?ugcId?&gt;.　</text>
+<text id="286201">Share ID field is empty.</text>
+<text id="286202">%null%</text>
+<text id="286203">%null%</text>
+<text id="286204">%null%</text>
+<text id="286205">Searching for AC data...</text>
+<text id="286300">You already have AC data
+[&lt;?assembleDataName?&gt;] (Share ID: &lt;?ugcId?&gt;).</text>
+<text id="286500">Retrieving AC data from the &lt;?gameServer?&gt;...</text>
+<text id="286501">Failed to retrieve AC data.</text>
+<text id="286502">%null%</text>
+<text id="286503">%null%</text>
+<text id="286504">%null%</text>
+<text id="286505">%null%</text>
+<text id="286506">%null%</text>
+<text id="286507">%null%</text>
+<text id="286508">%null%</text>
+<text id="286509">%null%</text>
+<text id="286510">Failed to download AC data.</text>
+<text id="287000">Upload selected image?</text>
+<text id="287001">Image data uploaded
+and assigned Share ID &lt;?ugcId?&gt;.</text>
+<text id="287002">Failed to upload image data.</text>
+<text id="287003">%null%</text>
+<text id="287004">%null%</text>
+<text id="287005">Uploading image data...</text>
+<text id="287100">Delete image data for Share ID: &lt;?ugcId?&gt;
+from the &lt;?gameServer?&gt;?</text>
+<text id="287101">Image data for Share ID: &lt;?ugcId?&gt;
+deleted from the &lt;?gameServer?&gt;.</text>
+<text id="287102">Failed to delete image data for Share ID: &lt;?ugcId?&gt;.</text>
+<text id="287103">%null%</text>
+<text id="287104">%null%</text>
+<text id="287105">Deleting image data from the &lt;?gameServer?&gt;...</text>
+<text id="287200">No image data exists for Share ID &lt;?ugcId?&gt;.　</text>
+<text id="287201">%null%</text>
+<text id="287202">%null%</text>
+<text id="287203">%null%</text>
+<text id="287204">%null%</text>
+<text id="287205">Searching for image data...</text>
+<text id="287300">You already have the image data for Share ID: &lt;?ugcId?&gt;.</text>
+<text id="287500">Retrieving image data from the &lt;?gameServer?&gt;...</text>
+<text id="287501">Failed to retrieve image data.</text>
+<text id="287502">%null%</text>
+<text id="287503">%null%</text>
+<text id="287504">%null%</text>
+<text id="287505">%null%</text>
+<text id="287506">%null%</text>
+<text id="287507">%null%</text>
+<text id="287508">%null%</text>
+<text id="287509">%null%</text>
+<text id="287510">Failed to download image data.</text>
+<text id="401701">&lt;?systemMsgId@401701?&gt;</text>
+<text id="413030">HDR setting changed to OFF.</text>
+<text id="413031">HDR setting changed to ON.</text>
+<text id="413032">%null%</text>
+<text id="413033">%null%</text>
+<text id="413034">%null%</text>
+<text id="413035">%null%</text>
+<text id="413036">%null%</text>
+<text id="413037">%null%</text>
+<text id="413038">%null%</text>
+<text id="413039">%null%</text>
+<text id="413040">When HDR is enabled, you can only adjust picture
+quality from the System menu in-game.</text>
+<text id="416001">Changed to &lt;?selectPreset?&gt;.</text>
+<text id="416002">%null%</text>
+<text id="416003">%null%</text>
+<text id="416004">%null%</text>
+<text id="416005">%null%</text>
+<text id="416006">%null%</text>
+<text id="416007">%null%</text>
+<text id="416008">%null%</text>
+<text id="416009">%null%</text>
+<text id="416010">No control assignment configured for &lt;?selectPreset?&gt;.
+Finish assigning controls or select a preset.</text>
+<text id="416011">%null%</text>
+<text id="416012">%null%</text>
+<text id="416013">%null%</text>
+<text id="416014">%null%</text>
+<text id="416015">%null%</text>
+<text id="416016">%null%</text>
+<text id="416017">%null%</text>
+<text id="416018">%null%</text>
+<text id="416019">%null%</text>
+<text id="416020">Are you sure you want to revert all settings to the defaults?</text>
+<text id="416500">This control assignment cannot be removed.</text>
+<text id="416501">There are duplicated control assignments.
+Please check settings.</text>
+<text id="416502">Unable to save due to duplicated control assignments.
+Quit without saving?</text>
+<text id="416503">%null%</text>
+<text id="416504">%null%</text>
+<text id="416505">%null%</text>
+<text id="416506">%null%</text>
+<text id="416507">%null%</text>
+<text id="416508">%null%</text>
+<text id="416509">%null%</text>
+<text id="416510">Delete configuration [&lt;?selectPreset?&gt;]?</text>
+<text id="416511">[&lt;?selectPreset?&gt;] deleted.</text>
+<text id="418000">Save game and return to the title screen?</text>
+<text id="418001">Abandon all post-sortie progress and return to the title screen?</text>
+<text id="419000">Save game and quit application?</text>
+<text id="419001">Abandon all post-sortie progress and quit application?</text>
+<text id="650000">Start the game with these settings?</text>
+<text id="650001">Discard and return to the title screen?</text>
+<text id="710000">DLC parts have been deactivated.</text>
+<text id="710001">%null%</text>
+<text id="710002">%null%</text>
+<text id="710003">%null%</text>
+<text id="710004">%null%</text>
+<text id="710005">%null%</text>
+<text id="710006">%null%</text>
+<text id="710007">%null%</text>
+<text id="710008">%null%</text>
+<text id="710009">%null%</text>
+<text id="710010">DLC emblems have been deactivated.</text>
+<text id="710011">%null%</text>
+<text id="710012">%null%</text>
+<text id="710013">%null%</text>
+<text id="710014">%null%</text>
+<text id="710015">%null%</text>
+<text id="710016">%null%</text>
+<text id="710017">%null%</text>
+<text id="710018">%null%</text>
+<text id="710019">%null%</text>
+<text id="710020">DLC AC data has been deactivated.</text>
+<text id="710021">%null%</text>
+<text id="710022">%null%</text>
+<text id="710023">%null%</text>
+<text id="710024">%null%</text>
+<text id="710025">%null%</text>
+<text id="710026">%null%</text>
+<text id="710027">%null%</text>
+<text id="710028">%null%</text>
+<text id="710029">%null%</text>
+<text id="710030">Change in DLC ownership status has altered AC assembly.</text>
+</entries>
+</fmg>

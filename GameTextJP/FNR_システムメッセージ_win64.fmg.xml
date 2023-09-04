@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2100">プロフィール</text>
+<text id="3000">コントローラー振動の強さを設定します</text>
+<text id="3001">%null%</text>
+<text id="3002">%null%</text>
+<text id="3003">%null%</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">バイブレーション（振動）機能</text>
+<text id="4101">ネットワークに接続されていません</text>
+<text id="4102">&lt;?gameServer?&gt;との接続が切断されました</text>
+<text id="4103">Steamとの接続が切断されました</text>
+<text id="4104">ネットワークエラーが発生しました</text>
+<text id="4161">フレームレートがマルチプレイに適していません</text>
+<text id="4190">ネットワークエラーが発生しました</text>
+<text id="4191">ゲームの保存に失敗しました
+セーブデータが破損しています
+
+再度実行する場合は「YES」を選択してください
+
+ゲームを保存せずタイトル画面に戻る場合は
+「NO」を選択してください</text>
+<text id="4192">%null%</text>
+<text id="4193">ゲームの保存に失敗しました
+セーブデータが破損しています</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">タイトル画面に戻ります</text>
+<text id="4201">オフラインモードに移行します</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">&lt;?gameServer?&gt; との通信に失敗しました</text>
+<text id="5000">対戦ルームへの参加完了を待っています</text>
+<text id="6000">対戦ルームへの参加を中止しました</text>
+<text id="6100">ダイアログを閉じるまで対戦ルームへの参加はできません</text>
+<text id="6200">編集内容を確定 / 破棄するまで対戦ルームへの参加はできません</text>
+<text id="40000">ARMORED CORE VI ゲームサーバー</text>
+<text id="100009">作成者ID</text>
+<text id="100010">PROFILE NAME</text>
+<text id="101000">PRESS ANY BUTTON</text>
+<text id="200100">使用できない文字が含まれていたため
+該当する文字を「*」に変換しました</text>
+<text id="201000">対戦ルームに参加します
+よろしいですか？
+
+参加した場合 現在の進行状況は破棄されます</text>
+<text id="201001">%null%</text>
+<text id="201002">%null%</text>
+<text id="201003">%null%</text>
+<text id="201004">%null%</text>
+<text id="201005">%null%</text>
+<text id="201006">%null%</text>
+<text id="201007">%null%</text>
+<text id="201008">%null%</text>
+<text id="201009">%null%</text>
+<text id="201010">対戦ルームに参加します
+よろしいですか？</text>
+<text id="202000">HDRの設定がOFFに変更されました</text>
+<text id="202001">%null%</text>
+<text id="202002">%null%</text>
+<text id="202003">%null%</text>
+<text id="202004">%null%</text>
+<text id="202005">%null%</text>
+<text id="202006">%null%</text>
+<text id="202007">%null%</text>
+<text id="202008">%null%</text>
+<text id="202009">%null%</text>
+<text id="202010">HDRの設定がONに変更されました 	</text>
+<text id="400003">前回ゲーム終了時にシステムメニューから
+「タイトル画面へ戻る」または「ゲーム終了」を
+選択していない可能性があります
+
+上記いずれかを選択せず終了した場合
+直前の進行状況から再開されない場合があります</text>
+<text id="401102">セーブデータの作成に失敗しました
+再度実行する場合は「OK」を選択してください</text>
+<text id="401103">セーブデータの読み込みに失敗しました
+再度実行する場合は「OK」を選択してください</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">ゲームの保存に失敗しました
+セーブデータが破損しています
+
+再度実行する場合は「OK」を選択してください</text>
+<text id="401107">セーブデータが破損しています
+
+破損したセーブデータを削除して新規作成します
+よろしいですか？</text>
+<text id="401108">%null%</text>
+<text id="401109">%null%</text>
+<text id="401110">セーブデータを確認しています</text>
+<text id="401111">セーブデータを作成しています</text>
+<text id="401112">セーブデータを更新しています</text>
+<text id="401113">セーブデータとゲームのバージョンが異なっています
+
+ゲームを終了し Steam クライアントから
+アップデートファイルを適用してから起動してください</text>
+<text id="401114">セーブデータに対してゲームのバージョンが古いため読み込めません
+
+ゲームを終了し Steam クライアントから
+アップデートファイルを適用してから起動してください</text>
+<text id="401115">%null%</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">ネットワーク接続状態を確認しています</text>
+<text id="401150">&lt;?gameServer?&gt;にログインしています</text>
+<text id="401151">%null%</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">&lt;?gameServer?&gt;からデータを取得しています</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">&lt;?gameServer?&gt;にデータを登録しています</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">オフラインモードで開始します
+
+ネットワーク機能を利用する場合は 通信環境の確認後に
+タイトル画面で 「LOG IN」 を選択してください</text>
+<text id="401171">タイトル画面に戻ります</text>
+<text id="401201">ネットワークに接続できませんでした
+ネットワーク設定を確認してください</text>
+<text id="401202">ネットワーク接続状態の確認に失敗しました</text>
+<text id="401400">フレームレートに問題があったことを検出しました
+マルチプレイを開始できません
+ 
+問題を解消した上でゲームを再起動してください</text>
+<text id="401401">ゲーム進行データが存在しません
+対戦ルームへの参加を中止します</text>
+<text id="401502">あなたの アカウントは現在
+&lt;?gameServer?&gt;のサービス利用を停止されています</text>
+<text id="401503">&lt;?gameServer?&gt;へのログインに失敗しました
+再度ログインを試みる場合は「OK」を選択してください</text>
+<text id="401504">新しいバージョンのアップデートファイルが存在します
+
+オンラインモードで開始する場合はゲームを終了し
+アップデートファイルを適用してから起動してください</text>
+<text id="401505">メンテナンス中もしくはサーバー停止中のため
+&lt;?gameServer?&gt;にログインできません</text>
+<text id="401601">INFORMATION の取得に失敗しました
+再度取得を試みる場合は「OK」を選択してください</text>
+<text id="401701">ゲーム進行データが既に存在します
+
+削除してNEW GAMEを開始します
+よろしいですか？</text>
+<text id="401721">セーブデータの読み込みに失敗しました
+セーブデータが破損しています</text>
+<text id="401991">エラーが発生しました
+タイトル画面に戻ります</text>
+<text id="402020">エラーが発生しました
+マルチプレイを開始できません</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">オフラインモードのためマルチプレイを開始できません</text>
+<text id="402031">%null%</text>
+<text id="402032">%null%</text>
+<text id="402033">%null%</text>
+<text id="402034">%null%</text>
+<text id="402035">%null%</text>
+<text id="402036">%null%</text>
+<text id="402037">%null%</text>
+<text id="402038">%null%</text>
+<text id="402039">%null%</text>
+<text id="402040">オンライン対戦シミュレータ「ネスト」が解禁されていないため
+マルチプレイを開始できません
+
+ゲームを進行して当該コンテンツを解禁してください</text>
+<text id="402041">%null%</text>
+<text id="402042">%null%</text>
+<text id="402043">%null%</text>
+<text id="402044">%null%</text>
+<text id="402045">%null%</text>
+<text id="402046">%null%</text>
+<text id="402047">%null%</text>
+<text id="402048">%null%</text>
+<text id="402049">%null%</text>
+<text id="402050">強制出撃ミッション中は対戦ルームに参加できません
+ミッションを完了してから実行してください</text>
+<text id="404000">不正な挙動が検出されました
+オンラインモードは利用できません</text>
+<text id="404001">%null%</text>
+<text id="404002">%null%</text>
+<text id="404003">%null%</text>
+<text id="404004">%null%</text>
+<text id="404005">%null%</text>
+<text id="404006">%null%</text>
+<text id="404007">%null%</text>
+<text id="404008">%null%</text>
+<text id="404009">%null%</text>
+<text id="404010">Epic Online Services との通信に失敗しました：&lt;?errcodeEOS?&gt;
+オンラインモードは利用できません </text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">Steamworks との通信に失敗しました：&lt;?errcodeSteam?&gt;
+オンラインモードは利用できません </text>
+<text id="404100">不正な挙動が検出されました</text>
+<text id="404101">%null%</text>
+<text id="404102">%null%</text>
+<text id="404103">%null%</text>
+<text id="404104">%null%</text>
+<text id="404105">%null%</text>
+<text id="404106">%null%</text>
+<text id="404107">%null%</text>
+<text id="404108">%null%</text>
+<text id="404109">%null%</text>
+<text id="404110">Epic Online Services との通信に失敗しました：&lt;?errcodeEOS?&gt;</text>
+<text id="404111">%null%</text>
+<text id="404112">%null%</text>
+<text id="404113">%null%</text>
+<text id="404114">%null%</text>
+<text id="404115">%null%</text>
+<text id="404116">%null%</text>
+<text id="404117">%null%</text>
+<text id="404118">%null%</text>
+<text id="404119">%null%</text>
+<text id="404120">Steamworks との通信に失敗しました：&lt;?errcodeSteam?&gt;</text>
+<text id="722010">×</text>
+<text id="722011">(</text>
+<text id="722012">:</text>
+<text id="722013">)</text>
+<text id="920000">画面解像度を変更しました
+この設定でよろしいですか？
+
+操作がない場合は &lt;?remainingSec?&gt;秒 後に元の設定に戻ります</text>
+</entries>
+</fmg>

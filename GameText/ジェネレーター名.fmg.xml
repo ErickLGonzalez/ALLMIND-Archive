@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="65000000">AG-J-098 JOSO</text>
+<text id="65010000">DF-GN-02 LING-TAI</text>
+<text id="65010100">DF-GN-06 MING-TANG</text>
+<text id="65010200">VP-20S</text>
+<text id="65010300">VP-20C</text>
+<text id="65010400">AG-E-013 YABA</text>
+<text id="65020000">VE-20A</text>
+<text id="65020100">VE-20B</text>
+<text id="65030000">IA-C01G: AORTA</text>
+<text id="65030100">IB-C03G: NGI 000</text>
+<text id="65040000">DF-GN-08 SAN-TAI</text>
+<text id="65040100">VP-20D</text>
+<text id="65040200">AG-T-005 HOKUSHI</text>
+<text id="65040300">VE-20C</text>
+</entries>
+</fmg>

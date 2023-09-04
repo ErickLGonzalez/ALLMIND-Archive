@@ -12,12 +12,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="Crest.png" alt="Logo" width="120">
+  <img src="ALLMIND.png" alt="Logo" width="120">
 
-  <h3 align="center">The Carian Archive</h3>
+  <h3 align="center">The ALLMIND Archive</h3>
 
   <p align="center">
-    A String Dump of Elden Ring
+    A string dump of ARMORED CORE VI: FIRES OF RUBICON
   </p>
 </div>
 
@@ -25,20 +25,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a compilation of all the text files in Elden Ring already unpacked and converted to a readable format. Additionally all of the text files are aggregated into a single one with clearly marked sections and file pairs with Title-Descriptions already parsed. It does not accoutn for mapping text to characters or items or any ingame information. This is merely a more convvenient way of searching text within the game.
+This is a compilation of all the text files in Armored Core VI already unpacked and converted to a readable format. Additionally all of the text files are aggregated into a single one with clearly marked sections and file pairs with Title-Descriptions already parsed. It does not account for mapping text to characters or items or any in-game information. This is merely a more convenient way of searching text within the game.
 
 This is specially convenient for finding dialogue entries and also item descriptions without having to visit wikis all the time.
-You can find the master dump in preview form here: https://htmlpreview.github.io/?https://raw.githubusercontent.com/AsteriskAmpersand/Carian-Archive/main/Master.html
+You can find the master dump in preview form here: https://htmlpreview.github.io/?https://raw.githubusercontent.com/ividyon/ALLMIND-Archive/main/Master.html
 
-The preview form for the Japanese dump is here: https://htmlpreview.github.io/?https://raw.githubusercontent.com/AsteriskAmpersand/Carian-Archive/main/MasterJP.html
+The preview form for the Japanese dump is here: https://htmlpreview.github.io/?https://raw.githubusercontent.com/ividyon/ALLMIND-Archive/main/MasterJP.html
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-Files were unpacked through UMX and then converted using Yabber.
+ALLMIND Archive is a fairly low effort copy of [Carian Archive](https://github.com/AsteriskAmpersand/Carian-Archive) by AsteriskAmpersand. Almost everything was made by them.
+Files were unpacked through UXM Selective Unpack and then converted using WitchyBND.
 
-* [Yabber](https://github.com/JKAnderson/Yabber)
-* [UMX](https://www.patreon.com/MaxTheMiracle)
+* [WitchyBND](https://github.com/ividyon/WitchyBND)
+* [UXM Selective Unpack](https://github.com/Nordgaren/UXM-Selective-Unpack)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="70000000">First-generation FCS developed by Furlong Dynamics.
+This model dates from a time before Furlong specialized
+in missile development, but it remains in production due
+to its balanced performance and low energy burden.</text>
+<text id="70010000">Second-generation FCS developed by Furlong Dynamics.
+This model was developed just as Furlong transitioned to
+its specialization in missiles, and improves on the first
+gen's specs while retaining its balanced performance.</text>
+<text id="70010100">Second-generation FCS developed by Furlong Dynamics.
+This model was developed after Furlong had established
+itself as a true missile specialist, and is principally
+designed to reduce missile lock time.</text>
+<text id="70010200">Second-generation FCS developed by Furlong Dynamics.
+This model was developed after Furlong had established
+itself as a true missile specialist, and is principally
+designed to improve multi-lock performance.</text>
+<text id="70010300">Close-range combat FCS developed by Balam. In order to
+achieve overwhelming superiority in close-range firearms
+combat, Balam made compromises in missile performance
+to instead focus on precise targeting assistance.</text>
+<text id="70010400">FCS for assault operations developed by Balam. Taking
+lessons from the Jupiter War, Balam improved the missile
+performance of their FCS products, leading to the creation
+of this long-seller with excellent overall balance.</text>
+<text id="70020000">Long-range combat FCS designed by Arquebus ADD.
+A concept model designed for obliterating targets well
+before contact—in many respects, a move away from Core
+Theory toward earlier visions of mechanized warfare.</text>
+<text id="70020100">Long-range combat FCS designed by Arquebus ADD.
+Retains ADD's earlier focus on obliterating targets at
+range, while also improving missile performance across
+the board to enable a "walking fortress" style of AC.</text>
+<text id="70030000">FCS for unpiloted ACs, developed long ago by the Rubicon
+Research Institute. Capable of exceptionally high-resolution
+capture in close-range engagements, making no concessions
+for the human brain's limitations in processing visuals.</text>
+<text id="70030100">FCS for piloted ACs, developed long ago by the Rubicon
+Research Institute. Adapted for Coral data conductors
+while still faithful to Core Theory. Excellent processing
+capabilities that virtually extend the pilot's senses.</text>
+</entries>
+</fmg>

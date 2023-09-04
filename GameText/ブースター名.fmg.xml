@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="60000000">BST-G2/P04</text>
+<text id="60010000">BC-0600 12345</text>
+<text id="60020000">ALULA/21E</text>
+<text id="60030000">FLUEGEL/21Z</text>
+<text id="60040000">BUERZEL/21D</text>
+<text id="60050000">BST-G2/P06SPD</text>
+<text id="60060000">BC-0200 GRIDWALKER</text>
+<text id="60070000">IB-C03B: NGI 001</text>
+<text id="60070100">IA-C01B: GILLS</text>
+<text id="60070200">AB-J-137 KIKAKU</text>
+<text id="60070300">BC-0400 MULE</text>
+<text id="60070400">BST-G1/P10</text>
+</entries>
+</fmg>

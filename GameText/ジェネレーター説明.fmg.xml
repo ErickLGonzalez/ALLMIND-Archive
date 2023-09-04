@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="65000000">Internal combustion generator developed by BAWS for
+an old-generation AC. Performance is not dissimilar to
+generic labor MT models, making it an unreliable choice
+for combat use in a modern AC build.</text>
+<text id="65010000">Internal combustion generator developed by Dafeng Core
+Industries. Commissioned by Balam, the specifications for
+this model demanded lightweight construction matched
+with excellent EN recharge capabilities.</text>
+<text id="65010100">Internal combustion generator developed by Dafeng Core
+Industries. A joint development with Balam, this model
+focuses on ensuring good EN capacity and recharging.</text>
+<text id="65010200">Circulating-current generator developed by Arquebus.
+Tailored to lightweight ACs, such as those built by
+Schneider, efforts were made to keep its weight modest
+while providing capable output for its size.</text>
+<text id="65010300">Circulating-current generator developed by Arquebus.
+The design goal for this model was to create a generator
+with no drawbacks, resulting in a product that provides
+stable performance in any AC assembly.</text>
+<text id="65010400">Internal combustion generator developed by BAWS for modern
+ACs. A balanced model capable of withstanding the demands
+of modern combat, its development was aimed at narrowing
+Rubicon's post-closure technological gap.</text>
+<text id="65020000">Circulating-current generator designed by Arquebus ADD.
+Engineered to support high-spec energy weapon prototypes,
+it maximizes EN output at the expense of sacrificing
+performance in other regards.</text>
+<text id="65020100">Circulating-current generator designed by Arquebus ADD.
+Engineered to maximize energy weapon specialization, this
+model even sacrifices EN output to a degree, positioning
+its performance somewhere close to a concept model.</text>
+<text id="65030000">Coral-based internal combustion generator developed long
+ago by the Rubicon Research Institute. This model takes
+advantage of the Coral's biological traits, enabling rapid
+recovery by pushing combustion to its limit.</text>
+<text id="65030100">Prototype Coral-based internal combustion generator
+developed long ago by the Rubicon Research Institute.
+Optimized for power-hungry Coral weapons, with rapid
+EN recovery enabled by maximized combustion.</text>
+<text id="65040000">Internal combustion generator developed by Dafeng Core
+Industries. This model was designed for use with the
+corporation's independently-manufactured heavyweight
+ACs, and features outstanding EN capacity.</text>
+<text id="65040100">Circulating-current generator developed by Arquebus.
+Designed with a focus on EN capacity and output to support
+Arquebus energy weapons, it supplies more raw power than
+any other corporate product on the market.</text>
+<text id="65040200">BAWS internal combustion generator developed in tandem
+with Elcano. Improved output allows for use of high-burden
+parts, but supply recovery performance leaves much to be
+desired, calling for a degree of EN management finesse.</text>
+<text id="65040300">Circulating-current generator designed by Arquebus ADD.
+Features improved EN capacity and output while retaining a
+focus on energy weapon specialization. However, it suffers
+from a heavy weight burden and recharging difficulties.</text>
+</entries>
+</fmg>

@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="2100">Profile</text>
+<text id="3000">Adjust controller vibration level.</text>
+<text id="3001">%null%</text>
+<text id="3002">%null%</text>
+<text id="3003">%null%</text>
+<text id="3004">%null%</text>
+<text id="3005">%null%</text>
+<text id="3006">%null%</text>
+<text id="3007">%null%</text>
+<text id="3008">%null%</text>
+<text id="3009">%null%</text>
+<text id="3010">Controller Vibration</text>
+<text id="4101">You are not connected to the network.</text>
+<text id="4102">Lost connection to &lt;?gameServer?&gt;.</text>
+<text id="4103">Lost connection to Steam.</text>
+<text id="4104">A network error has occurred.</text>
+<text id="4161">Frame rate is not appropriate for multiplayer.</text>
+<text id="4190">A network error has occurred.</text>
+<text id="4191">Failed to save game due to corrupted save data.
+
+Try again?
+
+Select YES to attempt another save,
+or NO to return to title screen without saving game.</text>
+<text id="4192">%null%</text>
+<text id="4193">Failed to save game due to corrupted save data.</text>
+<text id="4194">%null%</text>
+<text id="4195">%null%</text>
+<text id="4196">%null%</text>
+<text id="4197">%null%</text>
+<text id="4198">%null%</text>
+<text id="4199">%null%</text>
+<text id="4200">Returning to title screen.</text>
+<text id="4201">Switching to offline mode.</text>
+<text id="4202">%null%</text>
+<text id="4203">%null%</text>
+<text id="4204">%null%</text>
+<text id="4205">%null%</text>
+<text id="4206">%null%</text>
+<text id="4207">%null%</text>
+<text id="4208">%null%</text>
+<text id="4209">%null%</text>
+<text id="4210">Unable to communicate with &lt;?gameServer?&gt;.</text>
+<text id="5000">Waiting to join Versus Room...</text>
+<text id="6000">Aborted joining Versus Room.</text>
+<text id="6100">Cannot join Versus Room without closing dialog.</text>
+<text id="6200">Cannot join Versus Room until you confirm or abandon edits.</text>
+<text id="40000">ARMORED CORE VI Game Server</text>
+<text id="100009">Creator ID</text>
+<text id="100010">Profile Name</text>
+<text id="101000">PRESS ANY BUTTON</text>
+<text id="200100">Characters that cannot be used
+have been replaced with an asterisk (*).</text>
+<text id="201000">Join Versus Room?
+
+(Your current progress will be lost.)</text>
+<text id="201001">%null%</text>
+<text id="201002">%null%</text>
+<text id="201003">%null%</text>
+<text id="201004">%null%</text>
+<text id="201005">%null%</text>
+<text id="201006">%null%</text>
+<text id="201007">%null%</text>
+<text id="201008">%null%</text>
+<text id="201009">%null%</text>
+<text id="201010">Join Versus Room?</text>
+<text id="202000">HDR setting has been changed to OFF.</text>
+<text id="202001">%null%</text>
+<text id="202002">%null%</text>
+<text id="202003">%null%</text>
+<text id="202004">%null%</text>
+<text id="202005">%null%</text>
+<text id="202006">%null%</text>
+<text id="202007">%null%</text>
+<text id="202008">%null%</text>
+<text id="202009">%null%</text>
+<text id="202010">HDR setting has been changed to ON.</text>
+<text id="400003">At the end of the previous session, Return to Title Screen or Quit Game
+might not have been selected from the SYSTEM menu.
+
+Failure to end session using either of these options
+may result in loss of progress.</text>
+<text id="401102">Failed to create save data.
+Select OK to try again.</text>
+<text id="401103">Failed to load save data.
+Select OK to try again.</text>
+<text id="401104">%null%</text>
+<text id="401105">%null%</text>
+<text id="401106">Failed to save game due to corrupted save data.
+
+Select OK to try again.</text>
+<text id="401107">The save data is corrupted.
+
+Delete save data and create new save data?</text>
+<text id="401108">%null%</text>
+<text id="401109">%null%</text>
+<text id="401110">Checking save data...</text>
+<text id="401111">Creating save data...</text>
+<text id="401112">Updating save data...</text>
+<text id="401113">Save data does not match game version.
+
+Quit the game, apply the update file
+in the Steam client, then restart the game.</text>
+<text id="401114">Save data cannot be loaded due to the game version being outdated.
+
+Quit the game, apply the update file
+in the Steam client, then restart the game.</text>
+<text id="401115">%null%</text>
+<text id="401116">%null%</text>
+<text id="401117">%null%</text>
+<text id="401118">%null%</text>
+<text id="401119">%null%</text>
+<text id="401120">Checking network connection status...</text>
+<text id="401150">Logging in to &lt;?gameServer?&gt;...</text>
+<text id="401151">%null%</text>
+<text id="401152">%null%</text>
+<text id="401153">%null%</text>
+<text id="401154">%null%</text>
+<text id="401155">%null%</text>
+<text id="401156">%null%</text>
+<text id="401157">%null%</text>
+<text id="401158">%null%</text>
+<text id="401159">%null%</text>
+<text id="401160">Acquiring data from &lt;?gameServer?&gt;...</text>
+<text id="401161">%null%</text>
+<text id="401162">%null%</text>
+<text id="401163">%null%</text>
+<text id="401164">%null%</text>
+<text id="401165">Registering data to &lt;?gameServer?&gt;...</text>
+<text id="401166">%null%</text>
+<text id="401167">%null%</text>
+<text id="401168">%null%</text>
+<text id="401169">%null%</text>
+<text id="401170">Starting in offline mode.
+
+If you wish to use network features, please check your connection,
+then select LOG IN from the title screen.</text>
+<text id="401171">Returning to title screen.</text>
+<text id="401201">Unable to connect to the network.
+Please check your network settings.</text>
+<text id="401202">Failed to check network connection status.</text>
+<text id="401400">Frame rate problem detected.
+Cannot start multiplayer.
+
+Please resolve the problem and
+then restart the game.</text>
+<text id="401401">No game progress data found.
+Unable to join Versus Room.</text>
+<text id="401502">Your account is presently blocked
+from using &lt;?gameServer?&gt;.</text>
+<text id="401503">Failed to log in to &lt;?gameServer?&gt;.
+Select OK to attempt another login.</text>
+<text id="401504">An update file is available.
+
+To start in online mode, quit the game,
+apply the update file, then restart the game.</text>
+<text id="401505">Cannot log in to &lt;?gameServer?&gt;
+due to maintenance or closure of server.</text>
+<text id="401601">Failed to acquire latest information.
+Select OK to try again.</text>
+<text id="401701">Found existing game progress data.
+
+Delete this data and start a new game?</text>
+<text id="401721">Failed to load save data due to its being corrupted.</text>
+<text id="401991">An error occurred.
+Returning to title screen.</text>
+<text id="402020">An error has occurred.
+Cannot start multiplayer session.</text>
+<text id="402021">%null%</text>
+<text id="402022">%null%</text>
+<text id="402023">%null%</text>
+<text id="402024">%null%</text>
+<text id="402025">%null%</text>
+<text id="402026">%null%</text>
+<text id="402027">%null%</text>
+<text id="402028">%null%</text>
+<text id="402029">%null%</text>
+<text id="402030">Cannot start multiplayer session in offline mode.</text>
+<text id="402031">%null%</text>
+<text id="402032">%null%</text>
+<text id="402033">%null%</text>
+<text id="402034">%null%</text>
+<text id="402035">%null%</text>
+<text id="402036">%null%</text>
+<text id="402037">%null%</text>
+<text id="402038">%null%</text>
+<text id="402039">%null%</text>
+<text id="402040">Online Battle Simulator: Nest must be unlocked
+to begin multiplayer session.
+
+Progress through the game to gain access.</text>
+<text id="402041">%null%</text>
+<text id="402042">%null%</text>
+<text id="402043">%null%</text>
+<text id="402044">%null%</text>
+<text id="402045">%null%</text>
+<text id="402046">%null%</text>
+<text id="402047">%null%</text>
+<text id="402048">%null%</text>
+<text id="402049">%null%</text>
+<text id="402050">Cannot join Versus Room during an imperative mission.
+Please complete the mission and try again.</text>
+<text id="404000">Inappropriate activity detected.
+Online mode cannot be used.</text>
+<text id="404001">%null%</text>
+<text id="404002">%null%</text>
+<text id="404003">%null%</text>
+<text id="404004">%null%</text>
+<text id="404005">%null%</text>
+<text id="404006">%null%</text>
+<text id="404007">%null%</text>
+<text id="404008">%null%</text>
+<text id="404009">%null%</text>
+<text id="404010">Failed to connect to Epic Online Services (&lt;?errcodeEOS?&gt;).
+Online mode cannot be accessed.</text>
+<text id="404011">%null%</text>
+<text id="404012">%null%</text>
+<text id="404013">%null%</text>
+<text id="404014">%null%</text>
+<text id="404015">%null%</text>
+<text id="404016">%null%</text>
+<text id="404017">%null%</text>
+<text id="404018">%null%</text>
+<text id="404019">%null%</text>
+<text id="404020">Failed to connect to Steamworks (&lt;?errcodeSteam?&gt;).
+Online mode cannot be accessed.</text>
+<text id="404100">Inappropriate activity detected.</text>
+<text id="404101">%null%</text>
+<text id="404102">%null%</text>
+<text id="404103">%null%</text>
+<text id="404104">%null%</text>
+<text id="404105">%null%</text>
+<text id="404106">%null%</text>
+<text id="404107">%null%</text>
+<text id="404108">%null%</text>
+<text id="404109">%null%</text>
+<text id="404110">Failed to connect to Epic Online Services (&lt;?errcodeEOS?&gt;).</text>
+<text id="404111">%null%</text>
+<text id="404112">%null%</text>
+<text id="404113">%null%</text>
+<text id="404114">%null%</text>
+<text id="404115">%null%</text>
+<text id="404116">%null%</text>
+<text id="404117">%null%</text>
+<text id="404118">%null%</text>
+<text id="404119">%null%</text>
+<text id="404120">Failed to connect to Steamworks (&lt;?errcodeSteam?&gt;).</text>
+<text id="722010">x</text>
+<text id="722011">(</text>
+<text id="722012">:</text>
+<text id="722013">)</text>
+<text id="920000">Resolution changed.
+Keep this setting?
+
+(Resolution will revert to the previous setting in
+&lt;?remainingSec?&gt; seconds without any further input.)</text>
+</entries>
+</fmg>

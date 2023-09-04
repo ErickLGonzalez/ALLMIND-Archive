@@ -1,0 +1,1333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1401000">&lt;?kgicon@91?&gt;: Camera
+&lt;?kgicon@90?&gt;: Movement</text>
+<text id="1401001">%null%</text>
+<text id="1401002">%null%</text>
+<text id="1401003">%null%</text>
+<text id="1401004">%null%</text>
+<text id="1401005">%null%</text>
+<text id="1401006">%null%</text>
+<text id="1401007">%null%</text>
+<text id="1401008">%null%</text>
+<text id="1401009">%null%</text>
+<text id="1401010">&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;: Boost Movement ON</text>
+<text id="1401011">%null%</text>
+<text id="1401012">%null%</text>
+<text id="1401013">%null%</text>
+<text id="1401014">%null%</text>
+<text id="1401015">%null%</text>
+<text id="1401016">%null%</text>
+<text id="1401017">%null%</text>
+<text id="1401018">%null%</text>
+<text id="1401019">%null%</text>
+<text id="1401020">&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;: Boost Movement ON
+&lt;?kgicon@8?&gt;: Jump
+Hold &lt;?kgicon@8?&gt;: Ascend</text>
+<text id="1401021">%null%</text>
+<text id="1401022">%null%</text>
+<text id="1401023">%null%</text>
+<text id="1401024">%null%</text>
+<text id="1401025">%null%</text>
+<text id="1401026">%null%</text>
+<text id="1401027">%null%</text>
+<text id="1401028">%null%</text>
+<text id="1401029">%null%</text>
+<text id="1401030">Some actions consume EN (energy),
+and are disabled while EN is depleted.
+
+EN replenishes rapidly when grounded.</text>
+<text id="1401100">The reticle automatically targets on-screen enemies.
+
+When there are multiple enemies, the enemy closest
+to the center of the screen will be prioritized.
+Move the camera to change the priority target.
+
+When enabled, Target Assist will automatically orient
+the camera and your AC toward the current target.
+However, this comes at the cost of reduced aiming
+precision. Consider the situation and your level of
+skill when choosing whether to enable this feature.
+
+&lt;?kgicon@11?&gt;: Camera
+&lt;?kgicon@15?&gt;: Target Assist ON/OFF</text>
+<text id="1401101">%null%</text>
+<text id="1401102">%null%</text>
+<text id="1401103">%null%</text>
+<text id="1401104">%null%</text>
+<text id="1401105">%null%</text>
+<text id="1401106">%null%</text>
+<text id="1401107">%null%</text>
+<text id="1401108">%null%</text>
+<text id="1401109">%null%</text>
+<text id="1401110">&lt;?kgicon@11?&gt;: Camera
+&lt;?kgicon@15?&gt;: Target Assist ON/OFF
+Hold &lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Weapon</text>
+<text id="1401111">The reticle automatically targets on-screen enemies.
+
+When there are multiple enemies, the enemy closest
+to the center of the screen will be prioritized.
+Move the camera to change the priority target.
+
+&lt;?kgicon@91?&gt;: Camera</text>
+<text id="1401112">&lt;?kgicon@91?&gt;: Camera
+Hold &lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Weapon</text>
+<text id="1401113">Target Assist keeps your AC oriented toward the target.
+
+When enabled, your AC will automatically lock its
+orientation toward enemies as you approach them.
+You can still use the camera to change targets while
+in Target Assist mode.
+
+&lt;?kgicon@15?&gt;: Target Assist ON/OFF</text>
+<text id="1401114">&lt;?kgicon@15?&gt;: Target Assist ON/OFF
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1401115">The reticle automatically targets on-screen enemies.
+
+When there are multiple enemies, the enemy closest
+to the center of the screen will be prioritized.
+Move the camera to change the priority target.
+
+&lt;?kgicon@91?&gt;: Camera
+Hold &lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Weapon</text>
+<text id="1401116">Target Assist keeps your AC oriented toward the target.
+
+When enabled, your AC will automatically lock its
+orientation toward enemies as you approach them.
+You can still use the camera to change targets while
+in Target Assist mode.
+
+&lt;?kgicon@15?&gt;: Target Assist ON/OFF
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1401117">The missile launcher equipped to the right shoulder of
+this AC is capable of multi-lock, which allows you to
+attack multiple enemies simultaneously by holding
+down the input for that weapon.
+
+Hold &lt;?kgicon@20?&gt;: RSW Multi-Lock Attack</text>
+<text id="1401118">%null%</text>
+<text id="1401119">%null%</text>
+<text id="1401120">&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1401121">Quick Boost (QB) lets you instantly accelerate in
+any direction, helping you to evade attacks or swiftly
+close in on enemies.
+
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1401122">&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+Hold &lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1401123">%null%</text>
+<text id="1401124">%null%</text>
+<text id="1401125">%null%</text>
+<text id="1401126">Quick Boost (QB) lets you instantly accelerate in
+any direction, helping you to evade attacks or swiftly
+close in on enemies.
+
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost</text>
+<text id="1401127">%null%</text>
+<text id="1401128">%null%</text>
+<text id="1401129">%null%</text>
+<text id="1401130">&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+Hold &lt;?kgicon@20?&gt;: RSW Multi-Lock Attack</text>
+<text id="1401131">Hold &lt;?kgicon@20?&gt;: RSW Multi-Lock Attack</text>
+<text id="1401132">%null%</text>
+<text id="1401133">%null%</text>
+<text id="1401134">%null%</text>
+<text id="1401135">%null%</text>
+<text id="1401136">%null%</text>
+<text id="1401137">%null%</text>
+<text id="1401138">%null%</text>
+<text id="1401139">%null%</text>
+<text id="1401140">&lt;?kgicon@23?&gt;: Use Repair Kit</text>
+<text id="1401141">Use Repair Kits to repair your AC
+and recover AP (Armor Points).
+
+Repair Kits can be used up to 3 times
+per mission, but cannot be used in
+rapid succession.
+
+&lt;?kgicon@23?&gt;: Use Repair Kit</text>
+<text id="1401200">Use Assault Boost to move rapidly in the direction that
+the camera is facing, or to rapidly approach targets.
+
+&lt;?kgicon@9?&gt;: Assault Boost
+&lt;?kgicon@3?&gt; during boost: Cancel Assault Boost</text>
+<text id="1401201">&lt;?kgicon@9?&gt;: Assault Boost
+&lt;?kgicon@3?&gt; during boost: Cancel Assault Boost</text>
+<text id="1401270">&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1401271">%null%</text>
+<text id="1401272">%null%</text>
+<text id="1401273">%null%</text>
+<text id="1401274">%null%</text>
+<text id="1401275">%null%</text>
+<text id="1401276">%null%</text>
+<text id="1401277">%null%</text>
+<text id="1401278">%null%</text>
+<text id="1401279">%null%</text>
+<text id="1401280">&lt;?kgicon@9?&gt;: Assault Boost
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1401281">%null%</text>
+<text id="1401282">%null%</text>
+<text id="1401283">%null%</text>
+<text id="1401284">%null%</text>
+<text id="1401285">%null%</text>
+<text id="1401286">%null%</text>
+<text id="1401287">%null%</text>
+<text id="1401288">%null%</text>
+<text id="1401289">%null%</text>
+<text id="1401290">&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+Hold &lt;?kgicon@20?&gt;: RSW Multi-Lock Attack</text>
+<text id="1401291">%null%</text>
+<text id="1401292">%null%</text>
+<text id="1401293">%null%</text>
+<text id="1401294">%null%</text>
+<text id="1401295">%null%</text>
+<text id="1401296">%null%</text>
+<text id="1401297">%null%</text>
+<text id="1401298">%null%</text>
+<text id="1401299">%null%</text>
+<text id="1401300">While standing on a vertical catapult, perform a jump
+to quickly reach high-up places.
+
+&lt;?kgicon@8?&gt; while on catapult: Vertical Launch</text>
+<text id="1401301">%null%</text>
+<text id="1401302">%null%</text>
+<text id="1401303">%null%</text>
+<text id="1401304">%null%</text>
+<text id="1401305">%null%</text>
+<text id="1401306">%null%</text>
+<text id="1401307">%null%</text>
+<text id="1401308">%null%</text>
+<text id="1401309">%null%</text>
+<text id="1401310">&lt;?kgicon@8?&gt; while on catapult: Vertical Launch</text>
+<text id="1411000">You will use an old-gen AC instead of
+your usual craft on this mission.
+
+This AC is made from junk parts, and its
+performance leaves much to be desired.
+
+Hold &lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Machine Gun
+&lt;?kgicon@19?&gt;: Fire Left Shoulder Scatter Bazooka</text>
+<text id="1411001">%null%</text>
+<text id="1411002">%null%</text>
+<text id="1411003">%null%</text>
+<text id="1411004">%null%</text>
+<text id="1411005">%null%</text>
+<text id="1411006">%null%</text>
+<text id="1411007">%null%</text>
+<text id="1411008">%null%</text>
+<text id="1411009">%null%</text>
+<text id="1411010">Hold &lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Machine Gun
+&lt;?kgicon@19?&gt;: Fire Left Shoulder Scatter Bazooka</text>
+<text id="1411100">Jamming rounds rupture on impact, creating
+an area effect that disrupts enemy lock-on.
+
+This AC is equipped with a jamming round
+launcher as its left hand weapon.
+
+&lt;?kgicon@17?&gt;: Fire Left Hand Jamming Round Launcher</text>
+<text id="1411101">%null%</text>
+<text id="1411102">%null%</text>
+<text id="1411103">%null%</text>
+<text id="1411104">%null%</text>
+<text id="1411105">%null%</text>
+<text id="1411106">%null%</text>
+<text id="1411107">%null%</text>
+<text id="1411108">%null%</text>
+<text id="1411109">%null%</text>
+<text id="1411110">Hold &lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Machine Gun
+&lt;?kgicon@19?&gt;: Fire Left Shoulder Scatter Bazooka
+&lt;?kgicon@17?&gt;: Fire Left Hand Jamming Round Launcher</text>
+<text id="1500000">To land shots on moving enemies, you must pull
+the trigger while they are within lock-on range,
+where target tracking is active.
+
+&lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Weapon</text>
+<text id="1500001">Hold &lt;?kgicon@18?&gt;: Rapid-Fire Right Hand Weapon</text>
+<text id="1500002">%null%</text>
+<text id="1500003">%null%</text>
+<text id="1500004">%null%</text>
+<text id="1500005">To land shots on moving enemies, you must pull
+the trigger while they are within lock-on range,
+where target tracking is active.</text>
+<text id="1500006">%null%</text>
+<text id="1500007">%null%</text>
+<text id="1500008">%null%</text>
+<text id="1500009">%null%</text>
+<text id="1500010">Weapons with magazines will automatically reload when
+the magazine's ammunition is depleted.
+
+Manually reload before engaging the enemy to minimize
+the risk that your attacks will be interrupted by a reload.
+
+&lt;?kgicon@22?&gt; + &lt;?kgicon@18?&gt;: Manual Reload (Right Hand Weapon)</text>
+<text id="1500011">&lt;?kgicon@22?&gt; + &lt;?kgicon@18?&gt;: Reload Right Hand Weapon</text>
+<text id="1500012">%null%</text>
+<text id="1500013">%null%</text>
+<text id="1500014">%null%</text>
+<text id="1500015">Weapons with magazines will automatically reload when
+the magazine's ammunition is depleted.
+
+Manually reload before engaging the enemy to minimize
+the risk that your attacks will be interrupted by a reload.
+
+&lt;?kgicon@22?&gt; + weapon input: Manual Reload</text>
+<text id="1500100">To use missiles and other homing rounds, keep the
+enemy on-screen until lock-on completes, then fire.
+
+Some missile weapons are capable of multi-lock, which
+allows you to attack multiple enemies simultaneously
+by holding the input for the weapon.
+
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+Hold &lt;?kgicon@20?&gt;: Right Shoulder Weapon Multi-Lock Attack
+&lt;?kgicon@22?&gt; during multi-lock: Cancel Multi-Lock</text>
+<text id="1500101">&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+Hold &lt;?kgicon@20?&gt;: RSW Multi-Lock Attack
+&lt;?kgicon@22?&gt; during multi-lock: Cancel Multi-Lock</text>
+<text id="1500102">%null%</text>
+<text id="1500103">%null%</text>
+<text id="1500104">%null%</text>
+<text id="1500105">To use missiles and other homing rounds, keep the
+enemy on-screen until lock-on completes, then fire.
+
+Some missile weapons are capable of multi-lock, which
+allows you to attack multiple enemies simultaneously
+by holding the input for the weapon.</text>
+<text id="1500200">Melee weapons, equipped to the left hand, require
+a risky close-range approach but have high attack
+power/impact and are useful for destroying shields.
+
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+&lt;?kgicon@17?&gt; &lt;?kgicon@17?&gt;: Left Hand Weapon Chain Attack
+Hold &lt;?kgicon@17?&gt;: Left Hand Weapon Charge Attack</text>
+<text id="1500201">&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+&lt;?kgicon@17?&gt; &lt;?kgicon@17?&gt;: LHW Chain Attack
+Hold &lt;?kgicon@17?&gt;: LHW Charge Attack</text>
+<text id="1500202">%null%</text>
+<text id="1500203">%null%</text>
+<text id="1500204">%null%</text>
+<text id="1500205">Melee weapons, equipped to the left hand, require
+a risky close-range approach but have high attack
+power/impact and are useful for destroying shields.</text>
+<text id="1500300">You can detect nearby enemies or containers that hold
+AC parts by scanning.
+
+Any objects that were detected by the scan will be
+temporarily highlighted. If an enemy is detected, you
+will be able to achieve lock on even through walls or
+other cover.
+
+&lt;?kgicon@25?&gt;: Scan</text>
+<text id="1500301">&lt;?kgicon@25?&gt;: Scan</text>
+<text id="1501000">Some weapons are capable of charge attacks, which
+exhibit different properties and behavior compared to
+regular attacks.
+
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+Hold &lt;?kgicon@18?&gt;: Right Hand Weapon Charge Attack
+&lt;?kgicon@22?&gt; during charge: Cancel Charge</text>
+<text id="1501001">&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+Hold &lt;?kgicon@18?&gt;: RHW Charge Attack
+&lt;?kgicon@22?&gt; during charge: Cancel Charge</text>
+<text id="1501002">%null%</text>
+<text id="1501003">%null%</text>
+<text id="1501004">%null%</text>
+<text id="1501005">Some weapons are capable of charge attacks, which
+exhibit different properties and behavior compared to
+regular attacks.</text>
+<text id="1501006">%null%</text>
+<text id="1501007">%null%</text>
+<text id="1501008">%null%</text>
+<text id="1501009">%null%</text>
+<text id="1501010">The ACS (Attitude Control System) of a craft can be
+compromised by accumulated strain from the impact
+of repeated attacks.
+
+ACS overload results in a vulnerable state called
+"stagger," during which time the afflicted craft will
+be immobilized and susceptible to critical damage.
+
+Hold &lt;?kgicon@18?&gt;: Right Hand Weapon Charge Attack
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1501011">Hold &lt;?kgicon@18?&gt;: RHW Charge Attack
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1501012">%null%</text>
+<text id="1501013">%null%</text>
+<text id="1501014">%null%</text>
+<text id="1501015">The ACS (Attitude Control System) of a craft can be
+compromised by accumulated strain from the impact
+of repeated attacks.
+
+ACS overload results in a vulnerable state called
+"stagger," during which time the afflicted craft will
+be immobilized and susceptible to critical damage.</text>
+<text id="1501016">%null%</text>
+<text id="1501017">%null%</text>
+<text id="1501018">%null%</text>
+<text id="1501019">%null%</text>
+<text id="1501020">During stagger, all incoming attacks are treated as
+"direct hits" and deal much more damage.
+
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon</text>
+<text id="1501021">&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon</text>
+<text id="1501022">%null%</text>
+<text id="1501023">%null%</text>
+<text id="1501024">%null%</text>
+<text id="1501025">During stagger, all incoming attacks are treated as
+"direct hits" and deal much more damage.</text>
+<text id="1501100">ACS strain inflicted on enemies resets after a brief
+interval, but a portion of that strain will remain.
+
+Weapons vary in the amount of accumulative strain
+they inflict, with explosive impact generally leaving
+the most ACS strain.
+
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon</text>
+<text id="1501101">&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon</text>
+<text id="1501102">%null%</text>
+<text id="1501103">%null%</text>
+<text id="1501104">%null%</text>
+<text id="1501105">ACS strain inflicted on enemies resets after a brief
+interval, but a portion of that strain will remain.
+
+Weapons vary in the amount of accumulative strain
+they inflict, with explosive impact generally leaving
+the most ACS strain.</text>
+<text id="1501200">Shields, equipped to the left shoulder, can be deployed
+to reduce incoming damage and ACS strain.
+
+Hold &lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1501201">Hold &lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1501202">%null%</text>
+<text id="1501203">%null%</text>
+<text id="1501204">%null%</text>
+<text id="1501205">Shields, equipped to the left shoulder, can be deployed
+to reduce incoming damage and ACS strain.</text>
+<text id="1501206">%null%</text>
+<text id="1501207">%null%</text>
+<text id="1501208">%null%</text>
+<text id="1501209">%null%</text>
+<text id="1501210">Shield output is maximized for 1 to 2 seconds after
+deployment.
+
+Blocking during this "Initial Guard" window can help
+to minimize incoming damage and ACS strain.
+
+Hold &lt;?kgicon@19?&gt; in response to warning: Initial Guard</text>
+<text id="1501211">Hold &lt;?kgicon@19?&gt; in response to warning: Initial Guard</text>
+<text id="1501212">%null%</text>
+<text id="1501213">%null%</text>
+<text id="1501214">%null%</text>
+<text id="1501215">Shield output is maximized for 1 to 2 seconds after
+deployment.
+
+Blocking during this "Initial Guard" window can help
+to minimize incoming damage and ACS strain.</text>
+<text id="1501300">During Assault Boost rush attacks, small arms that can
+be used during movement will inflict greater impact,
+and impact you receive will be reduced.
+
+&lt;?kgicon@9?&gt;: Assault Boost
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1501301">&lt;?kgicon@9?&gt;: Assault Boost
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1501302">%null%</text>
+<text id="1501303">%null%</text>
+<text id="1501304">%null%</text>
+<text id="1501305">During Assault Boost rush attacks, small arms that can
+be used during movement will inflict greater impact,
+and impact you receive will be reduced.
+
+&lt;?kgicon@9?&gt;: Assault Boost</text>
+<text id="1501400">Attacks on enemies that are unaware of your presence
+will inflict greater ACS strain than usual.
+
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+Hold &lt;?kgicon@18?&gt;: Right Hand Weapon Charge Attack
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+Hold &lt;?kgicon@20?&gt;: Right Shoulder Weapon Multi-Lock Attack</text>
+<text id="1501401">&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+Hold &lt;?kgicon@18?&gt;: RHW Charge Attack
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+Hold &lt;?kgicon@20?&gt;: RSW Multi-Lock Attack</text>
+<text id="1501402">%null%</text>
+<text id="1501403">%null%</text>
+<text id="1501404">%null%</text>
+<text id="1501405">Attacks on enemies that are unaware of your presence
+will inflict greater ACS strain than usual.</text>
+<text id="1502000">One way to assemble an AC is to install ranged weapons
+to both hands. This is known as the "Double Trigger"
+style among veteran pilots.
+
+Double Trigger assemblies using machine guns or similar
+weapons can destroy enemies at a reliable pace, and are
+suited for taking on multiple enemies at once.
+
+Hold &lt;?kgicon@18?&gt; &amp; &lt;?kgicon@17?&gt;: Rapid-Fire Both Hand Weapons</text>
+<text id="1502001">Hold &lt;?kgicon@18?&gt; &amp; &lt;?kgicon@17?&gt;: Rapid-Fire Both Hand Weapons</text>
+<text id="1502002">%null%</text>
+<text id="1502003">%null%</text>
+<text id="1502004">%null%</text>
+<text id="1502005">One way to assemble an AC is to install ranged weapons
+to both hands. This is known as the "Double Trigger"
+style among veteran pilots.
+
+Double Trigger assemblies using machine guns or similar
+weapons can destroy enemies at a reliable pace, and are
+suited for taking on multiple enemies at once.</text>
+<text id="1502006">%null%</text>
+<text id="1502007">%null%</text>
+<text id="1502008">%null%</text>
+<text id="1502009">%null%</text>
+<text id="1502010">%null%</text>
+<text id="1502011">&lt;?kgicon@22?&gt; + &lt;?kgicon@18?&gt;: Reload Right Hand Weapon
+&lt;?kgicon@22?&gt; + &lt;?kgicon@17?&gt;: Reload Left Hand Weapon</text>
+<text id="1502100">The mobility of an AC is greatly influenced by its
+overall weight and the type of boosters installed.
+
+This AC is fitted with boosters that have a short QB
+Reload Time spec, which allows it outpace enemies
+with consecutive Quick Boost usage.
+
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost</text>
+<text id="1502101">&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost</text>
+<text id="1502102">%null%</text>
+<text id="1502103">%null%</text>
+<text id="1502104">%null%</text>
+<text id="1502105">The mobility of an AC is greatly influenced by its
+overall weight and the type of boosters installed.
+
+• Thrust focus: Prioritizes faster movement
+• EN-efficiency focus: Reduced risk of EN shortages
+• QB/AB focus: Improved evasion and rushdown potential</text>
+<text id="1502106">%null%</text>
+<text id="1502107">%null%</text>
+<text id="1502108">%null%</text>
+<text id="1502109">%null%</text>
+<text id="1502110">The generator installed to your AC greatly influences
+the rest of the assembly, from the selection of usable
+parts to the basic performance of the AC.
+
+This AC is equipped with a generator that prioritizes
+EN capacity, in order to allow extensive use of aerial
+maneuvers and Quick Boosts.
+
+Hold &lt;?kgicon@8?&gt;: Ascend
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost</text>
+<text id="1502111">Hold &lt;?kgicon@8?&gt;: Ascend
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost</text>
+<text id="1502112">%null%</text>
+<text id="1502113">%null%</text>
+<text id="1502114">%null%</text>
+<text id="1502115">The generator installed to your AC greatly influences
+the rest of the assembly, from the selection of usable
+parts to the basic performance of the AC.
+
+• Output focus: Allows more parts with high EN burden
+• Capacity focus: For heavy use of EN-consuming actions
+• Supply focus: Faster recovery after EN use/depletion</text>
+<text id="1502200">The FCS (Fire Control System) installed to the AC
+affects target tracking at close/medium/long range
+and missile lock-on/multi-lock time.
+
+This AC is equipped with an FCS that is specialized for
+close-range combat, allowing it to reliably land attacks
+with its high-firepower weapons.
+
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1502201">&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1502202">%null%</text>
+<text id="1502203">%null%</text>
+<text id="1502204">%null%</text>
+<text id="1502205">The FCS (Fire Control System) installed to the AC
+affects target tracking at close/medium/long range
+and missile lock-on/multi-lock time.
+
+• Close-range focus: Best performance within 130 m
+• Medium-range focus: Best performance within 130–260 m
+• Long-range focus: Best performance beyond 260 m
+
+• Missile focus: Shorter time to achieve homing lock</text>
+<text id="1502300">The weapons and selection of parts used to assemble
+an AC determine its ideal combat range and style.
+
+This AC is equipped with four ranged weapons to
+specialize in concentrated fire at medium range.
+
+Hold &lt;?kgicon@18?&gt; &amp; &lt;?kgicon@17?&gt;: Rapid-Fire Both Hand Weapons
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon
+&lt;?kgicon@9?&gt;: Assault Boost</text>
+<text id="1502301">Hold &lt;?kgicon@18?&gt; &amp; &lt;?kgicon@17?&gt;: Rapid-Fire Both Hand Weapons
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon
+&lt;?kgicon@9?&gt;: Assault Boost</text>
+<text id="1502302">%null%</text>
+<text id="1502303">%null%</text>
+<text id="1502304">%null%</text>
+<text id="1502305">The weapons and selection of parts used to assemble
+an AC determine its ideal combat range and style.
+
+When assembling an AC, start by choosing weapons and
+"frame" parts, then look into which "inner" parts are
+suited to the style of combat you wish to achieve.</text>
+<text id="1503000">Reverse-joint leg units excel at jumping and can also
+leverage their leg strength to improve Quick Boosts.
+
+These leg units are also capable of high jumps that
+do not consume EN, making it easier to achieve
+aerial retreats and shift to aerial combat.
+
+&lt;?kgicon@8?&gt;: Jump
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost</text>
+<text id="1503001">&lt;?kgicon@8?&gt;: Jump
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost</text>
+<text id="1503002">%null%</text>
+<text id="1503003">%null%</text>
+<text id="1503004">%null%</text>
+<text id="1503005">Reverse-joint leg units excel at jumping and can also
+leverage their leg strength to improve Quick Boosts.
+
+These leg units are also capable of high jumps that
+do not consume EN, making it easier to achieve
+aerial retreats and shift to aerial combat.</text>
+<text id="1503006">%null%</text>
+<text id="1503007">%null%</text>
+<text id="1503008">%null%</text>
+<text id="1503009">%null%</text>
+<text id="1503010">The left shoulder grenade cannon on this AC fires
+explosive rounds that cause area damage upon impact.
+
+When using weapons of this nature, you can exploit area
+damage to great effect by firing at the ground from
+an aerial position.
+
+&lt;?kgicon@8?&gt;: Jump
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1503011">&lt;?kgicon@8?&gt;: Jump
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1503012">%null%</text>
+<text id="1503013">%null%</text>
+<text id="1503014">%null%</text>
+<text id="1503015">Grenades and plasma launchers fire explosive rounds
+that cause area damage upon impact.
+
+When using weapons like these, you can exploit area
+damage to great effect by firing at the ground from
+an aerial position.</text>
+<text id="1503100">Weapons fall into one of three categories depending on
+the type of damage they inflict:
+• Kinetic
+• Explosive
+• Energy
+
+The defensive performance of ACs and other craft varies
+for each of these damage types, determining their
+susceptibility or resistance.
+
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1503101">&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1503102">%null%</text>
+<text id="1503103">%null%</text>
+<text id="1503104">%null%</text>
+<text id="1503105">Weapons fall into one of three categories depending on
+the type of damage they inflict:
+• Kinetic
+• Explosive
+• Energy
+
+The defensive performance of ACs and other craft varies
+for each of these damage types, determining their
+susceptibility or resistance.</text>
+<text id="1503106">%null%</text>
+<text id="1503107">%null%</text>
+<text id="1503108">%null%</text>
+<text id="1503109">%null%</text>
+<text id="1503110">Energy weapons produce heat when fired, and this can
+ultimately result in overheating.
+
+When overheated, the weapon will be temporarily
+disabled, but functionality will be regained once the
+weapon has been allowed to cool.
+Avoid overheating by monitoring your rate of fire.
+
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+Hold &lt;?kgicon@18?&gt;: Right Hand Weapon Charge Attack</text>
+<text id="1503111">&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+Hold &lt;?kgicon@18?&gt;: RHW Charge Attack</text>
+<text id="1503112">%null%</text>
+<text id="1503113">%null%</text>
+<text id="1503114">%null%</text>
+<text id="1503115">Energy weapons produce heat when fired, and this can
+ultimately result in overheating.
+
+When overheated, the weapon will be temporarily
+disabled, but functionality will be regained once the
+weapon has been allowed to cool.
+Avoid overheating by monitoring your rate of fire.</text>
+<text id="1503200">Each weapon type behaves differently concerning impact:
+• Kinetic: Good balance of impact and attack power
+• Explosive: High impact and high accumulative strain
+• Energy: Low impact but high attack power
+
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1503201">&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1503202">%null%</text>
+<text id="1503203">%null%</text>
+<text id="1503204">%null%</text>
+<text id="1503205">Each weapon type behaves differently concerning impact:
+• Kinetic: Good balance of impact and attack power
+• Explosive: High impact and high accumulative strain
+• Energy: Low impact but high attack power</text>
+<text id="1503206">%null%</text>
+<text id="1503207">%null%</text>
+<text id="1503208">%null%</text>
+<text id="1503209">%null%</text>
+<text id="1503210">Ricocheting will occur when enemies have high defense,
+significantly reducing the damage they take.
+
+To counteract this, try attacking at a closer range, or
+switch to explosive weapons.</text>
+<text id="1504000">Tetrapod leg units have high loading capacity, and
+enable AC builds equipped with multiple heavy weapons.
+
+Tetrapod ACs can switch to Hover Mode after ascending
+off from the ground, allowing them to remain suspended
+in the air for some time.
+
+&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon</text>
+<text id="1504001">&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon</text>
+<text id="1504002">%null%</text>
+<text id="1504003">%null%</text>
+<text id="1504004">%null%</text>
+<text id="1504005">Tetrapod leg units have high loading capacity, and
+enable AC builds equipped with multiple heavy weapons.
+
+Tetrapod ACs can switch to Hover Mode after ascending
+off from the ground, allowing them to remain suspended
+in the air for some time.
+
+&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF</text>
+<text id="1504006">%null%</text>
+<text id="1504007">%null%</text>
+<text id="1504008">%null%</text>
+<text id="1504009">%null%</text>
+<text id="1504010">%null%</text>
+<text id="1504011">&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF
+&lt;?kgicon@2?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon</text>
+<text id="1504100">Charge attacks and fire from heavy weapons such as
+grenade launchers cause more recoil than other attacks,
+forcing the AC to assume a firing stance.
+
+Tetrapods are capable of absorbing this kind of recoil,
+allowing these attacks to be executed during movement.
+
+&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF
+Hold &lt;?kgicon@18?&gt;: Right Hand Weapon Charge Attack
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1504101">&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF
+Hold &lt;?kgicon@18?&gt;: RHW Charge Attack
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon</text>
+<text id="1504102">%null%</text>
+<text id="1504103">%null%</text>
+<text id="1504104">%null%</text>
+<text id="1504105">Charge attacks and fire from heavy weapons such as
+grenade launchers cause more recoil than other attacks,
+forcing the AC to assume a firing stance.
+
+Tetrapods are capable of absorbing this kind of recoil,
+allowing these attacks to be executed during movement.</text>
+<text id="1504106">%null%</text>
+<text id="1504107">%null%</text>
+<text id="1504108">%null%</text>
+<text id="1504109">%null%</text>
+<text id="1504110">%null%</text>
+<text id="1504111">&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1504200">Hover Mode allows you to maintain a high altitude,
+in turn making it easier to establish a line of fire
+and lock on without geographical obstruction.
+
+&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+Hold &lt;?kgicon@20?&gt;: Right Shoulder Weapon Multi-Lock Attack
+Hold &lt;?kgicon@19?&gt;: Left Shoulder Weapon Multi-Lock Attack</text>
+<text id="1504201">&lt;?kgicon@8?&gt; in air: Hover Mode ON/OFF
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+Hold &lt;?kgicon@20?&gt;: RSW Multi-Lock Attack
+Hold &lt;?kgicon@19?&gt;: LSW Multi-Lock Attack</text>
+<text id="1504202">%null%</text>
+<text id="1504203">%null%</text>
+<text id="1504204">%null%</text>
+<text id="1504205">Hover Mode allows you to maintain a high altitude,
+in turn making it easier to establish a line of fire
+and lock on without geographical obstruction.</text>
+<text id="1505000">Tank leg units are heavily armored and boast excellent
+loading capacity.
+
+In addition to lending themselves to highly durable
+builds, they are also good candidates for high firepower
+assemblies. Tank-type ACs are capable of absorbing
+recoil, which allows them to fire heavy weapons
+without entering a firing stance.
+
+Hold &lt;?kgicon@18?&gt; &amp; &lt;?kgicon@17?&gt;: Rapid-Fire Both Hand Weapons
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1505001">&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;: Boost Movement ON
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+&lt;?kgicon@90?&gt; immediately after QB: Drift</text>
+<text id="1505002">Tank-type ACs can drift to quickly change the direction
+they are facing.
+
+To execute a drift, move &lt;?kgicon@90?&gt; in the direction
+you want to face immediately after a Quick Boost.
+
+&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;: Boost Movement ON
+&lt;?kgicon@90?&gt; + &lt;?kgicon@7?&gt;: Quick Boost
+&lt;?kgicon@90?&gt; immediately after QB: Drift</text>
+<text id="1505003">%null%</text>
+<text id="1505004">%null%</text>
+<text id="1505005">Tank leg units are heavily armored and boast excellent
+loading capacity.
+
+In addition to lending themselves to highly durable
+builds, they are also good candidates for high firepower
+assemblies. Tank-type ACs are capable of absorbing
+recoil, which allows them to fire heavy weapons
+without entering a firing stance.</text>
+<text id="1505006">%null%</text>
+<text id="1505007">Tank-type ACs can drift to quickly change the direction
+they are facing.
+
+To execute a drift, move &lt;?kgicon@90?&gt; in the direction
+you want to face immediately after a Quick Boost.
+
+&lt;?kgicon@90?&gt; immediately after QB: Drift</text>
+<text id="1505008">%null%</text>
+<text id="1505009">%null%</text>
+<text id="1505010">%null%</text>
+<text id="1505011">Hold &lt;?kgicon@18?&gt; &amp; &lt;?kgicon@17?&gt;: Rapid-Fire Both Hand Weapons
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="1506000">During real missions, you can expect enemy
+reinforcements and other changes to the situation.
+
+The test of an advanced mercenary is in their ability to
+adjust to a wide range of combat scenarios and adapt
+their AC assembly to meet the needs of the mission.</text>
+<text id="1509090">When Target Assist is disabled, target tracking will
+benefit from improved performance, and you will have
+full control over which direction your AC moves in.
+
+Consider situational use of Target Assist and look for
+opportunities to take full control of your targeting
+within your level of proficiency as a mercenary.</text>
+<text id="1600000">Explosive attacks have a blast radius, and even if
+you dodge the initial hit, it's easy to get caught by
+the blast if you remain on the ground.
+
+Evasive aerial maneuvers are a good way to handle
+attacks that are difficult to dodge by merely
+Quick Boosting.
+
+Hold &lt;?kgicon@8?&gt;: Ascend
+
+</text>
+<text id="1601000">When a strong enemy seems like an impossible challenge,
+it's more likely that the assembly of your AC is working
+against you.
+
+Check out the mercenary support simulators to see
+how your AC assembly changes your options.</text>
+<text id="1602000">When an enemy is close to being staggered, make sure
+your weapons aren't about to reload or overheat.
+You need to be ready to exercise maximum firepower
+against the target while it's vulnerable.
+
+&lt;?kgicon@22?&gt; + weapon input: Manual Reload</text>
+<text id="2000000">Customize AC assemblies using the parts you have
+available at the ASSEMBLY menu.
+
+When assembling an AC, ensure that your build keeps
+within the maximum weight and EN load parameters.
+
+&lt;?kgicon@1014?&gt;: Open Help Menu</text>
+<text id="2001000">Check incoming jobs and sortie on missions from
+the MISSIONS menu.
+
+Complete missions to progress the story.</text>
+<text id="2001100">Replay missions you have previously completed from
+the REPLAY MISSION menu. You can also review your
+rank for each mission from this menu.
+
+• To achieve an S-Rank rating, you must complete
+   the mission without retrying from a checkpoint,
+   while also minimizing incoming damage, time taken,
+   and ammunition consumed.</text>
+<text id="2002000">Purchase AC parts sold by the various corporations and
+factions from the BUY menu.
+
+• More parts will be available for purchase as you
+   progress through the story or meet certain conditions.</text>
+<text id="2002001">%null%</text>
+<text id="2002002">%null%</text>
+<text id="2002003">%null%</text>
+<text id="2002004">%null%</text>
+<text id="2002005">%null%</text>
+<text id="2002006">%null%</text>
+<text id="2002007">%null%</text>
+<text id="2002008">%null%</text>
+<text id="2002009">%null%</text>
+<text id="2002010">Sell AC parts in your possession from the SELL menu.
+
+• Parts are sold at purchase price and can be
+   repurchased from the BUY menu once sold.</text>
+<text id="2003000">Make AC cosmetic adjustments from the PAINT menu.
+This includes coloring and texture settings.</text>
+<text id="2003100">Apply emblems in your possession and user-created
+images to your AC from the DECALS menu.</text>
+<text id="2003300">Combine preset pieces to create original images from
+the IMAGE EDITOR menu.
+
+• Created images can be applied to ACs as decals or
+   used as emblems.
+
+• If online, you can upload images you have created
+   to receive a Share ID that can be shared with other
+   players, or download other players' shared images.</text>
+<text id="2004000">Fight virtual battles against copies of ACs created using
+ALLMIND's mercenary/craft data from the ARENA menu.
+
+• Win Arena battles to obtain OST Chips, opponent AC
+   data, and opponent emblems. You can use OST Chips
+   to perform OS upgrades.</text>
+<text id="2004100">Battle against other players in 1-vs-1 or 3-vs-3 online
+matches from the NEST menu.
+
+• Custom Match
+   The host player creates a Versus Room and guest
+   players join the room to compete or spectate.
+
+• Match History
+   View your win/loss record against recent opponents.</text>
+<text id="2004101">%null%</text>
+<text id="2004102">%null%</text>
+<text id="2004103">%null%</text>
+<text id="2004104">%null%</text>
+<text id="2004105">%null%</text>
+<text id="2004106">%null%</text>
+<text id="2004107">%null%</text>
+<text id="2004108">%null%</text>
+<text id="2004109">%null%</text>
+<text id="2004110">Versus Room matches will begin once sortie members
+assigned ALPHA/BETA designations have confirmed that
+they are ready.
+
+If there are not enough sortie members, reserve members
+who have confirmed that they are ready will be chosen.</text>
+<text id="2005000">Save and load AC assemblies and cosmetic settings
+from the AC DATA menu.
+
+• In order to load AC data, you must currently own all
+   parts and other elements included in the assembly.
+
+• If online, you can upload AC assemblies you have
+   created to receive a Share ID that can be shared
+   with other players, or download other players'
+   shared assemblies.</text>
+<text id="2006000">Use AC TEST to test the functionality and behavior
+of your AC.
+
+• During the test run, open the &lt;?kgicon@29?&gt;PAUSE Menu
+   to alter AC assembly, create enemies, and so on.</text>
+<text id="2007000">Learn to pilot an AC and master fundamental battle
+techniques from the TRAINING menu.
+
+• Complete the exercises using the training AC to earn
+   standardized training parts used for instruction.</text>
+<text id="2008000">Review data logs acquired on missions from
+the ARCHIVES menu.</text>
+<text id="2008100">From the TIPS menu, review the tutorials seen in
+training and check basic gameplay information.</text>
+<text id="2009000">Expend OST Chips in your possession to upgrade
+your AC's OS from the OS TUNING menu.
+
+Upgrading the OS unlocks features and improves
+functionality.
+
+• OST Chips can be obtained in the Arena.</text>
+<text id="2100000">The following feature is now available:
+
+• PARTS SHOP</text>
+<text id="2100001">%null%</text>
+<text id="2100002">%null%</text>
+<text id="2100003">%null%</text>
+<text id="2100004">%null%</text>
+<text id="2100005">%null%</text>
+<text id="2100006">%null%</text>
+<text id="2100007">%null%</text>
+<text id="2100008">%null%</text>
+<text id="2100009">%null%</text>
+<text id="2100010">New parts are now available for purchase.</text>
+<text id="2101000">The following features are now available:
+
+• OS TUNING
+• ARENA</text>
+<text id="2101001">%null%</text>
+<text id="2101002">%null%</text>
+<text id="2101003">%null%</text>
+<text id="2101004">%null%</text>
+<text id="2101005">%null%</text>
+<text id="2101006">%null%</text>
+<text id="2101007">%null%</text>
+<text id="2101008">%null%</text>
+<text id="2101009">%null%</text>
+<text id="2101010">New mercenary data added to the Arena.</text>
+<text id="2101011">%null%</text>
+<text id="2101012">%null%</text>
+<text id="2101013">%null%</text>
+<text id="2101014">%null%</text>
+<text id="2101015">%null%</text>
+<text id="2101016">%null%</text>
+<text id="2101017">%null%</text>
+<text id="2101018">%null%</text>
+<text id="2101019">%null%</text>
+<text id="2101020">The following feature is now available:
+
+• NEST</text>
+<text id="2101021">%null%</text>
+<text id="2101022">%null%</text>
+<text id="2101023">%null%</text>
+<text id="2101024">%null%</text>
+<text id="2101025">%null%</text>
+<text id="2101026">%null%</text>
+<text id="2101027">%null%</text>
+<text id="2101028">%null%</text>
+<text id="2101029">%null%</text>
+<text id="2101030">The ANALYSIS category has been added to the Arena.
+
+• Change &lt;?kgicon@1009?&gt; tabs in the ARENA menu to access ANALYSIS.</text>
+<text id="2101031">%null%</text>
+<text id="2101032">%null%</text>
+<text id="2101033">%null%</text>
+<text id="2101034">%null%</text>
+<text id="2101035">%null%</text>
+<text id="2101036">%null%</text>
+<text id="2101037">%null%</text>
+<text id="2101038">%null%</text>
+<text id="2101039">%null%</text>
+<text id="2101040">New craft data has been added to ANALYSIS in the Arena.</text>
+<text id="2103000">The following feature is now available:
+
+• SORTIE</text>
+<text id="2103001">%null%</text>
+<text id="2103002">%null%</text>
+<text id="2103003">%null%</text>
+<text id="2103004">%null%</text>
+<text id="2103005">%null%</text>
+<text id="2103006">%null%</text>
+<text id="2103007">%null%</text>
+<text id="2103008">%null%</text>
+<text id="2103009">%null%</text>
+<text id="2103010">The following feature is now available:
+
+• SORTIE &gt; TRAINING
+
+• Learn the fundamentals of piloting an AC. Complete
+   the exercises to earn standardized training parts
+   used for instruction.</text>
+<text id="2103011">%null%</text>
+<text id="2103012">%null%</text>
+<text id="2103013">%null%</text>
+<text id="2103014">%null%</text>
+<text id="2103015">%null%</text>
+<text id="2103016">%null%</text>
+<text id="2103017">%null%</text>
+<text id="2103018">%null%</text>
+<text id="2103019">%null%</text>
+<text id="2103020">New exercise data added to TRAINING.</text>
+<text id="2104000">You have been invited to join LOGHUNT,
+one of ALLMIND's mercenary support programs.
+
+• Discover and destroy targets marked with the LOGHUNT
+   target icon to obtain combat logs for submission.
+
+• Collect combat logs and improve your Hunter Class
+   to receive reward parts from ALLMIND.</text>
+<text id="2105000">The following feature is now available:
+
+• AC DESIGN</text>
+<text id="2106000">The Arquebus Corporation has issued you with
+the following prototype part.
+
+• Shoulder weapon: VE-60SNA ("Stun Needle Launcher")</text>
+<text id="2107000">You have completed the entire training program.</text>
+<text id="2107001">%null%</text>
+<text id="2107002">%null%</text>
+<text id="2107003">%null%</text>
+<text id="2107004">%null%</text>
+<text id="2107005">%null%</text>
+<text id="2107006">%null%</text>
+<text id="2107007">%null%</text>
+<text id="2107008">%null%</text>
+<text id="2107009">%null%</text>
+<text id="2107010">You have collected every combat log.</text>
+<text id="2107011">%null%</text>
+<text id="2107012">%null%</text>
+<text id="2107013">%null%</text>
+<text id="2107014">%null%</text>
+<text id="2107015">%null%</text>
+<text id="2107016">%null%</text>
+<text id="2107017">%null%</text>
+<text id="2107018">%null%</text>
+<text id="2107019">%null%</text>
+<text id="2107020">You have completed all combat aptitude
+evaluation programs.</text>
+<text id="2107021">%null%</text>
+<text id="2107022">%null%</text>
+<text id="2107023">%null%</text>
+<text id="2107024">%null%</text>
+<text id="2107025">%null%</text>
+<text id="2107026">%null%</text>
+<text id="2107027">%null%</text>
+<text id="2107028">%null%</text>
+<text id="2107029">%null%</text>
+<text id="2107030">You have completed all integration programs.</text>
+<text id="2107031">%null%</text>
+<text id="2107032">%null%</text>
+<text id="2107033">%null%</text>
+<text id="2107034">%null%</text>
+<text id="2107035">%null%</text>
+<text id="2107036">%null%</text>
+<text id="2107037">%null%</text>
+<text id="2107038">%null%</text>
+<text id="2107039">%null%</text>
+<text id="2107040">You have completed every mission.</text>
+<text id="2107041">%null%</text>
+<text id="2107042">%null%</text>
+<text id="2107043">%null%</text>
+<text id="2107044">%null%</text>
+<text id="2107045">%null%</text>
+<text id="2107046">%null%</text>
+<text id="2107047">%null%</text>
+<text id="2107048">%null%</text>
+<text id="2107049">%null%</text>
+<text id="2107050">You have completed every mission with an S-Rank rating.</text>
+<text id="2107070">You have obtained every archive entry.</text>
+<text id="2201000">Hand weapons can be installed to the left and right
+arm units of an AC.
+
+These weapons range from machine guns and other small
+arms to heavier weapons, such as a bazookas, that offer
+high firepower at the cost of forcing the AC to assume
+a firing stance.
+
+Melee weapons can only be installed to the left hand.
+However, they all feature excellent attack power and
+impact potency.</text>
+<text id="2202000">Shoulder weapons can be installed to the left and
+right back units of an AC.
+
+These weapons include missile launchers, which can
+be used during movement, as well as heavy weapons
+like cannons that are too large to be held in the hand.
+
+Shields can only be installed to the left shoulder and
+offer varying defensive performances and properties.</text>
+<text id="2203000">One of the components that constitute an AC frame.
+
+Heads influence system abnormality resistance and
+scan performance.
+
+They also affect AP and defensive performance.</text>
+<text id="2204000">One of the components that constitute an AC frame.
+
+Cores apply adjustments to the performance of
+"inner" parts, namely the boosters and generator.
+
+They also affect AP and defensive performance.</text>
+<text id="2205000">One of the components that constitute an AC frame.
+
+Arms influence the AC's hand weapon carrying capacity,
+the precision of predictive fire for ranged weapons,
+the attack power of melee weapons, and so on.
+
+They also affect AP and defensive performance.</text>
+<text id="2206000">One of the components that constitute an AC frame.
+
+Legs influence overall loading capacity for the AC and
+mobility of on-the-ground movement. They also affect
+AP and defensive performance.
+
+There are multiple types of leg units with different
+behavior for jumps, Quick Boosts, and so on.</text>
+<text id="2207000">Boosters greatly influence AC mobility.
+
+Your choice of booster determines the speed of the AC's
+movements, its speed when ascending, and the thrust of
+Quick Boosts or Assault Boosts.
+
+However, be aware that higher-performing boosters tend
+to consume greater and greater amounts of EN (energy).</text>
+<text id="2208000">The FCS (Fire Control System) greatly influences
+an AC's offensive performance.
+
+Your choice of FCS determines target tracking at
+close, medium, or long range, and also affects the time
+it takes to achieve missile lock-on or multi-lock.
+
+Make sure you choose an FCS that is appropriate for
+the weapons you have chosen.</text>
+<text id="2209000">Generators greatly influence basic AC performance.
+
+Your choice of generator influences the range of parts
+you can install to your AC and determines EN capacity
+and recovery speed. When selecting parts, make sure
+that you choose those that are most compatible with
+your AC assembly.</text>
+<text id="2210000">Core Expansion: Assault Armor. Creates a pulse explosion
+centered on the AC, canceling out incoming enemy fire
+and creating a damaging area-of-effect shockwave.
+
+With Assault Armor equipped,
+&lt;?kgicon@22?&gt; + &lt;?kgicon@15?&gt;: Activate Assault Armor</text>
+<text id="2211000">Core Expansion: Pulse Armor. Creates a pulse barrier
+that trails the AC, dramatically increasing defensive
+performance until it exceeds its durability or time
+limit.
+
+With Pulse Armor equipped,
+&lt;?kgicon@22?&gt; + &lt;?kgicon@15?&gt;: Activate Pulse Armor</text>
+<text id="2212000">Core Expansion: Pulse Protection. Creates a pulse barrier
+in a fixed position, providing cover from enemy fire until
+the barrier reaches its durability limit. The barrier is
+not permanent and will disappear after time has passed.
+
+With Pulse Protection equipped,
+&lt;?kgicon@22?&gt; + &lt;?kgicon@15?&gt;: Activate Pulse Protection</text>
+<text id="2213000">Core Expansion: Terminal Armor. An emergency variant
+of Pulse Armor that trails the AC, activating when the AC
+has reached critical AP damage.
+
+When equipped, Terminal Armor activates automatically
+when your AC is about to be destroyed.</text>
+<text id="2214000">System unlock: Weight Control.
+
+Enables you to sortie using an AC that is over the weight
+limit, which is normally prohibited. Furthermore, this
+feature also allows you to manually purge (discard)
+weapons.
+
+Purging weapons reduces the weight of your AC, allowing
+you to tactically switch your craft from an overweight
+state to normal mobility.
+
+&lt;?kgicon@26?&gt; + weapon input: Manually Purge Weapon</text>
+<text id="2215000">System unlock: Boost Kick.
+
+Allows you to kick using the AC's legs as a follow-up
+action after performing an Assault Boost.
+
+This attack is influenced by the speed and weight of
+the AC, making it a viable option for overloading an
+enemy's ACS.
+
+&lt;?kgicon@9?&gt; during Assault Boost: Boost Kick</text>
+<text id="2216000">System unlock: Weapon Bay.
+
+Enables you to equip the left and right shoulders of your
+AC with two additional hand weapons.
+
+With hand weapons equipped to shoulder units:
+&lt;?kgicon@20?&gt;: Switch Right Hand Weapon
+&lt;?kgicon@19?&gt;: Switch Left Hand Weapon</text>
+<text id="2217000">System unlock: Manual Aiming.
+
+Enables manual aiming mode. Generally, it is unrealistic
+to expect to land attacks in this mode, but it does enable
+you to "lead" your shots if you can correctly predict
+enemy movements; that is to say, to shoot where you
+expect the enemy to be, not where the enemy is.
+
+Hold &lt;?kgicon@15?&gt;: Enable Manual Aiming
+&lt;?kgicon@15?&gt; with Manual Aiming ON: Disable Manual Aiming</text>
+<text id="2218000">System unlock: Quick Turn.
+
+Enables the ability to perform snap turns to side or
+rear directions.
+
+&lt;?kgicon@6?&gt; + &lt;?kgicon@2?&gt;: Quick Turn in input direction</text>
+<text id="2219000">AC system abnormality: ACS Failure
+
+Excessively high temperatures cause ACS errors, with
+the result that incoming impact damage is increased.
+This in turn makes the AC more vulnerable to stagger.
+
+AC systems will recover a short time after the effect
+has been triggered.</text>
+<text id="2220000">AC system abnormality: Shock
+
+A sudden overload forces a discharge of the AC's
+electrical systems, resulting in unavoidable damage.</text>
+<text id="2221000">Basic AC controls are as follows.
+&lt;?kgicon@91?&gt;: Camera
+&lt;?kgicon@90?&gt;: Movement
+&lt;?kgicon@90?&gt; + &lt;?kgicon@6?&gt;: Boost Movement ON
+&lt;?kgicon@8?&gt;: Jump (Hold: Ascend)
+&lt;?kgicon@18?&gt;: Use Right Hand Weapon
+&lt;?kgicon@17?&gt;: Use Left Hand Weapon
+&lt;?kgicon@20?&gt;: Use Right Shoulder Weapon
+&lt;?kgicon@19?&gt;: Use Left Shoulder Weapon</text>
+<text id="2222000">While charging a ranged weapon,
+&lt;?kgicon@22?&gt;: Cancel Charge
+
+During multi-lock,
+&lt;?kgicon@22?&gt;: Cancel Multi-Lock
+
+During Assault Boost,
+&lt;?kgicon@3?&gt;: Cancel Assault Boost</text>
+<text id="2223000">AC system abnormality: Camera Disruption
+
+Cameras are impeded by a jamming effect,
+reducing lock-on range.
+
+System functionality can be restored by escaping
+the area of effect.</text>
+</entries>
+</fmg>
